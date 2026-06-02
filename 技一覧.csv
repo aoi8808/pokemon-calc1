@@ -1,0 +1,1853 @@
+名前,タイプ,分類,威力,PP,説明,効果
+はたく,ノーマル,ぶつり,40,35,長いしっぽや手などを使って相手をはたいて攻撃する。,Inflicts regular damage.
+からてチョップ,かくとう,ぶつり,50,25,鋭いチョップで相手をたたいて攻撃する。急所に当たりやすい。,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+おうふくビンタ,ノーマル,ぶつり,15,10,おうふくビンタで相手をたたいて攻撃する。２ー５回のあいだ連続でだす。,"Inflicts regular damage.  Hits 2?5 times in one turn.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use."
+れんぞくパンチ,ノーマル,ぶつり,18,15,どとうのパンチで相手をなぐりつけて攻撃する。２ー５回のあいだ連続でだす。,"Inflicts regular damage.  Hits 2?5 times in one turn.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use."
+メガトンパンチ,ノーマル,ぶつり,80,20,力をこめたパンチで相手を攻撃する。,Inflicts regular damage.
+ネコにこばん,ノーマル,ぶつり,40,20,相手の体に小判を投げつけて攻撃する。戦闘のあとでお金がもらえる。,"Inflicts regular damage.  After the battle ends, the winner receives five times the user's level in extra money for each time this move was used."
+ほのおのパンチ,ほのお,ぶつり,75,15,炎をこめたパンチで相手を攻撃する。やけど状態にすることがある。,Inflicts regular damage.  Has a 10% chance to burn the target.
+れいとうパンチ,こおり,ぶつり,75,15,冷気をこめたパンチで相手を攻撃する。こおり状態にすることがある。,Inflicts regular damage.  Has a 10% chance to freeze the target.
+かみなりパンチ,でんき,ぶつり,75,15,電撃をこめたパンチで相手を攻撃する。まひ状態にすることがある。,Inflicts regular damage.  Has a 10% chance to paralyze the target.
+ひっかく,ノーマル,ぶつり,40,35,硬くとがった鋭いツメで相手をひっかいて攻撃する。,Inflicts regular damage.
+はさむ,ノーマル,ぶつり,55,30,相手を両側からはさんでダメージをあたえる。,Inflicts regular damage.
+ハサミギロチン,ノーマル,ぶつり,,5,大きなハサミで相手を切り裂いて攻撃する。当たれば一撃でひんしにする。,"Inflicts damage equal to the target's max HP.  Ignores accuracy and evasion modifiers.  This move's accuracy is 30% plus 1% for each level the user is higher than the target.  If the user is a lower level than the target, this move will fail.
+
+Because this move inflicts a specific and finite amount of damage, endure still prevents the target from fainting.
+
+The effects of lock on, mind reader, and no guard still apply, as long as the user is equal or higher level than the target.  However, they will not give this move a chance to break through detect or protect."
+かまいたち,ノーマル,とくしゅ,80,10,風の刃をつくり２ターン目に相手を攻撃する。急所に当たりやすい。,"Inflicts regular damage.  User's critical hit rate is one level higher when using this move.  User charges for one turn before attacking.
+
+This move cannot be selected by sleep talk."
+つるぎのまい,ノーマル,へんか,,20,戦いの舞を激しくおどって気合を高める。自分の攻撃をぐーんとあげる。,Raises the user's Attack by two stages.
+いあいぎり,ノーマル,ぶつり,50,30,カマやツメなどで相手を切りつけて攻撃する。細い木も切ることができる。,Inflicts regular damage.
+かぜおこし,ひこう,とくしゅ,40,35,翼でおこした激しい風を相手にぶつけて攻撃する。,"Inflicts regular damage.
+
+If the target is under the effect of bounce, fly, or sky drop, this move will hit with double power."
+つばさでうつ,ひこう,ぶつり,60,35,大きくひろげたりっぱな翼を相手にぶつけて攻撃する。,Inflicts regular damage.
+ふきとばし,ノーマル,へんか,,20,相手を吹きとばして控えのポケモンをひきずりだす。野生の場合は戦闘が終わる。,"Switches the target out for another of its trainer's Pok?mon selected at random.  Wild battles end immediately.
+
+Doesn't affect Pok?mon with suction cups or under the effect of ingrain."
+そらをとぶ,ひこう,ぶつり,90,15,１ターン目で空へ飛び２ターン目に相手を攻撃する。知っている街に飛ぶこともできる。,"Inflicts regular damage.  User flies high into the air for one turn, becoming immune to attack, and hits on the second turn.
+
+During the immune turn, gust, hurricane, sky uppercut, smack down, thunder, twister, and whirlwind still hit the user normally.  gust and twister also have double power against the user.
+
+The damage from hail and sandstorm still applies during the immune turn.
+
+The user may be hit during its immune turn if under the effect of lock on, mind reader, or no guard.
+
+This move cannot be used while gravity is in effect.
+
+This move cannot be selected by sleep talk."
+しめつける,ノーマル,ぶつり,15,20,長い体やつるなどを使い４ー５ターンのあいだ相手を締めつけて攻撃する。,"Inflicts regular damage.  For the next 2?5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+
+rapid spin cancels this effect."
+たたきつける,ノーマル,ぶつり,80,20,長いしっぽやつるなどを使い相手をたたきつけて攻撃する。,Inflicts regular damage.
+つるのムチ,くさ,ぶつり,45,25,ムチのようにしなる細長いつるで相手をたたきつけて攻撃する。,Inflicts regular damage.
+ふみつけ,ノーマル,ぶつり,65,20,大きな足で相手を踏みつけて攻撃する。相手をひるませることがある。,"Inflicts regular damage.  Has a 30% chance to make the target flinch.
+
+Power is doubled against Pok?mon that have used minimize since entering the field."
+にどげり,かくとう,ぶつり,30,30,２本の足で相手をけとばして攻撃する。２回連続でダメージを与える。,Inflicts regular damage.  Hits twice in one turn.
+メガトンキック,ノーマル,ぶつり,120,5,ものすごい力をこめたキックで相手をけとばして攻撃する。,Inflicts regular damage.
+とびげり,かくとう,ぶつり,100,10,高いジャンプからのキックで相手を攻撃する。はずすと自分がダメージを受ける。,"Inflicts regular damage. If this move misses, is blocked by protect or detect, or has no effect, the user takes damage equal to half of its max HP rounded down.
+
+This move cannot be used while gravity is in effect."
+まわしげり,かくとう,ぶつり,60,15,体を素早く回転させながらけとばして攻撃する。相手をひるませることがある。,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+すなかけ,じめん,へんか,,15,相手の顔に砂をかけて命中率をさげる。,Lowers the target's accuracy by one stage.
+ずつき,ノーマル,ぶつり,70,15,頭を突きだしてまっすぐつっこんで攻撃する。相手をひるませることがある。,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+つのでつく,ノーマル,ぶつり,65,25,鋭くとがったつので相手を攻撃する。,Inflicts regular damage.
+みだれづき,ノーマル,ぶつり,15,20,つのやくちばしで相手をつついて攻撃する。２ー５回のあいだ連続でだす。,"Inflicts regular damage.  Hits 2?5 times in one turn.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use."
+つのドリル,ノーマル,ぶつり,,5,回転するつのを相手に突き刺して攻撃する。当たれば一撃でひんしにする。,"Inflicts damage equal to the target's max HP.  Ignores accuracy and evasion modifiers.  This move's accuracy is 30% plus 1% for each level the user is higher than the target.  If the user is a lower level than the target, this move will fail.
+
+Because this move inflicts a specific and finite amount of damage, endure still prevents the target from fainting.
+
+The effects of lock on, mind reader, and no guard still apply, as long as the user is equal or higher level than the target.  However, they will not give this move a chance to break through detect or protect."
+たいあたり,ノーマル,ぶつり,40,35,相手にむかって全身でぶつかっていき攻撃する。,Inflicts regular damage.
+のしかかり,ノーマル,ぶつり,85,15,全身で相手にのしかかり攻撃する。まひ状態にすることがある。,Inflicts regular damage.  Has a 30% chance to paralyze the target.
+まきつく,ノーマル,ぶつり,15,20,長い体やつるなどをつかって４ー５ターンのあいだ相手にまきついて攻撃する。,"Inflicts regular damage.  For the next 2?5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+
+rapid spin cancels this effect."
+とっしん,ノーマル,ぶつり,90,20,すごい勢いで相手にぶつかって攻撃する。自分も少しダメージを受ける。,Inflicts regular damage.  User takes 1/4 the damage it inflicts in recoil.
+あばれる,ノーマル,ぶつり,120,10,２ー３ターンのあいだ暴れまくって相手を攻撃する。暴れたあとは混乱する。,"Inflicts regular damage.  User is forced to attack with this move for 2?3 turns,selected at random.  After the last hit, the user becomes confused.
+
+safeguard does not protect against the confusion from this move."
+すてみタックル,ノーマル,ぶつり,120,15,命を懸けて相手に突進して攻撃する。自分もかなりダメージを受ける。,Inflicts regular damage.  User takes 1/3 the damage it inflicts in recoil.
+しっぽをふる,ノーマル,へんか,,30,しっぽを左右にかわいくふって油断を誘う。相手の防御をさげる。,Lowers the target's Defense by one stage.
+どくばり,どく,ぶつり,15,35,毒のあるハリを相手に突き刺して攻撃する。毒状態にすることがある。,Inflicts regular damage.  Has a 30% chance to poison the target.
+ダブルニードル,むし,ぶつり,25,20,２本のハリを相手に突き刺し２回連続でダメージ。毒状態にすることがある。,Inflicts regular damage.  Hits twice in the same turn.  Has a 20% chance to poison the target.
+ミサイルばり,むし,ぶつり,25,20,鋭いハリを相手に発射して攻撃する。２ー５回のあいだ連続でだす。,"Inflicts regular damage.  Hits 2?5 times in one turn.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use."
+にらみつける,ノーマル,へんか,,30,鋭い目つきでおびえさせて相手の防御をさげる。,Lowers the target's Defense by one stage.
+かみつく,あく,ぶつり,60,25,鋭くとがった歯でかみついて攻撃する。相手をひるませることがある。,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+なきごえ,ノーマル,へんか,,40,かわいいなきごえを聞かせて気をひき油断をさせて相手の攻撃をさげる。,Lowers the target's Attack by one stage.
+ほえる,ノーマル,へんか,,20,相手を逃がして控えのポケモンをひきずりだす。野生の場合は戦闘が終わる。,"Switches the target out for another of its trainer's Pok?mon selected at random.  Wild battles end immediately.
+
+Doesn't affect Pok?mon with suction cups or under the effect of ingrain."
+うたう,ノーマル,へんか,,15,心地好いきれいな歌声を聞かせて相手を眠り状態にする。,Puts the target to sleep.
+ちょうおんぱ,ノーマル,へんか,,20,特殊な音波を体から発して相手を混乱させる。,Confuses the target.
+ソニックブーム,ノーマル,とくしゅ,,20,衝撃波を相手にぶつけて攻撃する。２０のダメージを決まって与える。,Inflicts exactly 20 damage.
+かなしばり,ノーマル,へんか,,20,相手の動きをとめて直前にだしていた技を４ターンのあいだ使えなくする。,"Disables the target's last used move, preventing its use for 4?7 turns, selected at random, or until the target leaves the field.  If the target hasn't used a move since entering the field, if it tried to use a move this turn and failed,  if its last used move has 0 PP remaining, or if it already has a move disabled, this move will fail."
+ようかいえき,どく,とくしゅ,40,30,強い酸を相手にかけて攻撃する。相手の特防をさげることがある。,Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.
+ひのこ,ほのお,とくしゅ,40,25,小さな炎を相手に発射して攻撃する。やけど状態にすることがある。,Inflicts regular damage.  Has a 10% chance to burn the target.
+かえんほうしゃ,ほのお,とくしゅ,90,15,激しい炎を相手に発射して攻撃する。やけど状態にすることがある。,Inflicts regular damage.  Has a 10% chance to burn the target.
+しろいきり,こおり,へんか,,30,白い霧で体をおおう。５ターンのあいだ相手に能力をさげられなくなる。,"Pok?mon on the user's side of the field are immune to stat-lowering effects for five turns.
+
+guard swap, heart swap, and power swap may still be used.
+
+defog used by an opponent will end this effect."
+みずでっぽう,みず,とくしゅ,40,25,水を勢いよく相手に発射して攻撃する。,Inflicts regular damage.
+ハイドロポンプ,みず,とくしゅ,110,5,大量の水を激しい勢いで相手に発射して攻撃する。,Inflicts regular damage.
+なみのり,みず,とくしゅ,90,15,大きな波で自分の周りにいるものを攻撃する。,"Inflicts regular damage.
+
+If the target is in the first turn of dive, this move will hit with double power."
+れいとうビーム,こおり,とくしゅ,90,10,凍えるビームを相手に発射して攻撃する。こおり状態にすることがある。,Inflicts regular damage.  Has a 10% chance to freeze the target.
+ふぶき,こおり,とくしゅ,110,5,激しい吹雪を相手に吹きつけて攻撃する。こおり状態にすることがある。,"Inflicts regular damage.  Has a 10% chance to freeze the target.
+
+During hail, this move has 100% accuracy.  It also has a (100 - accuracy)% chance to break through the protection of protect and detect."
+サイケこうせん,エスパー,とくしゅ,65,20,不思議な光線を相手に発射して攻撃する。混乱させることがある。,Inflicts regular damage.  Has a 10% chance to confuse the target.
+バブルこうせん,みず,とくしゅ,65,20,泡を勢いよく相手に発射して攻撃する。素早さをさげることがある。,Inflicts regular damage.  Has a 10% chance to lower the target's Speed by one stage.
+オーロラビーム,こおり,とくしゅ,65,20,にじいろのビームを相手に発射して攻撃する。攻撃をさげることがある。,Inflicts regular damage.  Has a 10% chance to lower the target's Attack by one stage.
+はかいこうせん,ノーマル,とくしゅ,150,5,強い光線を相手に発射して攻撃する。次のターンは動けなくなる。,"Inflicts regular damage.  User loses its next turn to ""recharge"", and cannot attack or switch out during that turn."
+つつく,ひこう,ぶつり,35,35,鋭くとがったくちばしやつので相手を突いて攻撃する。,Inflicts regular damage.
+ドリルくちばし,ひこう,ぶつり,80,20,回転しながらとがったくちばしを相手に突き刺して攻撃する。,Inflicts regular damage.
+じごくぐるま,かくとう,ぶつり,80,20,地面に自分ごと相手を投げつけて攻撃する。自分も少しダメージを受ける。,Inflicts regular damage.  User takes 1/4 the damage it inflicts in recoil.
+けたぐり,かくとう,ぶつり,,20,足を強くけり相手を転ばせて攻撃する。相手が重いほど威力があがる。,"Inflicts regular damage.  Power increases with the target's weight in kilograms, to a maximum of 120.
+
+Target's weight | Power
+--------------- | ----:
+Up to 10kg      |    20
+Up to 25kg      |    40
+Up to 50kg      |    60
+Up to 100kg     |    80
+Up to 200kg     |   100
+Above 200kg     |   120
+"
+カウンター,かくとう,ぶつり,,20,相手から受けた物理攻撃のダメージを２倍にして同じ相手に返す。,"Targets the last opposing Pok?mon to hit the user with a physical move this turn.  Inflicts twice the damage that move did to the user.  If there is no eligible target, this move will fail.  Type immunity applies, but other type effects are ignored.
+
+This move cannot be copied by mirror move, nor selected by assist or metronome."
+ちきゅうなげ,かくとう,ぶつり,,20,引力を使い投げとばす。自分のレベルと同じダメージを相手に与える。,"Inflicts damage equal to the user's level.  Type immunity applies, but other type effects are ignored."
+かいりき,ノーマル,ぶつり,80,15,こん身の力で相手をなぐりつけて攻撃する。重たい岩を押すこともできる。,Inflicts regular damage.
+すいとる,くさ,とくしゅ,20,25,養分を吸い取り攻撃する。相手に与えたダメージの半分のＨＰを回復できる。,Inflicts regular damage.  Drains half the damage inflicted to heal the user.
+メガドレイン,くさ,とくしゅ,40,15,養分を吸い取り攻撃する。相手に与えたダメージの半分のＨＰを回復できる。,Inflicts regular damage.  Drains half the damage inflicted to heal the user.
+やどりぎのタネ,くさ,へんか,,10,植えつけた相手のＨＰを毎ターン少しだけ吸い取り自分のＨＰを回復する。,"Plants a seed on the target that drains 1/8 of its max HP at the end of every turn and heals the user for the amount taken.  Has no effect on grass Pok?mon.  The seed remains until the target leaves the field.
+
+The user takes damage instead of being healed if the target has liquid ooze.
+
+rapid spin will remove this effect.
+
+This effect is passed on by baton pass."
+せいちょう,ノーマル,へんか,,20,体を一気に大きく生長させて攻撃と特攻をあげる。,"Raises the user's Attack and Special Attack by one stage each.  During sunny day, raises both stats by two stages."
+はっぱカッター,くさ,ぶつり,55,25,はっぱをとばして相手を切りつけて攻撃する。急所に当たりやすい。,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+ソーラービーム,くさ,とくしゅ,120,10,１ターン目に光をいっぱいに集め２ターン目に光の束を発射して攻撃する。,"Inflicts regular damage.  User charges for one turn before attacking.
+
+During sunny day, the charge turn is skipped.
+
+During hail, rain dance, or sandstorm, power is halved.
+
+This move cannot be selected by sleep talk."
+どくのこな,どく,へんか,,35,毒のある粉をたくさんふりまいて相手を毒状態にする。,Poisons the target.
+しびれごな,くさ,へんか,,30,しびれる粉をたくさんふりまいて相手をまひ状態にする。,Paralyzes the target.
+ねむりごな,くさ,へんか,,15,眠くなる粉をたくさんふりまいて相手を眠り状態にする。,Puts the target to sleep.
+はなびらのまい,くさ,とくしゅ,120,10,２ー３ターンのあいだ花をまきちらして相手を攻撃する。まきちらしたあとは混乱する。,"Inflicts regular damage.  User is forced to attack with this move for 2?3 turns,selected at random.  After the last hit, the user becomes confused.
+
+safeguard does not protect against the confusion from this move."
+いとをはく,むし,へんか,,40,口から吹きだした糸をまきつけて相手の素早さをがくっとさげる。,Lowers the target's Speed by two stages.
+りゅうのいかり,ドラゴン,とくしゅ,,10,怒りの衝撃波を相手にぶつけて攻撃する。４０のダメージを決まって与える。,Inflicts exactly 40 damage.
+ほのおのうず,ほのお,とくしゅ,35,15,激しく渦をまく炎の中に４ー５ターンのあいだ相手を閉じこめて攻撃する。,"Inflicts regular damage.  For the next 2?5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+
+rapid spin cancels this effect."
+でんきショック,でんき,とくしゅ,40,30,電気の刺激を相手に浴びせて攻撃する。まひ状態にすることがある。,Inflicts regular damage.  Has a 10% chance to paralyze the target.
+１０まんボルト,でんき,とくしゅ,90,15,強い電撃を相手に浴びせて攻撃する。まひ状態にすることがある。,Inflicts regular damage.  Has a 10% chance to paralyze the target.
+でんじは,でんき,へんか,,20,弱い電撃を浴びせることで相手をまひ状態にする。,Paralyzes the target.
+かみなり,でんき,とくしゅ,110,10,激しい雷を相手に落として攻撃する。まひ状態にすることがある。,"Inflicts regular damage.  Has a 30% chance to paralyze the target.
+
+During rain dance, this move has 100% accuracy.  It also has a (100 - accuracy)% chance to break through the protection of protect and detect.
+
+During sunny day, this move has 50% accuracy."
+いわおとし,いわ,ぶつり,50,15,小さな岩を持ちあげて相手に投げつけて攻撃する。,Inflicts regular damage.
+じしん,じめん,ぶつり,100,10,地震の衝撃で自分の周りにいるものを攻撃する。,"Inflicts regular damage.
+
+If the target is in the first turn of dig, this move will hit with double power."
+じわれ,じめん,ぶつり,,5,地割れの裂け目に相手を落として攻撃する。当たれば一撃でひんしにする。,"Inflicts damage equal to the target's max HP.  Ignores accuracy and evasion modifiers.  This move's accuracy is 30% plus 1% for each level the user is higher than the target.  If the user is a lower level than the target, this move will fail.
+
+Because this move inflicts a specific and finite amount of damage, endure still prevents the target from fainting.
+
+The effects of lock on, mind reader, and no guard still apply, as long as the user is equal or higher level than the target.  However, they will not give this move a chance to break through detect or protect."
+あなをほる,じめん,ぶつり,80,10,１ターン目に潜り２ターン目で相手を攻撃する。洞窟からの脱出もできる。,"Inflicts regular damage.  User digs underground for one turn, becoming immune to attack, and hits on the second turn.
+
+During the immune turn, earthquake, fissure, and magnitude still hit the user normally, and their power is doubled if appropriate.
+
+The user may be hit during its immune turn if under the effect of lock on, mind reader, or no guard.
+
+This move cannot be selected by sleep talk."
+どくどく,どく,へんか,,10,相手を猛毒の状態にする。ターンがすすむほど毒のダメージが増えていく。,Badly poisons the target.  Never misses when used by a poison-type Pok?mon.
+ねんりき,エスパー,とくしゅ,50,25,弱い念力を相手に送って攻撃する。相手を混乱させることがある。,Inflicts regular damage.  Has a 10% chance to confuse the target.
+サイコキネシス,エスパー,とくしゅ,90,10,強い念力を相手に送って攻撃する。相手の特防をさげることがある。,Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.
+さいみんじゅつ,エスパー,へんか,,20,眠気を誘う暗示をかけて相手を眠り状態にする。,Puts the target to sleep.
+ヨガのポーズ,エスパー,へんか,,40,眠っている力を体の奥からひきだして自分の攻撃をあげる。,Raises the user's Attack by one stage.
+こうそくいどう,エスパー,へんか,,30,力をぬいて体を軽くして高速で動く。自分の素早さをぐーんとあげる。,Raises the user's Speed by two stages.
+でんこうせっか,ノーマル,ぶつり,40,30,目にも留まらぬものすごい速さで相手につっこむ。必ず先制攻撃できる。,Inflicts regular damage.
+いかり,ノーマル,ぶつり,20,20,技をだしたときに攻撃を受けると怒りの力で攻撃があがる。,"Inflicts regular damage.  Every time the user is hit after it uses this move but before its next action, its Attack raises by one stage."
+テレポート,エスパー,へんか,,20,野生ポケモンとの戦闘をやめる。最後にはいったポケセンのある街にも行ける。,Does nothing.  Wild battles end immediately.
+ナイトヘッド,ゴースト,とくしゅ,,15,恐ろしい幻をみせて自分のレベルと同じだけのダメージを相手に与える。,"Inflicts damage equal to the user's level.  Type immunity applies, but other type effects are ignored."
+ものまね,ノーマル,へんか,,10,相手が最後に使った技を戦闘のあいだ自分の技にすることができる。,"This move is replaced by the target's last successfully used move, and its PP changes to 5.  If the target hasn't used a move since entering the field, if it tried to use a move this turn and failed, or if the user already knows the targeted move, this move will fail.  This effect vanishes when the user leaves the field.
+
+If chatter, metronome, mimic, sketch, or struggle is selected, this move will fail.
+
+This move cannot be copied by mirror move, nor selected by assist or metronome, nor forced by encore."
+いやなおと,ノーマル,へんか,,40,おもわず耳をふさぎたくなるいやなおとをだして相手の防御をがくっとさげる。,Lowers the target's Defense by two stages.
+かげぶんしん,ノーマル,へんか,,15,素早い動きで分身をつくり相手をまどわせて回避率をあげる。,Raises the user's evasion by one stage.
+じこさいせい,ノーマル,へんか,,5,細胞を再生させて自分の最大ＨＰの半分のＨＰを回復する。,Heals the user for half its max HP.
+かたくなる,ノーマル,へんか,,30,全身に力をこめて体を硬くして自分の防御をあげる。,Raises the user's Defense by one stage.
+ちいさくなる,ノーマル,へんか,,10,体をちぢめて小さくみせて自分の回避率をぐーんとあげる。,"Raises the user's evasion by two stages.
+
+stomp and steamroller have double power against Pok?mon that have used this move since entering the field."
+えんまく,ノーマル,へんか,,20,煙や墨などを吹きかけて相手の命中率をさげる。,Lowers the target's accuracy by one stage.
+あやしいひかり,ゴースト,へんか,,10,怪しい光を相手にみせてまどわせる。相手を混乱させる。,Confuses the target.
+からにこもる,みず,へんか,,40,殻に潜りこんで身を守り自分の防御をあげる。,Raises the user's Defense by one stage.
+まるくなる,ノーマル,へんか,,40,体をまるめてちぢこまり自分の防御をあげる。,"Raises user's Defense by one stage.
+
+After this move is used, the power of ice ball and rollout are doubled until the user leaves the field."
+バリアー,エスパー,へんか,,20,頑丈な壁をつくって自分の防御をぐーんとあげる。,Raises the user's Defense by two stages.
+ひかりのかべ,エスパー,へんか,,30,５ターンのあいだ不思議なかべで相手から受ける特殊攻撃のダメージを弱める。,"Erects a barrier around the user's side of the field that reduces damage from special attacks by half for five turns.  In double battles, the reduction is 1/3.  Critical hits are not affected by the barrier.
+
+If the user is holding light clay, the barrier lasts for eight turns.
+
+brick break or defog used by an opponent will destroy the barrier."
+くろいきり,こおり,へんか,,30,黒い霧をだして戦闘にでているポケモン全員の能力変化をもとにもどす。,"Removes stat, accuracy, and evasion modifiers from every Pok?mon on the field.
+
+This does not count as a stat reduction for the purposes of clear body or white smoke."
+リフレクター,エスパー,へんか,,20,５ターンのあいだ不思議なかべで相手から受ける物理攻撃のダメージを弱める。,"Erects a barrier around the user's side of the field that reduces damage from physical attacks by half for five turns.  In double battles, the reduction is 1/3.  Critical hits are not affected by the barrier.
+
+If the user is holding light clay, the barrier lasts for eight turns.
+
+brick break or defog used by an opponent will destroy the barrier."
+きあいだめ,ノーマル,へんか,,30,深く息を吸い気合をこめる。自分の攻撃が急所に当たりやすくなる。,"User's critical hit rate is two levels higher until it leaves the field.  If the user has already used focus energy since entering the field, this move will fail.
+
+This effect is passed on by baton pass."
+がまん,ノーマル,ぶつり,,10,２ターンのあいだ攻撃にたえて受けたダメージを２倍にして相手に返す。,"User waits for two turns.  On the second turn, the user inflicts twice the damage it accumulated on the last Pok?mon to hit it.  Damage inflicted is typeless.
+
+This move cannot be selected by sleep talk."
+ゆびをふる,ノーマル,へんか,,10,指をふり自分の脳を刺激してすべての技のなかからどれか１つをくりだす。,"Selects any move at random and uses it.  Moves the user already knows are not eligible.  Assist, meta, protection, and reflection moves are also not eligible; specifically, assist, chatter, copycat, counter, covet, destiny bond, detect, endure, feint, focus punch, follow me, helping hand, me first, metronome, mimic, mirror coat, mirror move, protect, quick guard, sketch, sleep talk, snatch, struggle, switcheroo, thief, trick, and wide guard will not be selected by this move.
+
+This move cannot be copied by mimic or mirror move, nor selected by assist, metronome, or sleep talk."
+オウムがえし,ひこう,へんか,,20,相手の使った技をまねして自分も同じ技を使う。,"Uses the last move targeted at the user by a Pok?mon still on the field.  A move counts as targeting the user even if it hit multiple Pok?mon, as long as the user was one of them; however, moves targeting the field itself do not count.  If the user has not been targeted by an appropriate move since entering the field, or if no Pok?mon that targeted the user remains on the field, this move will fail.
+
+Moves that failed, missed, had no effect, or were blocked are still copied.
+
+Assist moves, time-delayed moves, “meta” moves that operate on other moves/Pok?mon/abilities, and some other special moves cannot be copied and are ignored; if the last move to hit the user was such a move, the previous move will be used instead.  The full list of ignored moves is: acid armor, acupressure, after you, agility, ally switch, amnesia, aqua ring, aromatherapy, aromatic mist, assist, autotomize, barrier, baton pass, belch, belly drum, bide, bulk up, calm mind, camouflage, celebrate, charge, coil, conversion, conversion 2, copycat, cosmic power, cotton guard, counter, crafty shield, curse, defend order, defense curl, destiny bond, detect, doom desire, double team, dragon dance, electric terrain, endure, final gambit, flower shield, focus energy, focus punch, follow me, future sight, geomancy, grassy terrain, gravity, growth, grudge, guard split, hail, happy hour, harden, haze, heal bell, heal order, heal pulse, healing wish, helping hand, hold hands, hone claws, howl, imprison, ingrain, ion deluge, iron defense, kings shield, light screen, lucky chant, lunar dance, magic coat, magnet rise, magnetic flux, mat block, me first, meditate, metronome, milk drink, mimic, minimize, mirror coat, mirror move, mist, misty terrain, moonlight, morning sun, mud sport, nasty plot, nature power, perish song, power split, power trick, protect, psych up, quick guard, quiver dance, rage powder, rain dance, recover, recycle, reflect, reflect type, refresh, rest, rock polish, role play, roost, rototiller, safeguard, sandstorm, shadow blast, shadow bolt, shadow half, shadow rush, shadow shed, shadow sky, shadow storm, shadow wave, sharpen, shell smash, shift gear, sketch, slack off, sleep talk, snatch, soft boiled, spikes, spiky shield, spit up, splash, stealth rock, sticky web, stockpile, struggle, substitute, sunny day, swallow, swords dance, synthesis, tail glow, tailwind, teleport, toxic spikes, transform, water sport, wide guard, wish, withdraw and work up.
+
+This move cannot be selected by assist, metronome, or sleep talk, nor forced by encore."
+じばく,ノーマル,ぶつり,200,5,爆発をおこして自分の周りにいるものを攻撃する。使ったあとにひんしになる。,"User faints, even if the attack fails or misses.  Inflicts regular damage."
+タマゴばくだん,ノーマル,ぶつり,100,10,大きなタマゴを力いっぱい相手に投げつけて攻撃する。,Inflicts regular damage.
+したでなめる,ゴースト,ぶつり,30,30,長い舌で相手をなめまわして攻撃する。まひ状態にすることがある。,Inflicts regular damage.  Has a 30% chance to paralyze the target.
+スモッグ,どく,とくしゅ,30,20,汚れたガスを相手に吹きつけて攻撃する。毒状態にすることがある。,Inflicts regular damage.  Has a 40% chance to poison the target.
+ヘドロこうげき,どく,とくしゅ,65,20,汚いヘドロを相手に投げつけて攻撃する。毒状態にすることがある。,Inflicts regular damage.  Has a 30% chance to poison the target.
+ホネこんぼう,じめん,ぶつり,65,20,手に持ったホネで相手をなぐりつけて攻撃する。相手をひるませることがある。,Inflicts regular damage.  Has a 10% chance to make the target flinch.
+だいもんじ,ほのお,とくしゅ,110,5,大の字の炎で相手を焼きつくす。やけど状態にすることがある。,Inflicts regular damage.  Has a 10% chance to burn the target.
+たきのぼり,みず,ぶつり,80,15,すごい勢いで相手につっこむ。相手をひるませることがある。滝も泳いでのぼれる。,Inflicts regular damage.  Has a 20% chance to make the target flinch.
+からではさむ,みず,ぶつり,35,15,とても頑丈なぶあつい殻に４ー５ターンのあいだ相手をはさんで攻撃する。,"Inflicts regular damage.  For the next 2?5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+
+rapid spin cancels this effect."
+スピードスター,ノーマル,とくしゅ,60,20,星型の光を発射して相手を攻撃する。攻撃は必ず命中する。,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+ロケットずつき,ノーマル,ぶつり,130,10,１ターン目に頭をひっこめて防御をあげる。２ターン目に相手を攻撃する。,"Inflicts regular damage.  Raises the user's Defense by one stage.  User then charges for one turn before attacking.
+
+This move cannot be selected by sleep talk."
+とげキャノン,ノーマル,ぶつり,20,15,鋭いハリを相手に発射して攻撃する。２ー５回のあいだ連続でだす。,"Inflicts regular damage.  Hits 2?5 times in one turn.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use."
+からみつく,ノーマル,ぶつり,10,35,触手やツタなどをからみつけて攻撃する。相手の素早さをさげることがある。,Inflicts regular damage.  Has a 10% chance to lower the target's Speed by one stage.
+ドわすれ,エスパー,へんか,,20,頭をからにして一瞬なにかを忘れることで自分の特防をぐーんとあげる。,Raises the user's Special Defense by two stages.
+スプーンまげ,エスパー,へんか,,15,スプーンをまげて注意をひき相手の命中率をさげる。,Lowers the target's accuracy by one stage.
+タマゴうみ,ノーマル,へんか,,5,最大ＨＰの半分自分のＨＰを回復する。仲間にＨＰをわけることもできる。,Heals the user for half its max HP.
+とびひざげり,かくとう,ぶつり,130,10,ジャンプからのひざげりで相手を攻撃する。はずすと自分がダメージを受ける。,"Inflicts regular damage. If this move misses, is blocked by protect or detect, or has no effect, the user takes damage equal to half of its max HP rounded down.
+
+This move cannot be used while gravity is in effect."
+へびにらみ,ノーマル,へんか,,30,おなかの模様でおびえさせて相手をまひの状態にする。,Paralyzes the target.
+ゆめくい,エスパー,とくしゅ,100,15,寝ている相手の夢を食べて攻撃する。ダメージの半分のＨＰを回復する。,Fails if not used on a sleeping Pok?mon.  Inflicts regular damage.  Drains half the damage inflicted to heal the user.
+どくガス,どく,へんか,,40,毒ガスを相手の顔に吹きかけて毒の状態にする。,Poisons the target.
+たまなげ,ノーマル,ぶつり,15,20,まるいものを相手に投げつけて攻撃する。２ー５回のあいだ連続でだす。,"Inflicts regular damage.  Hits 2?5 times in one turn.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use."
+きゅうけつ,むし,ぶつり,80,10,血を吸い取って相手を攻撃する。与えたダメージの半分のＨＰを回復できる。,Inflicts regular damage.  Drains half the damage inflicted to heal the user.
+あくまのキッス,ノーマル,へんか,,10,恐ろしい顔でキスをせまる。相手を眠り状態にする。,Puts the target to sleep.
+ゴッドバード,ひこう,ぶつり,140,5,２ターン目に相手を攻撃する。たまにひるませる。急所にも当たりやすい。,"Inflicts regular damage.  User charges for one turn before attacking.  Critical hit chance is one level higher than normal.  Has a 30% chance to make the target flinch.
+
+This move cannot be selected by sleep talk."
+へんしん,ノーマル,へんか,,10,相手のポケモンに変身することで相手とまったく同じ技が使える。,"User copies the target's species, weight, type, ability, calculated stats (except HP), and moves.  Copied moves will all have 5 PP remaining.  IVs are copied for the purposes of hidden power, but stats are not recalculated.
+
+choice band, choice scarf, and choice specs stay in effect, and the user must select a new move.
+
+This move cannot be copied by mirror move, nor forced by encore."
+あわ,みず,とくしゅ,40,30,無数の泡を相手に吹きかけて攻撃する。相手の素早さをさげることがある。,Inflicts regular damage.  Has a 10% chance to lower the target's Speed by one stage.
+ピヨピヨパンチ,ノーマル,ぶつり,70,10,リズミカルにパンチをくりだして相手を攻撃する。混乱させることがある。,Inflicts regular damage.  Has a 20% chance to confuse the target.
+キノコのほうし,くさ,へんか,,15,催眠効果のある胞子をパラパラとふりまき相手を眠り状態にする。,Puts the target to sleep.
+フラッシュ,ノーマル,へんか,,20,まぶしい光で相手の命中率をさげる。,Lowers the target's accuracy by one stage.
+サイコウェーブ,エスパー,とくしゅ,,15,不思議な念波を相手に発射して攻撃する。使うたびにダメージが変わる。,"Inflicts typeless damage between 50% and 150% of the user's level, selected at random in increments of 10%."
+はねる,ノーマル,へんか,,40,攻撃もせずにピョンピョンと跳ねるだけでなにもおこらない……。,"Does nothing.
+
+This move cannot be used while gravity is in effect."
+とける,どく,へんか,,20,細胞の変化で液状になり自分の防御をぐーんとあげる。,Raises the user's Defense by two stages.
+クラブハンマー,みず,ぶつり,100,10,大きなハサミを相手にたたきつけて攻撃する。急所に当たりやすい。,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+だいばくはつ,ノーマル,ぶつり,250,5,大きな爆発で自分の周りにいるものを攻撃する。使ったあとにひんしになる。,"User faints, even if the attack fails or misses.  Inflicts regular damage."
+みだれひっかき,ノーマル,ぶつり,18,15,ツメやカマなどで相手をひっかいて攻撃する。２ー５回のあいだ連続でだす。,"Inflicts regular damage.  Hits 2?5 times in one turn.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use."
+ホネブーメラン,じめん,ぶつり,50,10,手に持ったホネを相手に投げつけ行きと帰りの２回連続でダメージを与える。,Inflicts regular damage.  Hits twice in one turn.
+ねむる,エスパー,へんか,,5,２ターンのあいだ眠り続ける。自分のＨＰと状態異常をすべて回復する。,"User falls to sleep and immediately regains all its HP.  If the user has another major status effect, sleep will replace it.  The user will always wake up after two turns, or one turn with early bird.
+
+This move fails if the Pok?mon cannot fall asleep due to uproar, insomnia, or vital spirit.  It also fails if the Pok?mon is at full health or is already asleep."
+いわなだれ,いわ,ぶつり,75,10,大きな岩を激しくぶつけて攻撃する。相手をひるませることがある。,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+ひっさつまえば,ノーマル,ぶつり,80,15,鋭い前歯で強くかみついて攻撃する。相手をひるませることがある。,Inflicts regular damage.  Has a 10% chance to make the target flinch.
+かくばる,ノーマル,へんか,,30,体のかどを増やしてカクカクになることで自分の攻撃をあげる。,Raises the user's Attack by one stage.
+テクスチャー,ノーマル,へんか,,30,自分のタイプをおぼえている技で一番上の技と同じタイプにする。,"User's type changes to the type of one of its moves, selected at random.  hidden power and weather ball are treated as normal.  Only moves with a different type are eligible, and curse is never eligible.  If the user has no suitable moves, this move will fail."
+トライアタック,ノーマル,とくしゅ,80,10,３つの光線で攻撃する。まひかやけどかこおり状態のどれかにすることがある。,"Inflicts regular damage.  Has a 20% chance to burn, freeze, or paralyze the target.  One of these effects is selected at random; they do not each have independent chances to occur."
+いかりのまえば,ノーマル,ぶつり,,10,鋭い前歯で激しくかみついて攻撃する。相手のＨＰは半分になる。,Inflicts typeless damage equal to half the target's remaining HP.
+きりさく,ノーマル,ぶつり,70,20,ツメやカマなどで相手を切り裂いて攻撃する。急所に当たりやすい。,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+みがわり,ノーマル,へんか,,10,自分のＨＰを少し削って分身をだす。分身は自分の身代わりになる。,"Transfers 1/4 the user's max HP into a doll that absorbs damage and causes most negative move effects to fail.  If the user leaves the field, the doll will vanish.  If the user cannot pay the HP cost, this move will fail.
+
+The doll takes damage as normal, using the user's stats and types, and will break when its HP reaches zero.  Self-inflicted damage from confusion or recoil is not absorbed.  Healing effects from opponents ignore the doll and heal the user as normal.  Moves that work based on the user's HP still do so; the doll's HP does not influence any move.
+
+The doll will block major status effects, confusion, and flinching.  The effects of smelling salts and wake up slap do not trigger against a doll, even if the Pok?mon behind the doll has the appropriate major status effect.  Multi-turn trapping moves like wrap will hit the doll for their regular damage, but the multi-turn trapping and damage effects will not activate.
+
+Moves blocked or damage absorbed by the doll do not count as hitting the user or inflicting damage for any effects that respond to such, e.g., avalanche, counter, or a rowap berry.  magic coat still works as normal, even against moves the doll would block.  Opposing Pok?mon that damage the doll with a leech move like absorb are healed as normal.
+
+It will also block acupressure, block, the curse effect of curse, dream eater, embargo, flatter, gastro acid, grudge, heal block, leech seed, lock on, mean look, mimic, mind reader, nightmare, pain split, psycho shift, spider web, sketch, swagger, switcheroo, trick, worry seed, and yawn.  A Pok?mon affected by yawn before summoning the doll will still fall to sleep.
+
+The doll blocks intimidate, but all other abilities act as though the doll did not exist.  If the user has an ability that absorbs moves of a certain type for HP (such as volt absorb absorbing thunder wave), such moves will not be blocked.
+
+life orb and berries that cause confusion still work as normal, but their respective HP loss and confusion are absorbed/blocked by the doll.
+
+The user is still vulnerable to damage inflicted when entering or leaving the field, such as by pursuit or spikes; however, the doll will block the poison effect of toxic spikes.
+
+The doll is passed on by baton pass.  It keeps its existing HP, but uses the replacement Pok?mon's stats and types for damage calculation.
+
+All other effects work as normal."
+わるあがき,ノーマル,ぶつり,50,1,自分のＰＰがなくなるとあがいて相手を攻撃する。自分も少しダメージを受ける。,"Inflicts typeless regular damage.  User takes 1/4 its max HP in recoil.  Ignores accuracy and evasion modifiers.
+
+This move is used automatically when a Pok?mon cannot use any other move legally, e.g., due to having no PP remaining or being under the effect of both encore and torment at the same time.
+
+This move's recoil is not treated as recoil for the purposes of anything that affects recoil, such as the ability rock head.  It also is not prevented by magic guard.
+
+This move cannot be copied by mimic, mirror move, or sketch, nor selected by assist or metronome, nor forced by encore."
+スケッチ,ノーマル,へんか,,1,相手が使った技を自分のものにする。１回使うとスケッチは消える。,"Permanently replaces itself with the target's last used move.  If that move is chatter or struggle, this move will fail.
+
+This move cannot be copied by mimic or mirror move, nor selected by assist or metronome, nor forced by encore."
+トリプルキック,かくとう,ぶつり,10,10,３回連続でキックをくりだして攻撃する。技が当たるたびに威力はあがる。,"Inflicts regular damage.  Hits three times in the same turn.  The second hit has double power, and the third hit has triple power.  Each hit has a separate accuracy check, and this move stops if a hit misses.
+
+skill link does not apply."
+どろぼう,あく,ぶつり,60,25,攻撃と同時に道具を盗む。自分が道具を持っている場合は盗めない。,"Inflicts regular damage.  If the target is holding an item and the user is not, the user will permanently take the item.  Damage is still inflicted if an item cannot be taken.
+
+Pok?mon with sticky hold or multitype are immune to the item theft effect.
+
+The target cannot recover its item with recycle.
+
+This move cannot be selected by assist or metronome."
+クモのす,むし,へんか,,10,ネバネバした細い糸をグルグルとからませて相手を戦闘から逃げられなくする。,"The target cannot switch out normally.  Ignores accuracy and evasion modifiers.  This effect ends when the user leaves the field.
+
+The target may still escape by using baton pass, u turn, or a shed shell.
+
+Both the user and the target pass on this effect with baton pass."
+こころのめ,ノーマル,へんか,,5,相手の動きを心で感じて次の攻撃が必ず相手に当たるようにする。,"If the user targets the same target again before the end of the next turn, the move it uses is guaranteed to hit.  This move itself also ignores accuracy and evasion modifiers.
+
+One-hit KO moves are also guaranteed to hit, as long as the user is equal or higher level than the target.  This effect also allows the user to hit Pok?mon that are off the field due to moves such as dig or fly.
+
+If the target uses detect or protect while under the effect of this move, the user is not guaranteed to hit, but has a (100 - accuracy)% chance to break through the protection.
+
+This effect is passed on by baton pass."
+あくむ,ゴースト,へんか,,15,眠り状態の相手に悪夢をみせて毎ターン少しずつＨＰを減らしていく。,"Only works on sleeping Pok?mon.  Gives the target a nightmare, damaging it for 1/4 its max HP every turn.  If the target wakes up or leaves the field, this effect ends."
+かえんぐるま,ほのお,ぶつり,60,25,炎をまとい相手に突進して攻撃する。やけど状態にすることがある。,"Inflicts regular damage.  Has a 10% chance to burn the target.  Frozen Pok?mon may use this move, in which case they will thaw."
+いびき,ノーマル,とくしゅ,50,15,自分が寝ているときに雑音をだして攻撃する。相手をひるませることがある。,Only usable if the user is sleeping.  Inflicts regular damage.  Has a 30% chance to make the target flinch.
+のろい,ゴースト,へんか,,10,使うポケモンがゴーストタイプとそれ以外とでは効果が変わる。,"If the user is a ghost: user pays half its max HP to place a curse on the target, damaging it for 1/4 its max HP every turn.
+Otherwise: Lowers the user's Speed by one stage, and raises its Attack and Defense by one stage each.
+
+The curse effect is passed on by baton pass.
+
+This move cannot be copied by mirror move."
+じたばた,ノーマル,ぶつり,,15,じたばた暴れて攻撃する。自分のＨＰが少ないほど技の威力はあがる。,"Inflicts regular damage.  Power varies inversely with the user's proportional remaining HP.
+
+64 * current HP / max HP | Power
+-----------------------: | ----:
+ 0? 1                    |  200
+ 2? 5                    |  150
+ 6?12                    |  100
+13?21                    |   80
+22?42                    |   40
+43?64                    |   20
+"
+テクスチャー２,ノーマル,へんか,,30,相手が最後に使った技に抵抗できるように自分のタイプを変化させる。,"Changes the user's type to a type either resistant or immune to the last damaging move that hit it.  The new type is selected at random and cannot be a type the user already is.  If there is no eligible new type, this move will fail."
+エアロブラスト,ひこう,とくしゅ,100,5,空気の渦を発射して攻撃する。急所に当たりやすい。,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+わたほうし,くさ,へんか,,40,綿のようなフワフワの胞子をまとわりつかせて相手の素早さをがくっとさげる。,Lowers the target's Speed by two stages.
+きしかいせい,かくとう,ぶつり,,15,力をふりしぼり攻撃する。自分のＨＰが少ないほど技の威力はあがる。,"Inflicts regular damage.  Power varies inversely with the user's proportional remaining HP.
+
+64 * current HP / max HP | Power
+-----------------------: | ----:
+ 0? 1                    |  200
+ 2? 5                    |  150
+ 6?12                    |  100
+13?21                    |   80
+22?42                    |   40
+43?64                    |   20
+"
+うらみ,ゴースト,へんか,,10,相手が最後に使った技に恨みを抱いてその技のＰＰを４だけ減らす。,"Lowers the PP of the target's last used move by 4.  If the target hasn't used a move since entering the field, if it tried to use a move this turn and failed, or if its last used move has 0 PP remaining, this move will fail."
+こなゆき,こおり,とくしゅ,40,25,冷たい粉雪を相手に吹きつけて攻撃する。こおり状態にすることがある。,Inflicts regular damage.  Has a 10% chance to freeze the target.
+まもる,ノーマル,へんか,,10,相手の攻撃をまったく受けない。連続でだすと失敗しやすい。,"No moves will hit the user for the remainder of this turn.  If the user is last to act this turn, this move will fail.
+
+If the user successfully used detect, endure, protect, quick guard, or wide guard on the last turn, this move has a 50% chance to fail.
+
+lock on, mind reader, and no guard provide a (100 ? accuracy)% chance for moves to break through this move.  This does not apply to one-hit KO moves (fissure, guillotine, horn drill, and sheer cold); those are always blocked by this move.
+
+thunder during rain dance and blizzard during hail have a 30% chance to break through this move.
+
+The following effects are not prevented by this move:
+
+* acupressure from an ally
+* curse's curse effect
+* Delayed damage from doom desire and future sight; however, these moves will be prevented if they are used this turn
+* feint, which will also end this move's protection after it hits
+* imprison
+* perish song
+* shadow force
+* Moves that merely copy the user, such as transform or psych up
+
+This move cannot be selected by assist or metronome."
+マッハパンチ,かくとう,ぶつり,40,30,目にも留まらぬものすごい速さでパンチをくりだす。必ず先制攻撃できる。,Inflicts regular damage.
+こわいかお,ノーマル,へんか,,10,恐ろしい顔でにらみおびえさせて相手の素早さをがくっとさげる。,Lowers the target's Speed by two stages.
+だましうち,あく,ぶつり,60,20,さりげなく相手にちかづき油断したすきをみてなぐりつける。攻撃は必ず命中する。,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+てんしのキッス,フェアリー,へんか,,10,天使のようにかわいくキスして相手を混乱させる。,Confuses the target.
+はらだいこ,ノーマル,へんか,,10,自分のＨＰを最大ＨＰの半分減らして自分の攻撃を最大にあげる。,"User pays half its max HP to raise its Attack to +6 stages.  If the user cannot pay the HP cost, this move will fail."
+ヘドロばくだん,どく,とくしゅ,90,10,汚いヘドロを相手に投げつけて攻撃する。毒状態にすることがある。,Inflicts regular damage.  Has a 30% chance to poison the target.
+どろかけ,じめん,とくしゅ,20,10,相手の顔などに泥を投げつけて攻撃する。命中率をさげる。,Inflicts regular damage.  Has a 100% chance to lower the target's accuracy by one stage.
+オクタンほう,みず,とくしゅ,65,10,相手の顔などに墨を吹きかけて攻撃する。命中率をさげることがある。,Inflicts regular damage.  Has a 50% chance to lower the target's accuracy by one stage.
+まきびし,じめん,へんか,,20,相手の足下にまきびしをしかける。交代ででてきた相手のポケモンにダメージを与える。,"Scatters spikes around the opposing field, which damage opposing Pok?mon that enter the field for 1/8 of their max HP.  Pok?mon immune to ground moves are immune to this damage, except during gravity.  Up to three layers of spikes may be laid down, adding 1/16 to the damage done: two layers of spikes damage for 3/16 max HP, and three layers damage for 1/4 max HP.
+
+wonder guard does not block damage from this effect.
+
+rapid spin removes this effect from its user's side of the field.  defog removes this effect from its target's side of the field."
+でんじほう,でんき,とくしゅ,120,5,大砲のような電気を発射して攻撃する。相手をまひの状態にする。,Inflicts regular damage.  Has a 100% chance to paralyze the target.
+みやぶる,ノーマル,へんか,,40,ゴーストタイプに効果がない技や回避率の高い相手に攻撃が当たるようになる。,Resets the target's evasion to normal and prevents any further boosting until the target leaves the field.  A ghost under this effect takes normal damage from normal and fighting moves.  This move itself ignores accuracy and evasion modifiers.
+みちづれ,ゴースト,へんか,,5,技をだしたあと攻撃を受けてひんしになったとき攻撃相手もひんしにする。,"If the user faints before its next move, the Pok?mon that fainted it will automatically faint.  End-of-turn damage is ignored.
+
+This move cannot be selected by assist or metronome."
+ほろびのうた,ノーマル,へんか,,5,歌を聴いたポケモンは３ターンたつとひんしになる。交代すると効果はなくなる。,"Every Pok?mon is given a counter that starts at 3 and decreases by 1 at the end of every turn, including this one.  When a Pok?mon's counter reaches zero, that Pok?mon faints.  A Pok?mon that leaves the field will lose its counter; its replacement does not inherit the effect, and other Pok?mon's counters remain.
+
+This effect is passed on by baton pass.
+
+This move cannot be copied by mirror move."
+こごえるかぜ,こおり,とくしゅ,55,15,凍てつく冷気を相手に吹きつけて攻撃する。相手の素早さをさげる。,Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage.
+みきり,かくとう,へんか,,5,相手の攻撃をまったく受けない。連続でだすと失敗しやすい。,"No moves will hit the user for the remainder of this turn.  If the user is last to act this turn, this move will fail.
+
+If the user successfully used detect, endure, protect, quick guard, or wide guard on the last turn, this move has a 50% chance to fail.
+
+lock on, mind reader, and no guard provide a (100 ? accuracy)% chance for moves to break through this move.  This does not apply to one-hit KO moves (fissure, guillotine, horn drill, and sheer cold); those are always blocked by this move.
+
+thunder during rain dance and blizzard during hail have a 30% chance to break through this move.
+
+The following effects are not prevented by this move:
+
+* acupressure from an ally
+* curse's curse effect
+* Delayed damage from doom desire and future sight; however, these moves will be prevented if they are used this turn
+* feint, which will also end this move's protection after it hits
+* imprison
+* perish song
+* shadow force
+* Moves that merely copy the user, such as transform or psych up
+
+This move cannot be selected by assist or metronome."
+ボーンラッシュ,じめん,ぶつり,25,10,硬いホネで相手をなぐりつけて攻撃する。２ー５回のあいだ連続でだす。,"Inflicts regular damage.  Hits 2?5 times in one turn.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use."
+ロックオン,ノーマル,へんか,,5,照準をしっかりあわせて次の攻撃が必ず相手に当たるようにする。,"If the user targets the same target again before the end of the next turn, the move it uses is guaranteed to hit.  This move itself also ignores accuracy and evasion modifiers.
+
+One-hit KO moves are also guaranteed to hit, as long as the user is equal or higher level than the target.  This effect also allows the user to hit Pok?mon that are off the field due to moves such as dig or fly.
+
+If the target uses detect or protect while under the effect of this move, the user is not guaranteed to hit, but has a (100 - accuracy)% chance to break through the protection.
+
+This effect is passed on by baton pass."
+げきりん,ドラゴン,ぶつり,120,10,２ー３ターンのあいだ暴れまくって攻撃する。暴れたあとは混乱する。,"Inflicts regular damage.  User is forced to attack with this move for 2?3 turns,selected at random.  After the last hit, the user becomes confused.
+
+safeguard does not protect against the confusion from this move."
+すなあらし,いわ,へんか,,10,５ターンのあいだ砂あらしでいわじめんはがねタイプ以外のポケモンにダメージを与える。,"Changes the weather to a sandstorm for five turns.  Pok?mon that are not ground, rock, or steel take 1/16 their max HP at the end of every turn.  Every rock Pok?mon's original Special Defense is raised by 50% for the duration of this effect.
+
+solar beam's power is halved.
+
+moonlight, morning sun, and synthesis only heal 1/4 the user's max HP."
+ギガドレイン,くさ,とくしゅ,75,10,養分を吸い取り攻撃する。与えたダメージの半分のＨＰを回復できる。,Inflicts regular damage.  Drains half the damage inflicted to heal the user.
+こらえる,ノーマル,へんか,,10,攻撃を受けてもＨＰを必ず１だけ残せる。連続でだすと失敗しやすい。,"The user's HP cannot be lowered below 1 by any means for the remainder of this turn.
+
+If the user successfully used detect, endure, protect, quick guard, or wide guard on the last turn, this move has a 50% chance to fail.
+
+This move cannot be selected by assist or metronome."
+あまえる,フェアリー,へんか,,20,かわいくみつめて油断を誘い相手の攻撃をがくっとさげる。,Lowers the target's Attack by two stages.
+ころがる,いわ,ぶつり,30,20,５ターンのあいだ転がり続けて攻撃する。技が当たるたびに威力があがる。,"Inflicts regular damage.  User is forced to use this move for five turns.  Power doubles every time this move is used in succession to a maximum of 16x, and resets to normal after the lock-in ends.  If this move misses or becomes unusable, the lock-in ends.
+
+If the user has used defense curl since entering the field, this move has double power."
+みねうち,ノーマル,ぶつり,40,40,相手のＨＰが必ず１だけ残るように手加減して攻撃する。,Inflicts regular damage.  Will not reduce the target's HP below 1.
+いばる,ノーマル,へんか,,15,相手を怒らせて混乱させる。怒りで相手の攻撃はぐーんとあがってしまう。,"Raises the target's Attack by two stages, then confuses it.  If the target's Attack cannot be raised by two stages, the confusion is not applied."
+ミルクのみ,ノーマル,へんか,,5,最大ＨＰの半分自分のＨＰを回復する。仲間にＨＰをわけることもできる。,Heals the user for half its max HP.
+スパーク,でんき,ぶつり,65,20,電気をまとい相手に突進して攻撃する。まひ状態にすることがある。,Inflicts regular damage.  Has a 30% chance to paralyze the target.
+れんぞくぎり,むし,ぶつり,40,20,カマやツメなどで相手を切りつけて攻撃する。連続で当てると威力があがる。,"Inflicts regular damage.  Power doubles after every time this move is used, whether consecutively or not, maxing out at 16x.  If this move misses or the user leaves the field, power resets."
+はがねのつばさ,はがね,ぶつり,70,25,硬い翼を相手にたたきつけて攻撃する。自分の防御があがることがある。,Inflicts regular damage. Has a 10% chance to raise the user's Defense one stage.
+くろいまなざし,ノーマル,へんか,,5,吸いこまれるような黒いまなざしでじっとみつめて相手を戦闘から逃げられなくする。,"The target cannot switch out normally.  Ignores accuracy and evasion modifiers.  This effect ends when the user leaves the field.
+
+The target may still escape by using baton pass, u turn, or a shed shell.
+
+Both the user and the target pass on this effect with baton pass."
+メロメロ,ノーマル,へんか,,15,♂なら♀を♀なら♂を誘惑してメロメロにする。相手は技がだしにくくなる。,"Causes the target to fall in love with the user, giving it a 50% chance to do nothing each turn.  If the user and target are the same gender, or either is genderless, this move will fail.  If either Pok?mon leaves the field, this effect ends."
+ねごと,ノーマル,へんか,,10,自分がおぼえている技のうちどれか１つをくりだす。自分が寝ているときだけ使える。,"Only usable if the user is sleeping.  Randomly selects and uses one of the user's other three moves.  Use of the selected move requires and costs 0 PP.
+
+This move will not select assist, bide, bounce, chatter, copycat, dig, dive, fly, focus punch, me first, metronome, mirror move, shadow force, skull bash, sky attack, sky drop, sleep talk, solar beam, razor wind, or uproar.
+
+If the selected move requires a recharge turn?i.e., one of blast burn, frenzy plant, giga impact, hydro cannon, hyper beam, roar of time, or rock wrecker?and the user is still sleeping next turn, then it's forced to use this move again and pay another PP for the recharge turn.
+
+This move cannot be copied by mirror move, nor selected by assist, metronome, or sleep talk."
+いやしのすず,ノーマル,へんか,,5,心地好い鈴の音色を聞かせて味方全員の状態異常を回復する。,Removes major status effects and confusion from every Pok?mon in the user's party.
+おんがえし,ノーマル,ぶつり,,20,トレーナーのために全力で相手を攻撃する。なついているほど威力はあがる。,"Inflicts regular damage.  Power increases with happiness, given by `happiness * 2 / 5`, to a maximum of 102.  Power bottoms out at 1."
+プレゼント,ノーマル,ぶつり,,15,わなをしかけた箱を相手にわたして攻撃する。ＨＰが回復してしまうこともある。,"Randomly uses one of the following effects.
+
+Effect                                             | Chance
+-------------------------------------------------- | -----:
+Inflicts regular damage with 40 power  |    40%
+Inflicts regular damage with 80 power  |    30%
+Inflicts regular damage with 120 power |    10%
+Heals the target for 1/4 its max HP    |    20%
+
+On average, this move inflicts regular damage with 52 power and heals the target for 1/20 its max HP."
+やつあたり,ノーマル,ぶつり,,20,不満をはらすため全力で相手を攻撃する。なついていないほど威力はあがる。,"Inflicts regular damage.  Power increases inversely with happiness, given by `(255 - happiness) * 2 / 5`, to a maximum of 102.  Power bottoms out at 1."
+しんぴのまもり,ノーマル,へんか,,25,５ターンのあいだ不思議な力に守られて状態異常にならなくなる。,"Protects Pok?mon on the user's side of the field from major status effects and confusion for five turns.  Does not cancel existing ailments.  This effect remains even if the user leaves the field.
+
+If yawn is used while this move is in effect, it will immediately fail.
+
+defog used by an opponent will end this effect.
+
+This effect does not prevent the confusion caused by outrage, petal dance, or thrash."
+いたみわけ,ノーマル,へんか,,20,自分のＨＰと相手のＨＰをあわせてそれを自分と相手でなかよくわける。,"Changes the user's and target's remaining HP to the average of their current remaining HP.  Ignores accuracy and evasion modifiers.  This effect does not count as inflicting damage for other moves and effects that respond to damage taken.
+
+This effect fails against a substitute."
+せいなるほのお,ほのお,ぶつり,100,5,神秘の炎で相手を焼きつくして攻撃する。やけど状態にすることがある。,"Inflicts regular damage.  Has a 50% chance to burn the target.  Frozen Pok?mon may use this move, in which case they will thaw."
+マグニチュード,じめん,ぶつり,,30,地面を揺らして自分の周りにいるものを攻撃する。技の威力はいろいろ変わる。,"Inflicts regular damage.  Power is selected at random between 10 and 150, with an average of 71:
+
+Magnitude | Power | Chance
+--------: | ----: | -----:
+        4 |    10 |     5%
+        5 |    30 |    10%
+        6 |    50 |    20%
+        7 |    70 |    30%
+        8 |    90 |    20%
+        9 |   110 |    10%
+       10 |   150 |     5%
+
+This move has double power against Pok?mon currently underground due to dig."
+ばくれつパンチ,かくとう,ぶつり,100,5,こん身の力でパンチをくりだして攻撃する。相手を必ず混乱させる。,Inflicts regular damage.  Has a 100% chance to confuse the target.
+メガホーン,むし,ぶつり,120,10,硬くてりっぱなつのでおもいっきり相手を突き刺して攻撃する。,Inflicts regular damage.
+りゅうのいぶき,ドラゴン,とくしゅ,60,20,ものすごい息を相手に吹きつけて攻撃する。まひ状態にすることがある。,Inflicts regular damage.  Has a 30% chance to paralyze the target.
+バトンタッチ,ノーマル,へんか,,40,控えのポケモンと入れ替わる。能力変化は替わったポケモンがそのまま受けつぐ。,"User switches out, and the trainer selects a replacement Pok?mon from the party.  Stat changes, confusion, and persistent move effects are passed along to the replacement Pok?mon.
+
+The following move effects are passed:
+
+* aqua ring
+* both the user's and target's effect of block, mean look, and spider web
+* the curse effect of curse
+* embargo
+* focus energy or an activated lansat berry
+* gastro acid
+* ingrain
+* being sapped by leech seed
+* being targeted by lock on or mind reader
+* magnet rise
+* perish song's counter
+* power trick
+* substitute; the doll's HP is unchanged
+
+The replacement Pok?mon does not trigger effects that respond to Pok?mon switching in."
+アンコール,ノーマル,へんか,,5,相手が最後に使った技を３ターンのあいだずっとださせる。,"The next 4?8 times (selected at random) the target attempts to move, it is forced to repeat its last used move.  If the selected move allows the trainer to select a target, an opponent will be selected at random each turn.  If the target is prevented from using the selected move by some other effect, struggle will be used instead.  This effect ends if the selected move runs out of PP.
+
+If the target hasn't used a move since entering the field, if it tried to use a move this turn and failed, if it does not know the selected move, or if the selected move has 0 PP remaining, this move will fail.  If the target's last used move was encore, mimic, mirror move, sketch, struggle, or transform, this move will fail."
+おいうち,あく,ぶつり,40,20,相手ポケモンが入れ替わるときに技をだしていると倍の威力で攻撃できる。,"Inflicts regular damage.  If the target attempts to switch out this turn before the user acts, this move hits the target before it leaves and has double power.
+
+This effect can still hit a Pok?mon that switches out when it has a substitute up or when an ally has used follow me."
+こうそくスピン,ノーマル,ぶつり,50,40,回転して相手を攻撃する。しめつけるまきつくやどりぎのタネまきびしなども吹きとばせる。,"Inflicts regular damage.  Removes leech seed from the user, frees the user from bind, clamp, fire spin, magma storm, sand tomb, whirlpool, and wrap, and clears spikes, stealth rock, and toxic spikes from the user's side of the field.  If this move misses or has no effect, its effect doesn't activate."
+あまいかおり,ノーマル,へんか,,20,香りで相手の回避率をがくっとさげる。草むらなどで使うとポケモンがよってくる。,Lowers the target's evasion by one stage.
+アイアンテール,はがね,ぶつり,100,15,硬いしっぽで相手をたたきつけて攻撃する。相手の防御をさげることがある。,Inflicts regular damage.  Has a 30% chance to lower the target's Defense by one stage.
+メタルクロー,はがね,ぶつり,50,35,鋼鉄のツメで相手を切り裂いて攻撃する。自分の攻撃があがることがある。,Inflicts regular damage. Has a 10% chance to raise the user's Attack one stage.
+あてみなげ,かくとう,ぶつり,70,10,相手よりあとに攻撃する。そのかわり自分の攻撃は必ず命中する。,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+あさのひざし,ノーマル,へんか,,5,自分のＨＰを回復する。天気によって回復の量が変化する。,"Heals the user for half its max HP.
+
+During sunny day, the healing is increased to 2/3 max HP.
+
+During hail, rain dance, or sandstorm, the healing is decreased to 1/4 max HP."
+こうごうせい,くさ,へんか,,5,自分のＨＰを回復する。天気によって回復の量が変化する。,"Heals the user for half its max HP.
+
+During sunny day, the healing is increased to 2/3 max HP.
+
+During hail, rain dance, or sandstorm, the healing is decreased to 1/4 max HP."
+つきのひかり,フェアリー,へんか,,5,自分のＨＰを回復する。天気によって回復の量が変化する。,"Heals the user for half its max HP.
+
+During sunny day, the healing is increased to 2/3 max HP.
+
+During hail, rain dance, or sandstorm, the healing is decreased to 1/4 max HP."
+めざめるパワー,ノーマル,とくしゅ,60,15,技を使ったポケモンによって技のタイプが変わる。,"Inflicts regular damage.  Power and type are determined by the user's IVs.
+
+Power is given by `x * 40 / 63 + 30`.  `x` is obtained by arranging bit 1 from the IV for each of Special Defense, Special Attack, Speed, Defense, Attack, and HP in that order.  (Bit 1 is 1 if the IV is of the form `4n + 2` or `4n + 3`.  `x` is then 64 * Special Defense IV bit 1, plus 32 * Special Attack IV bit 1, etc.)
+
+Power is always between 30 and 70, inclusive.  Average power is 49.5.
+
+Type is given by `y * 15 / 63`, where `y` is similar to `x` above, except constructed from bit 0.  (Bit 0 is 1 if the IV is odd.)  The result is looked up in the following table.
+
+Value | Type
+----: | --------
+    0 | fighting
+    1 | flying
+    2 | poison
+    3 | ground
+    4 | rock
+    5 | bug
+    6 | ghost
+    7 | steel
+    8 | fire
+    9 | water
+   10 | grass
+   11 | electric
+   12 | psychic
+   13 | ice
+   14 | dragon
+   15 | dark
+
+This move thus cannot be normal.  Most other types have an equal 1/16 chance to be selected, given random IVs.  However, due to the flooring used here, bug, fighting, and grass appear 5/64 of the time, and dark only 1/64 of the time."
+クロスチョップ,かくとう,ぶつり,100,5,両手チョップを相手にたたきつけて攻撃する。急所に当たりやすい。,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+たつまき,ドラゴン,とくしゅ,40,20,竜巻をおこして相手をまきこみ攻撃する。相手をひるませることがある。,"Inflicts regular damage.  Has a 20% chance to make each target flinch.
+
+If the target is under the effect of bounce, fly, or sky drop, this move will hit with double power."
+あまごい,みず,へんか,,5,５ターンのあいだ雨を降らせてみずタイプの技の威力をあげる。,"Changes the weather to rain for five turns, during which water moves inflict 50% extra damage, and fire moves inflict half damage.
+
+If the user is holding damp rock, this effect lasts for eight turns.
+
+thunder has 100% accuracy.  If the target has used detect or protect, thunder has a (100 - accuracy)% chance to break through the protection.
+
+solar beam has half power.
+
+moonlight, morning sun, and synthesis heal only 1/4 of the user's max HP.
+
+Pok?mon with swift swim have doubled original Speed.
+
+Pok?mon with forecast become water.
+
+Pok?mon with dry skin heal 1/8 max HP, Pok?mon with hydration are cured of major status effects, and Pok?mon with rain dish heal 1/16 max HP at the end of each turn."
+にほんばれ,ほのお,へんか,,5,５ターンのあいだ日差しを強くしてほのおタイプの技の威力をあげる。,"Changes the weather to sunshine for five turns, during which fire moves inflict 50% extra damage, and water moves inflict half damage.
+
+If the user is holding heat rock, this effect lasts for eight turns.
+
+Pok?mon cannot become frozen.
+
+thunder has 50% accuracy.
+
+solar beam skips its charge turn.
+
+moonlight, morning sun, and synthesis heal 2/3 of the user's max HP.
+
+Pok?mon with chlorophyll have doubled original Speed.
+
+Pok?mon with forecast become fire.
+
+Pok?mon with leaf guard are not affected by major status effects.
+
+Pok?mon with flower gift change form; every Pok?mon on their side of the field have their original Attack and Special Attack increased by 50%.
+
+Pok?mon with dry skin lose 1/8 max HP at the end of each turn.
+
+Pok?mon with solar power have their original Special Attack raised by 50% but lose 1/8 their max HP at the end of each turn."
+かみくだく,あく,ぶつり,80,15,鋭い歯で相手をかみくだいて攻撃する。相手の防御をさげることがある。,Inflicts regular damage.  Has a 20% chance to lower the target's Defense by one stage.
+ミラーコート,エスパー,とくしゅ,,20,相手から受けた特殊攻撃のダメージを２倍にしてその相手に返す。,"Targets the last opposing Pok?mon to hit the user with a special move this turn.  Inflicts twice the damage that move did to the user.  If there is no eligible target, this move will fail.  Type immunity applies, but other type effects are ignored.
+
+This move cannot be copied by mirror move, nor selected by assist or metronome."
+じこあんじ,ノーマル,へんか,,10,自分に暗示をかけることで能力変化の状態を相手と同じにする。,"Discards the user's stat changes and copies the target's.
+
+This move cannot be copied by mirror move."
+しんそく,ノーマル,ぶつり,80,5,目にも留まらぬものすごい速さで相手に突進して攻撃する。必ず先制攻撃できる。,Inflicts regular damage.
+げんしのちから,いわ,とくしゅ,60,5,原始の力で攻撃する。自分のすべての能力があがることがある。,Inflicts regular damage. Has a 10% chance to raise all of the user's stats one stage.
+シャドーボール,ゴースト,とくしゅ,80,15,黒い影の塊を投げつけて攻撃する。相手の特防をさげることがある。,Inflicts regular damage.  Has a 20% chance to lower the target's Special Defense by one stage.
+みらいよち,エスパー,とくしゅ,120,10,技を使った２ターン後に相手に念力の塊を送って攻撃する。,"Inflicts typeless regular damage at the end of the third turn, starting with this one.  This move cannot score a critical hit.  If the target switches out, its replacement will be hit instead.  Damage is calculated at the time this move is used; stat changes and switching out during the delay won't change the damage inflicted.  No move with this effect can be used against the same target again until after the end of the third turn.
+
+This effect breaks through wonder guard.
+
+If the target is protected by protect or detect on the turn this move is used, this move will fail.  However, the damage on the third turn will break through protection.
+
+The damage is applied at the end of the turn, so it ignores endure and focus sash.
+
+This move cannot be copied by mirror move."
+いわくだき,かくとう,ぶつり,40,15,パンチで攻撃する。相手の防御をさげることがある。岩を砕くこともある。,Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.
+うずしお,みず,とくしゅ,35,15,激しく渦をまく水の中に４ー５ターンのあいだ相手を閉じこめて攻撃する。,"Inflicts regular damage.  For the next 2?5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+
+If the target is in the first turn of dive, this move will hit with double power."
+ふくろだたき,あく,ぶつり,,10,味方全員で攻撃する。仲間のポケモンが多いほど技の攻撃回数が増える。,"Inflicts typeless regular damage.  Every Pok?mon in the user's party, excepting those that have fainted or have a major status effect, attacks the target.  Calculated stats are ignored; the base stats for the target and assorted attackers are used instead.  The random factor in the damage formula is not used.  dark Pok?mon still get STAB.
+
+This effect breaks through wonder guard."
+ねこだまし,ノーマル,ぶつり,40,10,先制攻撃で相手をひるませる。戦闘にでたらすぐにださないと成功しない。,Inflicts regular damage.  Causes the target to flinch.  Can only be used on the user's first turn after entering the field.
+さわぐ,ノーマル,とくしゅ,90,10,３ターンのあいだ騒いで相手を攻撃する。そのあいだはだれも眠れなくなる。,"Inflicts regular damage.  User is forced to use this move for 2?5 turns, selected at random.  All Pok?mon on the field wake up, and none can fall to sleep until the lock-in ends.
+
+Pok?mon cannot use rest during this effect.
+
+This move cannot be selected by sleep talk."
+たくわえる,ノーマル,へんか,,20,力を蓄えて自分の防御と特防をあげる。最大３回まで蓄えられる。,"Raises the user's Defense and Special Defense by one stage each.  Stores energy for use with spit up and swallow.  Up to three levels of energy can be stored, and all are lost if the user leaves the field.  Energy is still stored even if the stat boosts cannot be applied.
+
+If the user uses baton pass, the stat boosts are passed as normal, but the stored energy is not."
+はきだす,ノーマル,とくしゅ,,10,蓄えた力を相手にぶつけて攻撃する。蓄えているほど威力があがる。,"Inflicts regular damage.  Power is equal to 100 times the amount of energy stored by stockpile.  Ignores the random factor in the damage formula.  Stored energy is consumed, and the user's Defense and Special Defense are reset to what they would be if stockpile had not been used.  If the user has no energy stored, this move will fail.
+
+This move cannot be copied by mirror move."
+のみこむ,ノーマル,へんか,,10,蓄えた力をのみこんで自分のＨＰを回復する。蓄えているほど回復する。,"Heals the user depending on the amount of energy stored by stockpile: 1/4 its max HP after one use, 1/2 its max HP after two uses, or fully after three uses.  Stored energy is consumed, and the user's Defense and Special Defense are reset to what they would be if stockpile had not been used.  If the user has no energy stored, this move will fail."
+ねっぷう,ほのお,とくしゅ,95,10,熱い息を相手に吹きつけて攻撃する。やけど状態にすることがある。,Inflicts regular damage.  Has a 10% chance to burn the target.
+あられ,こおり,へんか,,10,５ターンのあいだあられを降らしてこおりタイプでないポケモン全員にダメージを与える。,"Changes the weather to hail for five turns, during which non-ice Pok?mon are damaged for 1/16 their max HP at the end of every turn.
+
+If the user is holding icy rock, this effect lasts for eight turns.
+
+blizzard has 100% accuracy.  If the target has used detect or protect, blizzard has a (100 - accuracy)% chance to break through the protection.
+
+moonlight, morning sun, and synthesis heal only 1/4 of the user's max HP.
+
+Pok?mon with snow cloak are exempt from this effect's damage."
+いちゃもん,あく,へんか,,15,相手にいちゃもんをつけて同じ技を２回連続でだせなくする。,"Prevents the target from attempting to use the same move twice in a row.  When the target leaves the field, this effect ends.
+
+If the target is forced to attempt a repeated move due to choice band, choice scarf, choice specs, disable, encore, taunt, only having PP remaining for one move, or any other effect, the target will use struggle instead.  The target is then free to use the forced move next turn, as it didn't use that move this turn."
+おだてる,あく,へんか,,15,相手をおだてて混乱させる。同時に相手の特攻もあげてしまう。,"Raises the target's Special Attack by one stage, then confuses it."
+おにび,ほのお,へんか,,15,不気味で怪しい炎を放って相手をやけどの状態にする。,Burns the target.
+おきみやげ,あく,へんか,,10,自分はひんしになるがそのかわりに相手の攻撃と特攻をがくっとさげる。,Lowers the target's Attack and Special Attack by two stages.  User faints.
+からげんき,ノーマル,ぶつり,70,20,自分が毒まひやけど状態のとき相手にくりだすと技の威力が２倍になる。,"Inflicts regular damage.  If the user is burned, paralyzed, or poisoned, this move has double power."
+きあいパンチ,かくとう,ぶつり,150,20,精神を高めてパンチをくりだす。技をだすまでに攻撃を受けると失敗する。,"Inflicts regular damage.  If the user takes damage this turn before hitting, this move will fail.
+
+This move cannot be copied by mirror move, nor selected by assist, metronome, or sleep talk."
+きつけ,ノーマル,ぶつり,70,10,まひ状態の相手には威力が２倍になるがかわりに相手のまひが治る。,"Inflicts regular damage.  If the target is paralyzed, this move has double power, and the target is cured of its paralysis."
+このゆびとまれ,ノーマル,へんか,,20,自分に注目させて相手からの攻撃をすべて自分にむけさせる。,"Until the end of this turn, any moves that opposing Pok?mon target solely at the user's ally will instead target the user.  If both Pok?mon on the same side of the field use this move on the same turn, the Pok?mon that uses it last will become the target.
+
+This effect takes priority over lightning rod and storm drain.
+
+If the user's ally switches out, opposing Pok?mon may still hit it with pursuit.
+
+This move cannot be selected by assist or metronome."
+しぜんのちから,ノーマル,へんか,,20,自然の力で攻撃する。使う場所ででてくる技が変化する。,"Uses another move chosen according to the terrain.
+
+Terrain                   | Selected move
+------------------------- | ------------------
+Building                  | tri attack
+Cave                      | rock slide
+Deep water                | hydro pump
+Desert                    | earthquake
+Grass                     | seed bomb
+Mountain                  | rock slide
+Road                      | earthquake
+Shallow water             | hydro pump
+Snow                      | blizzard
+Tall grass                | seed bomb
+electric terrain | thunderbolt
+grassy terrain   | energy ball
+misty terrain    | moonblast
+
+In Pok?mon Battle Revolution:
+
+Terrain        | Selected move
+-------------- | ------------------
+Courtyard      | tri attack
+Crystal        | rock slide
+Gateway        | hydro pump
+Magma          | rock slide
+Main Street    | tri attack
+Neon           | tri attack
+Stargazer      | rock slide
+Sunny Park     | seed bomb
+Sunset         | earthquake
+Waterfall      | seed bomb
+
+This move cannot be copied by mirror move."
+じゅうでん,でんき,へんか,,20,次のターンにだすでんきタイプの技の威力をあげる。自分の特防もあがる。,"Raises the user's Special Defense by one stage.  If the user uses an electric move next turn, its power will be doubled."
+ちょうはつ,あく,へんか,,20,相手を怒らせる。３ターンのあいだ相手はダメージを与える技しかだせなくなる。,"Target is forced to only use damaging moves for the next 3?5 turns, selected at random.  Moves that select other moves not known in advance do not count as damaging.
+
+assist, copycat, me first, metronome, mirror move, and sleep talk do not directly inflict damage and thus may not be used.
+
+bide, counter, endeavor, metal burst, and mirror coat are allowed."
+てだすけ,ノーマル,へんか,,20,仲間を助ける。てだすけされたポケモンの技の威力はいつもより大きくなる。,"Boosts the power of the target's moves by 50% until the end of this turn.
+
+This move cannot be copied by mirror move, nor selected by assist or metronome."
+トリック,エスパー,へんか,,10,相手のすきをついて自分と相手の持ち物を交換する。,"User and target permanently swap held items.  Works even if one of the Pok?mon isn't holding anything.  If either Pok?mon is holding mail, this move will fail.
+
+If either Pok?mon has multitype or sticky hold, this move will fail.
+
+If this move results in a Pok?mon obtaining choice band, choice scarf, or choice specs, and that Pok?mon was the latter of the pair to move this turn, then the move it used this turn becomes its chosen forced move.  This applies even if both Pok?mon had a choice item before this move was used.  If the first of the two Pok?mon gains a choice item, it may select whatever choice move it wishes next turn.
+
+Neither the user nor the target can recover its item with recycle.
+
+This move cannot be selected by assist or metronome."
+なりきり,エスパー,へんか,,10,相手になりきって自分も相手と同じ特性に変化する。,"User's ability is replaced with the target's until the user leaves the field.  Ignores accuracy and evasion modifiers.
+
+If the target has flower gift, forecast, illusion, imposter, multitype, stance change, trace, wonder guard, or zen mode, this move will fail.
+
+This move cannot be copied by mirror move."
+ねがいごと,ノーマル,へんか,,10,次のターンに自分のＨＰを最大ＨＰの半分回復する。,"At the end of the next turn, user will be healed for half its max HP.  If the user is switched out, its replacement will be healed instead for half of the user's max HP.  If the user faints or is forcefully switched by roar or whirlwind, this effect will not activate."
+ねこのて,ノーマル,へんか,,20,大急ぎで味方の助けをかりて控えのポケモンがおぼえている技をどれか１つ使う。,"Uses a move from another Pok?mon in the user's party, both selected at random.  Moves from fainted Pok?mon can be used.  If there are no eligible Pok?mon or moves, this move will fail.
+
+This move will not select assist, chatter, circle throw, copycat, counter, covet, destiny bond, detect, dig, dive, dragon tail, endure, feint, fly focus punch, follow me, helping hand, me first, metronome, mimic, mirror coat, mirror move, phantom force protect, quick guard, roar shadow force, sketch, sleep talk, snatch, struggle, switcheroo, thief, trick, whirlwind, or wide guard.
+
+This move cannot be copied by mirror move, nor selected by metronome or sleep talk."
+ねをはる,くさ,へんか,,20,大地に根を張り毎ターン自分のＨＰを回復する。根を張っているので入れ替えられない。,"Prevents the user from switching out.  User regains 1/16 of its max HP at the end of every turn.  If the user was immune to ground attacks, it will now take normal damage from them.
+
+roar and whirlwind will not affect the user.  The user cannot use magnet rise.
+
+The user may still use u turn to leave the field.
+
+This effect can be passed with baton pass."
+ばかぢから,かくとう,ぶつり,120,5,すごい力を発揮して相手を攻撃する。自分の攻撃と防御がさがる。,"Inflicts regular damage, then lowers the user's Attack and Defense by one stage each."
+マジックコート,エスパー,へんか,,15,状態異常になる技ややどりぎのタネなどをだされたとき相手に跳ね返す。,"The first non-damaging move targeting the user this turn that inflicts major status effects, stat changes, or trapping effects will be reflected at its user.
+
+defog, memento, and teeter dance are not reflected.
+
+attract, flatter, gastro acid, leech seed, swagger, worry seed, and yawn are reflected.
+
+This move cannot be copied by mirror move."
+リサイクル,ノーマル,へんか,,10,戦闘中に使ってなくなった自分の持ち物を再生させて使えるようにする。,"User recovers the last item consumed by the user or a Pok?mon in its position on the field.  The item must be used again before it can be recovered by this move again.  If the user is holding an item, this move fails.
+
+Items taken or given away by covet, knock off, switcheroo, thief, or trick may not be recovered."
+リベンジ,かくとう,ぶつり,60,10,相手から技を受けているとその相手に対して与えるダメージが２倍になる。,"Inflicts regular damage.  If the target damaged the user this turn and was the last to do so, this move has double power.
+
+pain split does not count as damaging the user."
+かわらわり,かくとう,ぶつり,75,15,手刀を勢いよく振りおろして相手を攻撃する。ひかりのかべやリフレクターも破壊できる。,"Destroys any light screen or reflect on the target's side of the field, then inflicts regular damage."
+あくび,ノーマル,へんか,,10,大きなあくびで眠気を誘う。次のターンに相手を眠り状態にする。,"Puts the target to sleep at the end of the next turn.  Ignores accuracy and evasion modifiers.  If the target leaves the field, this effect is canceled.  If the target has a status effect when this move is used, this move will fail.
+
+If the target is protected by safeguard when this move is used, this move will fail.
+
+insomnia and vital spirit prevent the sleep if the target has either at the end of the next turn, but will not cause this move to fail on use."
+はたきおとす,あく,ぶつり,65,20,相手の持ち物をはたき落として戦闘が終わるまで使えなくする。物を持つ相手にはダメージが増す。,"Inflicts regular damage.  Target loses its held item.
+
+Neither the user nor the target can recover its item with recycle.
+
+If the target has multitype or sticky hold, it will take damage but not lose its item."
+がむしゃら,ノーマル,ぶつり,,5,相手のＨＰが自分のＨＰと同じくらいになるようにダメージを与える。,"Inflicts exactly enough damage to lower the target's HP to equal the user's.  If the target's HP is not higher than the user's, this move has no effect.  Type immunity applies, but other type effects are ignored.  This effect counts as damage for moves that respond to damage."
+ふんか,ほのお,とくしゅ,150,5,怒りを爆発させて相手を攻撃する。自分のＨＰが少ないほど技の威力はさがる。,"Inflicts regular damage.  Power increases with the user's remaining HP and is given by `150 * HP / max HP`, to a maximum of 150 when the user has full HP."
+スキルスワップ,エスパー,へんか,,10,超能力で自分の特性と相手の特性を入れ替える。,"User and target switch abilities.  Ignores accuracy and evasion modifiers.
+
+If either Pok?mon has multitype or wonder guard, this move will fail."
+ふういん,エスパー,へんか,,10,相手が自分と同じ技をおぼえていたら相手だけその技を使えなくする。,"Prevents any Pok?mon on the opposing side of the field from using any move the user knows until the user leaves the field.  This effect is live; if the user obtains new moves while on the field, these moves become restricted.  If no opposing Pok?mon knows any of the user's moves when this move is used, this move will fail."
+リフレッシュ,ノーマル,へんか,,20,体をやすめて自分がおっている毒まひやけどの状態異常を治す。,"Removes a burn, paralysis, or poison from the user."
+おんねん,ゴースト,へんか,,5,相手の技でひんしにされたときおんねんをかけてその技のＰＰを０にする。,"If the user faints before it next acts, the move that fainted it will have its PP dropped to 0.  End-of-turn damage does not trigger this effect."
+よこどり,あく,へんか,,10,相手が使おうとした回復技や能力変化の技をうばって自分に使う。,"The next time a Pok?mon uses a beneficial move on itself or itself and its ally this turn, the user of this move will steal the move and use it itself.  Moves which may be stolen by this move are identified by the ""snatchable"" flag.
+
+If two Pok?mon use this move on the same turn, the faster Pok?mon will steal the first beneficial move, and the slower Pok?mon will then steal it again?thus, only the slowest Pok?mon using this move ultimately gains a stolen move's effect.
+
+If the user steals psych up, it will target the Pok?mon that used psych up.  If the user was the original target of psych up, and the Pok?mon that originally used it's affected by pressure, it will only lose 1 PP.
+
+This move cannot be copied by mirror move, nor selected by assist or metronome."
+ひみつのちから,ノーマル,ぶつり,70,20,秘密の力で相手を攻撃する。使う場所で追加効果が変化する。,"Inflicts regular damage.  Has a 30% chance to inflict an effect chosen according to the terrain.
+
+Terrain        | Effect
+-------------- | -------------------------------------------------------------
+Building       | Paralyzes target
+Cave           | Makes target flinch
+Deep water     | Lowers target's Attack by one stage
+Desert         | Lowers target's accuracy by one stage
+Grass          | Puts target to sleep
+Mountain       | Makes target flinch
+Road           | Lowers target's accuracy by one stage
+Shallow water  | Lowers target's Attack by one stage
+Snow           | Freezes target
+Tall grass     | Puts target to sleep
+
+In Pok?mon Battle Revolution:
+
+Terrain        | Effect
+-------------- | -------------------------------------------------------------
+Courtyard      | Paralyzes target
+Crystal        | Makes target flinch
+Gateway        | Lowers target's Attack by one stage
+Magma          | Makes target flinch
+Main Street    | Paralyzes target
+Neon           | Paralyzes target
+Stargazer      | Makes target flinch
+Sunny Park     | Puts target to sleep
+Sunset         | Lowers target's accuracy by one stage
+Waterfall      | Puts target to sleep
+"
+ダイビング,みず,ぶつり,80,10,１ターン目で潜り２ターン目に浮きあがって攻撃する。,"Inflicts regular damage.  User dives underwater for one turn, becoming immune to attack, and hits on the second turn.
+
+During the immune turn, surf, and whirlpool still hit the user normally, and their power is doubled if appropriate.
+
+The user may be hit during its immune turn if under the effect of lock on, mind reader, or no guard.
+
+This move cannot be selected by sleep talk."
+つっぱり,かくとう,ぶつり,15,20,ひらいた両手で相手をつっぱって攻撃する。２ー５回のあいだ連続でだす。,"Inflicts regular damage.  Hits 2?5 times in one turn.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use."
+ほごしょく,ノーマル,へんか,,20,水辺や草むらどうくつなどいる場所にあわせて自分のタイプを変える。,"User's type changes according to the terrain.
+
+Terrain        | New type
+-------------- | --------------
+Building       | normal
+Cave           | rock
+Desert         | ground
+Grass          | grass
+Mountain       | rock
+Ocean          | water
+Pond           | water
+Road           | ground
+Snow           | ice
+Tall grass     | grass
+
+In Pok?mon Battle Revolution:
+
+Terrain        | New type
+-------------- | --------------
+Courtyard      | normal
+Crystal        | rock
+Gateway        | water
+Magma          | rock
+Main Street    | normal
+Neon           | normal
+Stargazer      | rock
+Sunny Park     | grass
+Sunset         | ground
+Waterfall      | grass
+"
+ほたるび,むし,へんか,,20,点滅する光を眺めて自分の精神を統一し特攻をぐぐーんとあげる。,Raises the user's Special Attack by three stages.
+ラスターパージ,エスパー,とくしゅ,95,5,まばゆい光を解放して攻撃する。相手の特防をさげることがある。,Inflicts regular damage.  Has a 50% chance to lower the target's Special Defense by one stage.
+ミストボール,エスパー,とくしゅ,95,5,霧状の羽毛で包みこみ攻撃する。相手の特攻をさげることがある。,Inflicts regular damage.  Has a 50% chance to lower the target's Special Attack by one stage.
+フェザーダンス,ひこう,へんか,,15,羽毛をふりまいて相手の体にからませる。相手の攻撃をがくっとさげる。,Lowers the target's Attack by two stages.
+フラフラダンス,ノーマル,へんか,,20,フラフラとダンスをおどって自分の周りにいるものを混乱状態にさせる。,Confuses all targets.
+ブレイズキック,ほのお,ぶつり,85,10,攻撃した相手をやけど状態にすることがある。急所にも当たりやすい。,Inflicts regular damage.  User's critical hit rate is one level higher when using this move. Has a 10% chance to burn the target.
+どろあそび,じめん,へんか,,15,あたりを泥まみれにする。５ターンのあいだでんきタイプの技を弱める。,"electric moves inflict half damage, regardless of target.  If the user leaves the field, this effect ends."
+アイスボール,こおり,ぶつり,30,20,５ターンの間相手を攻撃する。技が当たるたび威力があがる。,"Inflicts regular damage.  User is forced to use this move for five turns.  Power doubles every time this move is used in succession to a maximum of 16x, and resets to normal after the lock-in ends.  If this move misses or becomes unusable, the lock-in ends.
+
+If the user has used defense curl since entering the field, this move has double power."
+ニードルアーム,くさ,ぶつり,60,15,トゲの腕を激しくふるって攻撃する。相手をひるませることがある。,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+なまける,ノーマル,へんか,,5,怠けてやすむ。自分のＨＰを最大ＨＰの半分回復する。,Heals the user for half its max HP.
+ハイパーボイス,ノーマル,とくしゅ,90,10,うるさく響く大きな振動を相手に与えて攻撃する。,Inflicts regular damage.
+どくどくのキバ,どく,ぶつり,50,15,毒のあるキバで相手にかみついて攻撃する。猛毒をおわせることがある。,Inflicts regular damage.  Has a 50% chance to badly poison the target.
+ブレイククロー,ノーマル,ぶつり,75,10,硬く鋭いツメで切り裂いて攻撃する。相手の防御をさげることがある。,Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.
+ブラストバーン,ほのお,とくしゅ,150,5,爆発の炎で相手を焼きつくして攻撃する。次のターンは動けなくなる。,"Inflicts regular damage.  User loses its next turn to ""recharge"", and cannot attack or switch out during that turn."
+ハイドロカノン,みず,とくしゅ,150,5,水の大砲を相手に発射して攻撃する。次のターンは動けなくなる。,"Inflicts regular damage.  User loses its next turn to ""recharge"", and cannot attack or switch out during that turn."
+コメットパンチ,はがね,ぶつり,90,10,すい星のごとくパンチをくりだして相手を攻撃する。自分の攻撃があがることがある。,Inflicts regular damage. Has a 20% chance to raise the user's Attack one stage.
+おどろかす,ゴースト,ぶつり,30,15,大きな声などで不意に驚かして攻撃する。相手をひるませることがある。,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+ウェザーボール,ノーマル,とくしゅ,50,10,使ったときの天気によって技のタイプと威力が変わる。,"Inflicts regular damage.  If a weather move is active, this move has double power, and its type becomes the type of the weather move.  shadow sky is typeless for the purposes of this move."
+アロマセラピー,くさ,へんか,,5,心地好いやすらぐ香りをかがせて味方全員の状態異常を回復する。,Removes major status effects and confusion from every Pok?mon in the user's party.
+うそなき,あく,へんか,,20,ないたふりをして涙を流す。こまらせることで相手の特防をがくっとさげる。,Lowers the target's Special Defense by two stages.
+エアカッター,ひこう,とくしゅ,60,25,鋭い風で相手を切りつけて攻撃する。急所に当たりやすい。,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+オーバーヒート,ほのお,とくしゅ,130,5,フルパワーで相手を攻撃する。使うと反動で自分の特攻ががくっとさがる。,"Inflicts regular damage, then lowers the user's Special Attack by two stages."
+かぎわける,ノーマル,へんか,,40,ゴーストタイプに効果がない技や回避率の高い相手に攻撃が当たるようになる。,Resets the target's evasion to normal and prevents any further boosting until the target leaves the field.  A ghost under this effect takes normal damage from normal and fighting moves.  This move itself ignores accuracy and evasion modifiers.
+がんせきふうじ,いわ,ぶつり,60,15,岩石を投げつけて攻撃する。相手の動きを封じることで素早さをさげる。,Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage.
+ぎんいろのかぜ,むし,とくしゅ,60,5,風にりんぷんをのせて相手を攻撃する。自分のすべての能力があがることがある。,Inflicts regular damage. Has a 10% chance to raise all of the user's stats one stage.
+きんぞくおん,はがね,へんか,,40,金属をこすってでるようないやな音を聞かせる。相手の特防をがくっとさげる。,Lowers the target's Special Defense by two stages.
+くさぶえ,くさ,へんか,,15,心地好い笛の音色を聞かせて相手を眠りの状態にする。,Puts the target to sleep.
+くすぐる,ノーマル,へんか,,20,体をくすぐり笑わせることで相手の攻撃と防御をさげる。,Lowers the target's Attack and Defense by one stage.
+コスモパワー,エスパー,へんか,,20,宇宙から神秘の力をとりこむことで自分の防御と特防をあげる。,Raises the user's Defense and Special Defense by one stage.
+しおふき,みず,とくしゅ,150,5,潮を吹きつけて攻撃する。自分のＨＰが少ないほど技の威力はさがる。,"Inflicts regular damage.  Power increases with the user's remaining HP and is given by `150 * HP / max HP`, to a maximum of 150 when the user has full HP."
+シグナルビーム,むし,とくしゅ,75,15,不思議な光を発射して攻撃する。相手を混乱させることがある。,Inflicts regular damage.  Has a 10% chance to confuse the target.
+シャドーパンチ,ゴースト,ぶつり,60,20,影にまぎれてパンチをくりだす。攻撃は必ず命中する。,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+じんつうりき,エスパー,とくしゅ,80,20,みえない不思議な力を送って攻撃する。相手をひるませることがある。,Inflicts regular damage.  Has a 10% chance to make the target flinch.
+スカイアッパー,かくとう,ぶつり,85,15,空にむかうような高いアッパーで相手を突きあげて攻撃する。,"Inflicts regular damage.
+
+This move can hit Pok?mon under the effect of bounce, fly, or sky drop."
+すなじごく,じめん,ぶつり,35,15,激しく吹きあれる砂あらしの中に４ー５ターンのあいだ相手を閉じこめて攻撃する。,"Inflicts regular damage.  For the next 2?5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+
+rapid spin cancels this effect."
+ぜったいれいど,こおり,とくしゅ,,5,絶対零度の冷たさで相手を攻撃する。当たれば一撃でひんしにする。,"Inflicts damage equal to the target's max HP.  Ignores accuracy and evasion modifiers.  This move's accuracy is 30% plus 1% for each level the user is higher than the target.  If the user is a lower level than the target, this move will fail.
+
+Because this move inflicts a specific and finite amount of damage, endure still prevents the target from fainting.
+
+The effects of lock on, mind reader, and no guard still apply, as long as the user is equal or higher level than the target.  However, they will not give this move a chance to break through detect or protect."
+だくりゅう,みず,とくしゅ,90,10,濁った水を相手に発射して攻撃する。命中率をさげることがある。,Inflicts regular damage.  Has a 30% chance to lower the target's accuracy by one stage.
+タネマシンガン,くさ,ぶつり,25,30,タネを勢いよく相手に発射して攻撃する。２ー５回のあいだ連続でだす。,"Inflicts regular damage.  Hits 2?5 times in one turn.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use."
+つばめがえし,ひこう,ぶつり,60,20,素早い動きで相手をほんろうして切りつける。攻撃は必ず命中する。,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+つららばり,こおり,ぶつり,25,30,鋭い氷柱を相手に発射して攻撃する。２ー５回のあいだ連続でだす。,"Inflicts regular damage.  Hits 2?5 times in one turn.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use."
+てっぺき,はがね,へんか,,15,皮膚を鉄のように硬くすることで自分の防御をぐーんとあげる。,Raises the user's Defense by two stages.
+とおせんぼう,ノーマル,へんか,,5,両手をひろげてたちはだかり相手の逃げ道をふさいで逃げられなくする。,"The target cannot switch out normally.  Ignores accuracy and evasion modifiers.  This effect ends when the user leaves the field.
+
+The target may still escape by using baton pass, u turn, or a shed shell.
+
+Both the user and the target pass on this effect with baton pass."
+とおぼえ,ノーマル,へんか,,40,大声でほえて気合を高め自分の攻撃をあげる。,Raises the user's Attack by one stage.
+ドラゴンクロー,ドラゴン,ぶつり,80,15,鋭くとがった巨大なツメで相手を切り裂いて攻撃する。,Inflicts regular damage.
+ハードプラント,くさ,とくしゅ,150,5,大きな樹木で相手をたたきつけて攻撃する。次のターンは動けなくなる。,"Inflicts regular damage.  User loses its next turn to ""recharge"", and cannot attack or switch out during that turn."
+ビルドアップ,かくとう,へんか,,20,体に力をこめて筋肉をぶあつくすることで自分の攻撃と防御をあげる。,Raises the user's Attack and Defense by one stage each.
+とびはねる,ひこう,ぶつり,85,5,空高く飛び跳ねて２ターン目に相手を攻撃する。まひ状態にすることがある。,"Inflicts regular damage.  User bounces high into the air for one turn, becoming immune to attack, and hits on the second turn.  Has a 30% chance to paralyze the target.
+
+During the immune turn, gust, hurricane, sky uppercut, smack down, thunder, and twister still hit the user normally.  gust and twister also have double power against the user.
+
+The damage from hail and sandstorm still applies during the immune turn.
+
+The user may be hit during its immune turn if under the effect of lock on, mind reader, or no guard.
+
+This move cannot be used while gravity is in effect.
+
+This move cannot be selected by sleep talk."
+マッドショット,じめん,とくしゅ,55,15,泥の塊を相手に投げつけて攻撃する。同時に相手の素早さをさげる。,Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage.
+ポイズンテール,どく,ぶつり,50,25,しっぽでたたく。毒状態にすることがあり急所にも当たりやすい。,Inflicts regular damage.  User's critical hit rate is one level higher when using this move. Has a 10% chance to poison the target.
+ほしがる,ノーマル,ぶつり,60,25,かわいくあまえながら相手にちかづき持っている道具をうばう。,"Inflicts regular damage.  If the target is holding an item and the user is not, the user will permanently take the item.  Damage is still inflicted if an item cannot be taken.
+
+Pok?mon with sticky hold or multitype are immune to the item theft effect.
+
+The target cannot recover its item with recycle.
+
+This move cannot be selected by assist or metronome."
+ボルテッカー,でんき,ぶつり,120,15,電気をまとって突進する。自分もかなりダメージを受ける。まひ状態にすることがある。,Inflicts regular damage.  User takes 1/3 the damage it inflicts in recoil.  Has a 10% chance to paralyze the target.
+マジカルリーフ,くさ,とくしゅ,60,20,相手を追跡する不思議なはっぱを まきちらす。攻撃は必ず命中する。,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+みずあそび,みず,へんか,,15,あたりを水でびしょびしょにする。５ターンのあいだほのおタイプの技を弱める。,"fire moves inflict half damage, regardless of target.  If the user leaves the field, this effect ends."
+めいそう,エスパー,へんか,,20,静かに精神を統一し心を鎮めることで自分の特攻と特防をあげる。,Raises the user's Special Attack and Special Defense by one stage each.
+リーフブレード,くさ,ぶつり,90,15,はっぱを剣のようにあやつり相手を切りつけて攻撃する。急所に当たりやすい。,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+りゅうのまい,ドラゴン,へんか,,20,神秘的で力強い舞を激しくおどる。自分の攻撃と素早さをあげる。,Raises the user's Attack and Speed by one stage each.
+ロックブラスト,いわ,ぶつり,25,10,硬い岩石を相手に発射して攻撃する。２ー５回のあいだ連続でだす。,"Inflicts regular damage.  Hits 2?5 times in one turn.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use."
+でんげきは,でんき,とくしゅ,60,20,電撃を素早く相手に浴びせる。攻撃は必ず命中する。,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+みずのはどう,みず,とくしゅ,60,20,水の振動を相手に与えて攻撃する。相手を混乱させることがある。,Inflicts regular damage.  Has a 20% chance to confuse the target.
+はめつのねがい,はがね,とくしゅ,140,5,技を使った２ターン後に無数の光の束で相手を攻撃する。,"Inflicts typeless regular damage at the end of the third turn, starting with this one.  This move cannot score a critical hit.  If the target switches out, its replacement will be hit instead.  Damage is calculated at the time this move is used; stat changes and switching out during the delay won't change the damage inflicted.  No move with this effect can be used against the same target again until after the end of the third turn.
+
+This effect breaks through wonder guard.
+
+If the target is protected by protect or detect on the turn this move is used, this move will fail.  However, the damage on the third turn will break through protection.
+
+The damage is applied at the end of the turn, so it ignores endure and focus sash.
+
+This move cannot be copied by mirror move."
+サイコブースト,エスパー,とくしゅ,140,5,フルパワーで相手を攻撃する。使うと反動で自分の特攻ががくっとさがる。,"Inflicts regular damage, then lowers the user's Special Attack by two stages."
+はねやすめ,ひこう,へんか,,5,地面に降りて体をやすめる。最大ＨＰの半分のＨＰを回復する。,"Heals the user for half its max HP.  If the user is flying, its flying type is ignored until the end of this turn."
+じゅうりょく,エスパー,へんか,,5,５ターンのあいだ重力を強くしてふゆうや空へ飛ぶ技を使えなくする。,"For five turns (including this one), all immunities to ground moves are disabled.  For the duration of this effect, the evasion of every Pok?mon on the field is lowered by two stages.  Cancels the effects of bounce, fly, and sky drop.
+
+Specifically, flying Pok?mon and those with levitate or that have used magnet rise are no longer immune to ground attacks, arena trap, spikes, or toxic spikes.
+
+bounce, fly, sky drop, high jump kick, jump kick, and splash cannot be used while this move is in effect.
+
+*Bug*: If this move is used during a double or triple battle while Pok?mon are under the effect of sky drop, Sky Drop's effect is not correctly canceled on its target, and it remains high in the air indefinitely.  As Sky Drop prevents the target from acting, the only way to subsequently remove it from the field is to faint it."
+ミラクルアイ,エスパー,へんか,,40,あくタイプに効果がない技や回避率の高い相手に攻撃が当たるようになる。,Resets the target's evasion to normal and prevents any further boosting until the target leaves the field.  A dark Pok?mon under this effect takes normal damage from psychic moves.  This move itself ignores accuracy and evasion modifiers.
+めざましビンタ,かくとう,ぶつり,70,10,眠り状態の相手に大きなダメージを与える。かわりに相手は眠りからさめる。,"Inflicts regular damage.  If the target is sleeping, this move has double power, and the target wakes up."
+アームハンマー,かくとう,ぶつり,100,10,強くて重いこぶしをふるってダメージを与える。自分の素早さがさがる。,"Inflicts regular damage, then lowers the user's Speed by one stage."
+ジャイロボール,はがね,ぶつり,,5,体を高速に回転させて体当たりする。相手より素早さが低いほど強い。,"Inflicts regular damage.  Power increases with the target's current Speed compared to the user, given by `1 + 25 * target Speed / user Speed`, capped at 150."
+いやしのねがい,エスパー,へんか,,10,自分はひんしになるが控えからでてくるポケモンの状態異常とＨＰを回復する。,"User faints.  Its replacement's HP is fully restored, and any major status effect is removed.  If the replacement Pok?mon is immediately fainted by a switch-in effect, the next replacement is healed by this move instead."
+しおみず,みず,とくしゅ,65,10,相手がＨＰの半分くらいきずをおっていると技の威力が２倍になる。,"Inflicts regular damage.  If the target has less than half its max HP remaining, this move has double power."
+しぜんのめぐみ,ノーマル,ぶつり,,15,きのみから力をもらい攻撃する。持たせたきのみで技のタイプと威力が変わる。,"Inflicts regular damage.  Power and type are determined by the user's held berry.  The berry is consumed.  If the user is not holding a berry, this move will fail."
+フェイント,ノーマル,ぶつり,30,10,まもるやみきりをしている相手に攻撃ができる。守りの効果を解除させる。,"Inflicts regular damage.  Removes the effects of detect or protect from the target before hitting.
+
+This move cannot be copied by mirror move, nor selected by assist or metronome."
+ついばむ,ひこう,ぶつり,60,20,くちばしで攻撃。相手がきのみを持っているとき食べてきのみの効果を受けられる。,"Inflicts regular damage.  If the target is holding a berry, this move has double power, and the user takes the berry and uses it immediately.
+
+If the target is holding a jaboca berry or rowap berry, the berry is still removed, but has no effect.
+
+If this move is super effective and the target is holding a berry that can reduce this move's damage, it will do so, and will not be stolen."
+おいかぜ,ひこう,へんか,,15,激しく吹きあれる風の渦をつくり４ターンのあいだ味方全員の素早さをあげる。,"For the next three turns, all Pok?mon on the user's side of the field have their original Speed doubled.  This effect remains if the user leaves the field."
+つぼをつく,ノーマル,へんか,,30,つぼおしで体を活性化させる。能力のどれか１つをぐーんとあげる。,"Raises one of the target's stats by two stages.  The raised stat is chosen at random from any stats that can be raised by two stages.  If no stat is eligible, this move will fail.
+
+If the target has a substitute, this move will have no effect, even if the user is the target.
+
+This move cannot be copied by mirror move."
+メタルバースト,はがね,ぶつり,,10,技をだす前に最後に受けた技のダメージを大きくしてだした相手に返す。,"Targets the last opposing Pok?mon to hit the user with a damaging move this turn.  Inflicts 1.5× the damage that move did to the user.  If there is no eligible target, this move will fail.  Type immunity applies, but other type effects are ignored."
+とんぼがえり,むし,ぶつり,70,20,攻撃したあとものすごいスピードでもどってきて控えのポケモンと入れ替わる。,"Inflicts regular damage, then the user immediately switches out, and the trainer selects a replacement Pok?mon from the party.  If the target faints from this attack, the user's trainer selects the new Pok?mon to send out first.  If the user is the last Pok?mon in its party that can battle, it will not switch out.
+
+The user may be hit by pursuit when it switches out, if it has been targeted and pursuit has not yet been used.
+
+This move may be used even if the user is under the effect of ingrain.  ingrain's effect will end."
+インファイト,かくとう,ぶつり,120,5,守りを捨てて相手のふところに突撃する。自分の防御と特防がさがる。,"Inflicts regular damage, then lowers the user's Defense and Special Defense by one stage each."
+しっぺがえし,あく,ぶつり,50,10,ためこんで攻撃する。相手よりあとに攻撃できると技の威力は２倍になる。,"Inflicts regular damage.  If the target uses a move or switches out this turn before this move is used, this move has double power."
+ダメおし,あく,ぶつり,60,10,そのターンに相手がすでにダメージを受けていたら技の威力は２倍になる。,"Inflicts regular damage.  If the target takes damage this turn for any reason before this move is used, this move has double power."
+さしおさえ,あく,へんか,,15,持たせた道具を使えなくする。トレーナーもそのポケモンには道具を使えない。,"Target cannot use its held item for five turns.  If the target leaves the field, this effect ends.
+
+If a Pok?mon under this effect uses bug bite or pluck on a Pok?mon holding a berry, the berry is destroyed but not used.  If a Pok?mon under this effect uses fling, it will fail.
+
+This effect is passed by baton pass."
+なげつける,あく,ぶつり,,10,持たせた道具を素早く投げつけて攻撃する。道具で威力と効果が変わる。,"Inflicts regular damage.  Power and type are determined by the user's held item.  The item is consumed.  If the user is not holding an item, or its item has no set type and power, this move will fail.
+
+This move ignores sticky hold.
+
+If the user is under the effect of embargo, this move will fail."
+サイコシフト,エスパー,へんか,,10,超能力で暗示をかけて自分の受けている状態異常を相手にうつす。,"If the user has a major status effect and the target does not, the user's status is transferred to the target."
+きりふだ,ノーマル,とくしゅ,,5,きりふだの残りＰＰが少なければ少ないほど技の威力があがる。,"Inflicts regular damage.  Power is determined by the PP remaining for this move, after its PP cost is deducted.  Ignores accuracy and evasion modifiers.
+
+PP remaining | Power
+------------ | ----:
+4 or more    |    40
+3            |    50
+2            |    60
+1            |    80
+0            |   200
+
+If this move is activated by another move, the activating move's PP is used to calculate power."
+かいふくふうじ,エスパー,へんか,,15,５ターンのあいだ技や特性や持っている道具によってＨＰを回復できなくする。,"For the next five turns, the target may not use any moves that only restore HP, and move effects that heal the target are disabled.  Moves that steal HP may still be used, but will only inflict damage and not heal the target."
+しぼりとる,ノーマル,とくしゅ,,5,強く締めあげて攻撃をする。相手のＨＰが残っているほど威力はあがる。,"Inflicts regular damage.  Power directly relates to the target's relative remaining HP, given by `1 + 120 * current HP / max HP`, to a maximum of 121."
+パワートリック,エスパー,へんか,,10,超能力で自分の攻撃と防御の力を交換する。,"The user's original Attack and Defense are swapped.
+
+This effect is passed on by baton pass."
+いえき,どく,へんか,,10,胃液を相手の体に吐きつける。ついた胃液は相手の特性の効果を消す。,"The target's ability is disabled as long as it remains on the field.
+
+This effect is passed on by baton pass."
+おまじない,ノーマル,へんか,,30,天にむかっておいのりをささげ相手の攻撃を急所に当たらなくする。,"For five turns, opposing Pok?mon cannot score critical hits."
+さきどり,ノーマル,へんか,,20,威力をあげて相手がだそうとする技を先にだす。先にだせないと失敗する。,"If the target has selected a damaging move this turn, the user will copy that move and use it against the target, with a 50% increase in power.
+
+If the target moves before the user, this move will fail.
+
+This move cannot be copied by mirror move, nor selected by assist, metronome, or sleep talk."
+まねっこ,ノーマル,へんか,,20,直前にでた技をまねして同じ技をだす。技がでていないと失敗する。,"Uses the last move that was used successfully by any Pok?mon, including the user.
+
+This move cannot copy itself, nor roar nor whirlwind.
+
+This move cannot be copied by mirror move, nor selected by assist, metronome, or sleep talk."
+パワースワップ,エスパー,へんか,,10,超能力で自分と相手の攻撃と特攻の能力変化を入れ替える。,User swaps its Attack and Special Attack stat modifiers modifiers with the target.
+ガードスワップ,エスパー,へんか,,10,超能力で自分と相手の防御と特防の能力変化を入れ替える。,User swaps its Defense and Special Defense modifiers with the target.
+おしおき,あく,ぶつり,,5,能力変化で相手がパワーアップしているほど技の威力があがる。,"Inflicts regular damage.  Power starts at 60 and is increased by 20 for every stage any of the target's stats has been raised, capping at 200.  Accuracy and evasion modifiers do not increase this move's power."
+とっておき,ノーマル,ぶつり,140,5,戦闘中におぼえている技をすべて使うとはじめてだせるとっておきの技。,"Inflicts regular damage.  This move can only be used if each of the user's other moves has been used at least once since the user entered the field.  If this is the user's only move, this move will fail."
+なやみのタネ,くさ,へんか,,10,心をなやませるタネを植えつける。相手を眠れなくして特性をふみんにする。,"Changes the target's ability to insomnia.
+
+If the target's ability is truant or multitype, this move will fail."
+ふいうち,あく,ぶつり,70,5,相手より先に攻撃できる。相手がだす技が攻撃技でないと失敗する。,"Inflicts regular damage.  If the target has not selected a damaging move this turn, or if the target has already acted this turn, this move will fail.
+
+This move is not affected by iron fist."
+どくびし,どく,へんか,,20,相手の足下にどくびしをしかける。交代ででてきた相手のポケモンに毒をおわせる。,"Scatters poisoned spikes around the opposing field, which poison opposing Pok?mon that enter the field.  A second layer of these spikes may be laid down, in which case Pok?mon will be badly poisoned instead.  Pok?mon immune to either ground moves or being poisoned are immune to this effect.  Pok?mon otherwise immune to ground moves are affected during gravity.
+
+If a poison Pok?mon not immune to ground moves enters a field covered with poisoned spikes, the spikes are removed.
+
+rapid spin will remove this effect from its user's side of the field.  defog will remove this effect from its target's side of the field.
+
+This move does not trigger synchronize, unless the Pok?mon with synchronize was forced to enter the field by another effect such as roar.
+
+Pok?mon entering the field due to baton pass are not affected by this effect."
+ハートスワップ,エスパー,へんか,,10,超能力で自分と相手にかかっている能力変化を入れ替える。,User swaps its stat modifiers with the target.
+アクアリング,みず,へんか,,20,自分の体の周りを水でつくったベールでおおう。毎ターンＨＰを回復する。,"Restores 1/16 of the user's max HP at the end of each turn.  If the user leaves the field, this effect ends.
+
+This effect is passed on by baton pass."
+でんじふゆう,でんき,へんか,,10,電気でつくった磁力の力で宙に浮かぶ。５ターンのあいだ浮遊できる。,"For five turns, the user is immune to ground moves.
+
+If the user is under the effect of ingrain or has levitate, this move will fail.
+
+This effect is temporarily disabled by and cannot be used during gravity.
+
+This effect is passed on by baton pass."
+フレアドライブ,ほのお,ぶつり,120,15,炎をまとって突進する。自分もかなりダメージを受ける。やけど状態にすることがある。,"Inflicts regular damage.  User takes 1/3 the damage it inflicts in recoil.  Has a 10% chance to burn the target.  Frozen Pok?mon may use this move, in which case they will thaw."
+はっけい,かくとう,ぶつり,60,10,相手の体に衝撃波を当てて攻撃する。まひ状態にすることがある。,Inflicts regular damage.  Has a 30% chance to paralyze the target.
+はどうだん,かくとう,とくしゅ,80,20,体の奥から波導の力を相手にうち放つ。攻撃は必ず命中する。,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+ロックカット,いわ,へんか,,20,自分の体を磨いて空気の抵抗を少なくする。素早さをぐーんとあげることができる。,Raises the user's Speed by two stages.
+どくづき,どく,ぶつり,80,20,毒にそまった触手や腕で相手を突き刺す。毒状態にすることがある。,Inflicts regular damage.  Has a 30% chance to poison the target.
+あくのはどう,あく,とくしゅ,80,15,体から悪意にみちた恐ろしいオーラを発する。相手をひるませることがある。,Inflicts regular damage.  Has a 20% chance to make the target flinch.
+つじぎり,あく,ぶつり,70,15,一瞬のすきをついて相手を切りはらう。急所に当たりやすい。,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+アクアテール,みず,ぶつり,90,10,激しくあれくるう荒波のように大きなしっぽをふって相手を攻撃する。,Inflicts regular damage.
+タネばくだん,くさ,ぶつり,80,15,硬い殻をもつ大きなタネを上からたたきつけて相手を攻撃する。,Inflicts regular damage.
+エアスラッシュ,ひこう,とくしゅ,75,15,空をも切り裂く空気の刃で攻撃する。相手をひるませることがある。,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+シザークロス,むし,ぶつり,80,15,カマやツメをハサミのように交差させながら相手を切り裂く。,Inflicts regular damage.
+むしのさざめき,むし,とくしゅ,90,10,はねの振動で音波をおこして攻撃する。相手の特防をさげることがある。,Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.
+りゅうのはどう,ドラゴン,とくしゅ,85,10,大きな口から衝撃波をまきおこして相手を攻撃する。,Inflicts regular damage.
+ドラゴンダイブ,ドラゴン,ぶつり,100,10,すさまじい殺気で威圧しながら体当たりする。相手をひるませることがある。,Inflicts regular damage.  Has a 20% chance to make the target flinch.
+パワージェム,いわ,とくしゅ,80,20,宝石のようにきらめく光を発射して相手を攻撃する。,Inflicts regular damage.
+ドレインパンチ,かくとう,ぶつり,75,10,こぶしから相手の力を吸い取る。与えたダメージの半分のＨＰを回復できる。,Inflicts regular damage.  Drains half the damage inflicted to heal the user.
+しんくうは,かくとう,とくしゅ,40,30,こぶしをふって真空の波をまきおこす。必ず先制攻撃できる。,Inflicts regular damage.
+きあいだま,かくとう,とくしゅ,120,5,気合を高めてありったけの力を放出する。相手の特防をさげることがある。,Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.
+エナジーボール,くさ,とくしゅ,90,10,自然から集めた命の力を発射する。相手の特防をさげることがある。,Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.
+ブレイブバード,ひこう,ぶつり,120,15,はねをおりたたみ低空飛行で突撃する。自分もかなりダメージを受ける。,Inflicts regular damage.  User takes 1/3 the damage it inflicts in recoil.
+だいちのちから,じめん,とくしゅ,90,10,相手の足下へ大地の力を放出する。相手の特防をさげることがある。,Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.
+すりかえ,あく,へんか,,10,目にもとまらぬ速さで自分と相手の持ち物を交換する。,"User and target permanently swap held items.  Works even if one of the Pok?mon isn't holding anything.  If either Pok?mon is holding mail, this move will fail.
+
+If either Pok?mon has multitype or sticky hold, this move will fail.
+
+If this move results in a Pok?mon obtaining choice band, choice scarf, or choice specs, and that Pok?mon was the latter of the pair to move this turn, then the move it used this turn becomes its chosen forced move.  This applies even if both Pok?mon had a choice item before this move was used.  If the first of the two Pok?mon gains a choice item, it may select whatever choice move it wishes next turn.
+
+Neither the user nor the target can recover its item with recycle.
+
+This move cannot be selected by assist or metronome."
+ギガインパクト,ノーマル,ぶつり,150,5,持てる力をすべて使って相手に突撃する。次のターンは動けなくなる。,"Inflicts regular damage.  User loses its next turn to ""recharge"", and cannot attack or switch out during that turn."
+わるだくみ,あく,へんか,,20,悪いことを考えて頭を活性化させる。自分の特攻をぐーんとあげる。,Raises the user's Special Attack by two stages.
+バレットパンチ,はがね,ぶつり,40,30,弾丸のような速くて硬いパンチを相手にくりだす。必ず先制攻撃できる。,Inflicts regular damage.
+ゆきなだれ,こおり,ぶつり,60,10,相手から技を受けているとその相手に対して技の威力が２倍になる。,"Inflicts regular damage.  If the target damaged the user this turn and was the last to do so, this move has double power.
+
+pain split does not count as damaging the user."
+こおりのつぶて,こおり,ぶつり,40,30,氷の塊を一瞬でつくり相手に素早く放つ。必ず先制攻撃できる。,Inflicts regular damage.
+シャドークロー,ゴースト,ぶつり,70,15,影からつくった鋭いツメで相手を切り裂く。急所に当たりやすい。,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+かみなりのキバ,でんき,ぶつり,65,15,電気をためたキバでかみつく。相手をひるませたりまひ状態にすることがある。,Inflicts regular damage.  Has a 10% chance to paralyze the target and a separate 10% chance to make the target flinch.
+こおりのキバ,こおり,ぶつり,65,15,冷気をひめたキバでかみつく。相手をひるませたりこおり状態にすることがある。,Inflicts regular damage.  Has a 10% chance to freeze the target and a separate 10% chance to make the target flinch.
+ほのおのキバ,ほのお,ぶつり,65,15,炎をまとったキバでかみつく。相手をひるませたりやけど状態にすることがある。,Inflicts regular damage.  Has a 10% chance to burn the target and a separate 10% chance to make the target flinch.
+かげうち,ゴースト,ぶつり,40,30,影をのばして相手の背後から攻撃する。必ず先制攻撃できる。,Inflicts regular damage.
+どろばくだん,じめん,とくしゅ,65,10,硬い泥の弾を相手に発射して攻撃する。命中率をさげることがある。,Inflicts regular damage.  Has a 30% chance to lower the target's accuracy by one stage.
+サイコカッター,エスパー,ぶつり,70,20,実体化させた心の刃で相手を切り裂く。急所に当たりやすい。,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+しねんのずつき,エスパー,ぶつり,80,15,思念の力を額に集めて攻撃する。相手をひるませることがある。,Inflicts regular damage.  Has a 20% chance to make the target flinch.
+ミラーショット,はがね,とくしゅ,65,10,磨きあげられた体からせん光の力を相手に放つ。命中率をさげることがある。,Inflicts regular damage.  Has a 30% chance to lower the target's accuracy by one stage.
+ラスターカノン,はがね,とくしゅ,80,10,体の光を一点に集めて力を放つ。相手の特防をさげることがある。,Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.
+ロッククライム,ノーマル,ぶつり,90,20,すごい勢いで相手につっこみ攻撃する。相手を混乱させることがある。,Inflicts regular damage.  Has a 20% chance to confuse the target.
+きりばらい,ひこう,へんか,,15,強い風で相手のリフレクターやひかりのかべなどをはらいのける。回避率もさげる。,"Lowers the target's evasion by one stage.  Clears away fog.  Removes the effects of mist, light screen, reflect, safeguard, spikes, stealth rock, and toxic spikes from the target's side of the field.
+
+If the target is protected by mist, it will prevent the evasion change, then be removed by this move."
+トリックルーム,エスパー,へんか,,5,まか不思議な空間をつくる。５ターンのあいだ遅いポケモンから行動できる。,"For five turns (including this one), slower Pok?mon will act before faster Pok?mon.  Move priority is not affected.  Using this move when its effect is already active will end the effect.
+
+Pok?mon holding full incense, lagging tail, or quick claw and Pok?mon with stall ignore this effect."
+りゅうせいぐん,ドラゴン,とくしゅ,130,5,天空から隕石を相手に落とす。使うと反動で自分の特攻ががくっとさがる。,"Inflicts regular damage, then lowers the user's Special Attack by two stages."
+ほうでん,でんき,とくしゅ,80,15,まばゆい電撃で自分の周りにいるものを攻撃する。まひ状態にすることがある。,Inflicts regular damage.  Has a 30% chance to paralyze the target.
+ふんえん,ほのお,とくしゅ,80,15,真っ赤な炎で自分の周りにいるものを攻撃する。やけど状態にすることがある。,Inflicts regular damage.  Has a 30% chance to burn the target.
+リーフストーム,くさ,とくしゅ,130,5,とがったはっぱで相手にあらしをおこす。使うと反動で自分の特攻ががくっとさがる。,"Inflicts regular damage, then lowers the user's Special Attack by two stages."
+パワーウィップ,くさ,ぶつり,120,10,ツタや触手を激しくふるって相手をたたきつけ攻撃する。,Inflicts regular damage.
+がんせきほう,いわ,ぶつり,150,5,巨大な岩を相手に発射して攻撃する。次のターンは動けなくなる。,"Inflicts regular damage.  User loses its next turn to ""recharge"", and cannot attack or switch out during that turn."
+クロスポイズン,どく,ぶつり,70,20,毒の刃で相手を切り裂く。毒状態にすることがあり急所にも当たりやすい。,Inflicts regular damage.  User's critical hit rate is one level higher when using this move. Has a 10% chance to poison the target.
+ダストシュート,どく,ぶつり,120,5,汚いゴミを相手にぶつけて攻撃する。毒状態にすることがある。,Inflicts regular damage.  Has a 30% chance to poison the target.
+アイアンヘッド,はがね,ぶつり,80,15,鋼のような硬い頭で攻撃する。相手をひるませることがある。,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+マグネットボム,はがね,ぶつり,60,20,相手に吸いつく鋼の爆弾を発射する。攻撃は必ず命中する。,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+ストーンエッジ,いわ,ぶつり,100,5,とがった岩を相手に突き刺して攻撃する。急所に当たりやすい。,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+ゆうわく,ノーマル,へんか,,20,♂なら♀を♀なら♂を誘惑して相手の特攻をがくっとさげる。,"Lowers the target's Special Attack by two stages.  If the user and target are the same gender, or either is genderless, this move will fail."
+ステルスロック,いわ,へんか,,20,相手の周りに無数の岩を浮かべて交代ででてきた相手のポケモンにダメージを与える。,"Spreads sharp rocks around the opposing field, damaging any Pok?mon that enters the field for 1/8 its max HP.  This damage is affected by the entering Pok?mon's susceptibility to rock moves.
+
+rapid spin removes this effect from its user's side of the field."
+くさむすび,くさ,とくしゅ,,20,草をからませて相手を転ばせる。相手が重いほど威力があがる。,"Inflicts regular damage.  Power increases with the target's weight in kilograms, to a maximum of 120.
+
+Target's weight | Power
+--------------- | ----:
+Up to 10kg      |    20
+Up to 25kg      |    40
+Up to 50kg      |    60
+Up to 100kg     |    80
+Up to 200kg     |   100
+Above 200kg     |   120
+"
+おしゃべり,ひこう,とくしゅ,65,20,おぼえた言葉で音波をおこして攻撃する。相手を混乱させる。,"Inflicts regular damage.  Has either a 1%, 11%, or 31% chance to confuse the target, based on the volume of the recording made for this move; louder recordings increase the chance of confusion.  If the user is not a chatot, this move will not cause confusion.
+
+This move cannot be copied by mimic, mirror move, or sketch, nor selected by assist, metronome, or sleep talk."
+さばきのつぶて,ノーマル,とくしゅ,100,10,無数の光弾を相手に放出する。自分の持つプレートによりタイプが変わる。,"Inflicts regular damage.  If the user is holding a plate or a drive, this move's type is the type corresponding to that item.
+
+Note: This effect is technically shared by both techno blast and judgment; however, Techno Blast is only affected by drives, and Judgment is only affected by plates."
+むしくい,むし,ぶつり,60,20,かみついて攻撃する。相手がきのみを持っているとき食べてきのみの効果を受けられる。,"Inflicts regular damage.  If the target is holding a berry, this move has double power, and the user takes the berry and uses it immediately.
+
+If the target is holding a jaboca berry or rowap berry, the berry is still removed, but has no effect.
+
+If this move is super effective and the target is holding a berry that can reduce this move's damage, it will do so, and will not be stolen."
+チャージビーム,でんき,とくしゅ,50,10,電撃の束を相手に発射する。電気をためて自分の特攻をあげることがある。,Inflicts regular damage.  Has a 70% chance to raise the user's Special Attack by one stage.
+ウッドハンマー,くさ,ぶつり,120,15,硬い胴体を相手にたたきつけて攻撃する。自分もかなりダメージを受ける。,Inflicts regular damage.  User takes 1/3 the damage it inflicts in recoil.
+アクアジェット,みず,ぶつり,40,20,目にも留まらぬものすごい速さで相手につっこむ。必ず先制攻撃できる。,Inflicts regular damage.
+こうげきしれい,むし,ぶつり,90,15,しもべを呼びだして相手にむかって攻撃させる。急所に当たりやすい。,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+ぼうぎょしれい,むし,へんか,,10,しもべを呼びだして自分の体におおいつかせる。防御と特防をあげることができる。,Raises the user's Defense and Special Defense by one stage.
+かいふくしれい,むし,へんか,,10,しもべを呼びだしてきずを治す。最大ＨＰの半分自分のＨＰを回復する。,Heals the user for half its max HP.
+もろはのずつき,いわ,ぶつり,150,5,命を懸けてこん身の力で相手にずつきをする。自分もものすごいダメージを受ける。,Inflicts regular damage.  User takes 1/2 the damage it inflicts in recoil.
+ダブルアタック,ノーマル,ぶつり,35,10,しっぽなどを使い相手をたたいて攻撃する。２回連続でダメージを与える。,Inflicts regular damage.  Hits twice in one turn.
+ときのほうこう,ドラゴン,とくしゅ,150,5,時間がゆがむほどの力をうちだして相手を攻撃する。次のターンは動けなくなる。,"Inflicts regular damage.  User loses its next turn to ""recharge"", and cannot attack or switch out during that turn."
+あくうせつだん,ドラゴン,とくしゅ,100,5,周りの空間ごと相手を引き裂きダメージを与える。急所に当たりやすい。,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+みかづきのまい,エスパー,へんか,,10,自分はひんしになるが控えからでてくるポケモンのすべての状態を回復する。,"User faints.  Its replacement's HP and PP are fully restored, and any major status effect is removed."
+にぎりつぶす,ノーマル,ぶつり,,5,すさまじい力で相手をにぎりつぶす。相手のＨＰが残っているほど威力があがる。,"Inflicts regular damage.  Power directly relates to the target's relative remaining HP, given by `1 + 120 * current HP / max HP`, to a maximum of 121."
+マグマストーム,ほのお,とくしゅ,100,5,激しく燃えたぎる炎のなかに４ー５ターンのあいだ相手を閉じこめて攻撃する。,"Inflicts regular damage.  For the next 2?5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+
+rapid spin cancels this effect."
+ダークホール,あく,へんか,,10,暗黒の世界にひきずり落として相手を眠り状態にする。,Puts the target to sleep.
+シードフレア,くさ,とくしゅ,120,5,体の中から衝撃波を発生させる。相手の特防をがくっとさげることがある。,Inflicts regular damage.  Has a 40% chance to lower the target's Special Defense by two stages.
+あやしいかぜ,ゴースト,とくしゅ,60,5,みのけもよだつ突風で相手を攻撃する。自分のすべての能力があがることがある。,Inflicts regular damage. Has a 10% chance to raise all of the user's stats one stage.
+シャドーダイブ,ゴースト,ぶつり,120,5,１ターン目で姿を消して２ターン目に相手を攻撃する。守っていても攻撃は当たる。,"Inflicts regular damage.  User vanishes for one turn, becoming immune to attack, and hits on the second turn.
+
+This move ignores the effects of detect and protect.
+
+This move cannot be selected by sleep talk."
+つめとぎ,あく,へんか,,15,ツメを磨いて鋭くする。自分の攻撃と命中率をあげる。,Raises the user's Attack and accuracy by one stage.
+ワイドガード,いわ,へんか,,10,味方全員に当たる攻撃を１ターンのあいだ防ぐ。,"Moves with multiple targets will not hit friendly Pok?mon for the remainder of this turn.  If the user is last to act this turn, this move will fail.
+
+This move cannot be selected by assist or metronome."
+ガードシェア,エスパー,へんか,,10,超能力で自分と相手の防御と特防をたして半分にわける。,Averages the user's unmodified Defense with the target's unmodified Defense; the value becomes the unmodified Defense for both Pok?mon. Unmodified Special Defense is averaged the same way.
+パワーシェア,エスパー,へんか,,10,超能力で自分と相手の攻撃と特攻をたして半分にわける。,"Averages the user's unmodified Attack with the target's unmodified Attack; the value becomes the unmodified Attack for both Pok?mon. Unmodified Special Attack is averaged the same way.
+
+This effect applies before any other persistent changes to unmodified Attack or Special Attack, such as flower gift during sunny day."
+ワンダールーム,エスパー,へんか,,10,まか不思議な空間をつくる。５ターンのあいだすべてのポケモンの防御と特防が入れ替わる。,"For five turns (including this one), every Pok?mon's Defense and Special Defense are swapped."
+サイコショック,エスパー,とくしゅ,80,10,不思議な念波を実体化して相手を攻撃する。物理的なダメージを与える。,"Inflicts regular damage.  Damage calculation always uses the target's Defense, regardless of this move's damage class."
+ベノムショック,どく,とくしゅ,65,10,特殊な毒液を浴びせかける。毒状態の相手には威力が２倍になる。,"Inflicts regular damage.  If the target is poisoned, this move has double power."
+ボディパージ,はがね,へんか,,15,体のムダな部分を削る。自分の素早さをぐーんとあげて体重も軽くなる。,Raises the user's Speed by two stages.  Halves the user's weight; this effect does not stack.
+いかりのこな,むし,へんか,,20,イライラさせる粉を自分にふりかけて注意をひく。相手の攻撃をすべて自分にむける。,"Until the end of this turn, any moves that opposing Pok?mon target solely at the user's ally will instead target the user.  If both Pok?mon on the same side of the field use this move on the same turn, the Pok?mon that uses it last will become the target.
+
+This effect takes priority over lightning rod and storm drain.
+
+If the user's ally switches out, opposing Pok?mon may still hit it with pursuit.
+
+This move cannot be selected by assist or metronome."
+テレキネシス,エスパー,へんか,,15,超能力で相手を浮かせる。３ターンのあいだ攻撃が相手に当たりやすくなる。,"For three turns (including this one), moves used against the target have 100% accuracy, but the target is immune to ground damage.  Accuracy of one-hit KO moves is exempt from this effect.
+
+This effect is removed by gravity.  If Gravity is already in effect, this move will fail."
+マジックルーム,エスパー,へんか,,10,まか不思議な空間をつくる。５ターンのあいだすべてのポケモンの道具の効果がなくなる。,"For five turns (including this one), passive effects of held items are ignored, and Pok?mon will not use their held items."
+うちおとす,いわ,ぶつり,50,15,石や弾を投げて飛んでいる相手を攻撃する。相手はうち落とされて地面に落ちる。,"Inflicts regular damage.  Removes the target's immunity to ground-type damage.  This effect removes any existing Ground immunity due to levitate, magnet rise, or telekinesis, and causes the target's flying type to be ignored when it takes Ground damage.
+
+If the target isn't immune to Ground damage, this move will fail.
+
+This move can hit Pok?mon under the effect of bounce, fly, or sky drop, and ends the effect of Bounce or Fly."
+やまあらし,かくとう,ぶつり,60,10,強烈な一撃を相手にくりだす。攻撃は必ず急所に当たる。,Inflicts regular damage.  Always scores a critical hit.
+はじけるほのお,ほのお,とくしゅ,70,15,当たるとはじける炎で相手を攻撃する。はじけた炎は隣の相手にもふりかかる。,"Inflicts regular damage.  If this move successfully hits the target, any Pok?mon adjacent to the target are damaged for 1/16 their max HP."
+ヘドロウェーブ,どく,とくしゅ,95,10,ヘドロの波で自分の周りにいるものを攻撃する。毒状態にすることがある。,Inflicts regular damage.  Has a 10% chance to poison the target.
+ちょうのまい,むし,へんか,,20,神秘的で美しい舞を軽やかにおどる。自分の特攻と特防と素早さをあげる。,"Raises the user's Special Attack, Special Defense, and Speed by one stage each."
+ヘビーボンバー,はがね,ぶつり,,10,重たい体で相手にぶつかって攻撃する。自分が相手より重いほど威力があがる。,"Inflicts regular damage.  The greater the user's weight compared to the target's, the higher power this move has, to a maximum of 120.
+
+User's weight                    | Power
+-------------------------------- | ----:
+Up to 2× the target's weight     |    40
+Up to 3× the target's weight     |    60
+Up to 4× the target's weight     |    80
+Up to 5× the target's weight     |   100
+More than 5× the target's weight |   120
+"
+シンクロノイズ,エスパー,とくしゅ,120,10,不思議な電波で周りにいる自分と同じタイプのポケモンにダメージを与える。,Inflicts regular damage.  Only Pok?mon that share a type with the user will take damage from this move.
+エレキボール,でんき,とくしゅ,,10,電気の塊を相手にぶつける。相手より素早さが速いほど威力があがる。,"Inflicts regular damage.  The greater the user's Speed compared to the target's, the higher power this move has, to a maximum of 150.
+
+User's Speed                     | Power
+-------------------------------- | ----:
+Up to 2× the target's Speed      |    60
+Up to 3× the target's Speed      |    80
+Up to 4× the target's Speed      |   120
+More than 4× the target's Speed  |   150
+"
+みずびたし,みず,へんか,,20,たくさんの水を浴びせかけて相手をみずタイプにする。,"Changes the target to pure water-type until it leaves the field.  If the target has multitype, this move will fail."
+ニトロチャージ,ほのお,ぶつり,50,20,炎をまとい相手を攻撃する。力をためて自分の素早さをあげる。,Inflicts regular damage.  Raises the user's Speed by one stage.
+とぐろをまく,どく,へんか,,20,とぐろをまいて集中する。自分の攻撃と防御と命中率をあげる。,"Raises the user's Attack, Defense, and accuracy by one stage each."
+ローキック,かくとう,ぶつり,65,20,素早い動きで相手の足をねらって攻撃する。相手の素早さをさげる。,Lowers the target's Speed by one stage.
+アシッドボム,どく,とくしゅ,40,20,相手をとかす液体を吐きだして攻撃する。相手の特防をがくっとさげる。,Inflicts regular damage.  Lowers the target's Special Defense by two stages.
+イカサマ,あく,ぶつり,95,15,相手の力を利用する。戦っている相手の攻撃が高いほどダメージがあがる。,Inflicts regular damage.  Damage is calculated using the target's attacking stat rather than the user's.
+シンプルビーム,ノーマル,へんか,,15,なぞの念波を相手に送る。念波を受けとった相手は特性がたんじゅんになる。,Changes the target's ability to simple.
+なかまづくり,ノーマル,へんか,,15,不思議なリズムでおどる。動きをまねさせて自分と相手の特性を同じにする。,Changes the target's ability to match the user's.  This effect ends when the target leaves battle.
+おさきにどうぞ,ノーマル,へんか,,15,相手の行動をサポートして自分の行動のあとに続けて動けるようにする。,"The target will act next this turn, regardless of Speed or move priority.
+If the target has already acted this turn, this move will fail."
+りんしょう,ノーマル,とくしゅ,60,15,歌で相手を攻撃する。みんなで輪唱すると続けてだすことができ威力もあがる。,"Inflicts regular damage.  If round has already been used this turn, this move's power is doubled.  After this move is used, any other Pok?mon using it this turn will immediately do so (in the order they would otherwise act), regardless of Speed or priority.  Pok?mon using other moves will then continue to act as usual."
+エコーボイス,ノーマル,とくしゅ,40,15,響く声で相手を攻撃する。毎ターンだれかが技を使い続けると威力があがる。,"Inflicts regular damage.  If any friendly Pok?mon used this move earlier this turn or on the previous turn, that use's power is added to this move's power, to a maximum of 200."
+なしくずし,ノーマル,ぶつり,70,20,すきをみて堅実に攻撃する。相手の能力変化に関係なくダメージを与える。,"Inflicts regular damage.  Damage calculation ignores the target's stat modifiers, including evasion."
+クリアスモッグ,どく,とくしゅ,50,15,特殊な泥の塊を相手に投げつけて攻撃する。能力変化をもとにもどす。,Inflicts regular damage.  All of the target's stat modifiers are reset to zero.
+アシストパワー,エスパー,とくしゅ,20,10,蓄積されたパワーで相手を攻撃する。自分の能力があがっているほど威力があがる。,"Inflicts regular damage.  Power is increased by 100% its original value for every stage any of the user's stats have been raised.  Accuracy, evasion, and lowered stats do not affect this move's power.  For a Pok?mon with all five stats modified to +6, this move's power is 31×."
+ファストガード,かくとう,へんか,,15,自分と味方を相手の先制攻撃から守る。,"Moves with priority greater than 0 will not hit friendly Pok?mon for the remainder of this turn.  If the user is last to act this turn, this move will fail.
+
+This move cannot be selected by assist or metronome."
+サイドチェンジ,エスパー,へんか,,15,不思議な力でテレポートして自分と味方の居場所を入れ替える。,"User switches position on the field with the friendly Pok?mon opposite it.  If the user is in the middle position in a triple battle, or there are no other friendly Pok?mon, this move will fail."
+ねっとう,みず,とくしゅ,80,15,熱く煮えたぎる水を相手に発射して攻撃する。やけど状態にすることがある。,Inflicts regular damage.  Has a 30% chance to burn the target.
+からをやぶる,ノーマル,へんか,,15,殻をやぶって自分の防御特防をさげるが攻撃特攻素早さをぐーんとあげる。,"Raises the user's Attack, Special Attack, and Speed by two stages each.  Lowers the user's Defense and Special Defense by one stage each."
+いやしのはどう,エスパー,へんか,,10,いやしのはどうをとばして最大ＨＰの半分相手のＨＰを回復する。,Heals the target for half its max HP.
+たたりめ,ゴースト,とくしゅ,65,10,たたみかけるように攻撃する。状態異常の相手に大きなダメージを与える。,"Inflicts regular damage.  If the target has a major status ailment, this move has double power."
+フリーフォール,ひこう,ぶつり,60,10,１ターン目で相手を空へ連れさり２ターン目に落として攻撃する。連れさられた相手は動けない。,"Inflicts regular damage.  User carries the target high into the air for one turn, during which no moves will hit either Pok?mon and neither can act.  On the following turn, the user drops the target, inflicting damage and ending the effect.
+
+If the target is flying-type, this move will function as normal but inflict no damage.
+
+gust, hurricane, sky uppercut, smack down, thunder, twister, and whirlwind can hit both the user and the target during this effect.  gust and twister will additionally have double power.
+
+The damage from hail and sandstorm still applies during this effect.
+
+Either Pok?mon may be hit during this effect if also under the effect of lock on, mind reader, or no guard.
+
+This move cannot be used while gravity is in effect.
+
+This move cannot be selected by sleep talk.
+
+*Bug*: If gravity is used during a double or triple battle while this move is in effect, this move is not correctly canceled on the target, and it remains high in the air indefinitely.  As this move prevents the target from acting, the only way to subsequently remove it from the field is to faint it."
+ギアチェンジ,はがね,へんか,,10,歯車を回して自分の攻撃をあげるだけでなく素早さもぐーんとあげる。,Raises the user's Attack by one stage and its Speed by two stages.
+ともえなげ,かくとう,ぶつり,60,10,相手を投げとばして控えのポケモンをひきずりだす。野生の場合は戦闘が終わる。,"Inflicts regular damage, then switches the target out for another of its trainer's Pok?mon, selected at random.
+
+If the target is under the effect of ingrain or suction cups, or it has a substitute, or its Trainer has no more usable Pok?mon, it will not be switched out.  If the target is a wild Pok?mon, the battle ends instead."
+やきつくす,ほのお,とくしゅ,60,15,炎で相手を攻撃する。相手がきのみなどを持っているとき燃やして使えなくする。,"Inflicts regular damage.  If the target is holding a berry, it's destroyed and cannot be used in response to this move."
+さきおくり,あく,へんか,,15,相手をおさえつけて行動の順番を最後にする。,"Forces the target to act last this turn, regardless of Speed or move priority.  If the target has already acted this turn, this move will fail."
+アクロバット,ひこう,ぶつり,55,15,軽やかに相手を攻撃する。自分が道具を持っていないとき大きなダメージを与える。,"Inflicts regular damage.  If the user has no held item, this move has double power."
+ミラータイプ,ノーマル,へんか,,15,相手のタイプを反射して自分も同じタイプになる。,User's type changes to match the target's.
+かたきうち,ノーマル,ぶつり,70,5,倒れた味方のかたきを討つ。前のターンに味方が倒されていると威力があがる。,"Inflicts regular damage.  If a friendly Pok?mon fainted on the previous turn, this move has double power."
+いのちがけ,かくとう,とくしゅ,,5,命懸けで相手を攻撃する。自分はひんしになるが相手にＨＰ分のダメージを与える。,Inflicts damage equal to the user's remaining HP.  User faints.
+ギフトパス,ノーマル,へんか,,15,相手が道具を持っていないとき自分が持っている道具を相手にわたす。,"Transfers the user's held item to the target.  If the user has no held item, or the target already has a held item, this move will fail."
+れんごく,ほのお,とくしゅ,100,5,激しい炎で相手を包みこみ攻撃する。やけど状態にする。,Inflicts regular damage.  Has a 100% chance to burn the target.
+みずのちかい,みず,とくしゅ,80,10,水の柱で攻撃する。ほのおと組みあわせると威力があがって空ににじがかかる。,"Inflicts regular damage.  If a friendly Pok?mon used grass pledge earlier this turn, all opposing Pok?mon have halved Speed for four turns (including this one)."
+ほのおのちかい,ほのお,とくしゅ,80,10,炎の柱で攻撃する。くさと組みあわせると威力があがって周りが火の海になる。,"Inflicts regular damage.  If a friendly Pok?mon used water pledge earlier this turn, moves used by any friendly Pok?mon have doubled effect chance for four turns (including this one)."
+くさのちかい,くさ,とくしゅ,80,10,草の柱で攻撃する。みずと組みあわせると威力があがってあたりが湿原になる。,"Inflicts regular damage.  If a friendly Pok?mon used fire pledge earlier this turn, all opposing Pok?mon will take 1/8 their max HP in damage at the end of every turn for four turns (including this one)."
+ボルトチェンジ,でんき,とくしゅ,70,20,攻撃したあとものすごいスピードでもどってきて控えポケモンと入れ替わる。,"Inflicts regular damage, then the user immediately switches out, and the trainer selects a replacement Pok?mon from the party.  If the target faints from this attack, the user's trainer selects the new Pok?mon to send out first.  If the user is the last Pok?mon in its party that can battle, it will not switch out.
+
+The user may be hit by pursuit when it switches out, if it has been targeted and pursuit has not yet been used.
+
+This move may be used even if the user is under the effect of ingrain.  ingrain's effect will end."
+むしのていこう,むし,とくしゅ,50,20,抵抗して相手を攻撃する。相手の特攻をさげる。,Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage.
+じならし,じめん,ぶつり,60,20,地面を踏みならして自分の周りにいるものを攻撃する。相手の素早さをさげる。,Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage.
+こおりのいぶき,こおり,とくしゅ,60,10,冷たい息を相手に吹きつけて攻撃する。必ず急所に当たる。,Inflicts regular damage.  Always scores a critical hit.
+ドラゴンテール,ドラゴン,ぶつり,60,10,相手をはじきとばして控えのポケモンをひきずりだす。野生の場合は戦闘が終わる。,"Inflicts regular damage, then switches the target out for another of its trainer's Pok?mon, selected at random.
+
+If the target is under the effect of ingrain or suction cups, or it has a substitute, or its Trainer has no more usable Pok?mon, it will not be switched out.  If the target is a wild Pok?mon, the battle ends instead."
+ふるいたてる,ノーマル,へんか,,30,自分を奮いたてて攻撃と特攻をあげる。,Raises the user's Attack and Special Attack by one stage each.
+エレキネット,でんき,とくしゅ,55,15,電気のネットで相手を捕まえて攻撃する。相手の素早さをさげる。,Lowers the target's Speed by one stage.
+ワイルドボルト,でんき,ぶつり,90,15,電気をまとって相手にぶつかって攻撃する。自分も少しダメージを受ける。,Inflicts regular damage.  User takes 1/4 the damage it inflicts in recoil.
+ドリルライナー,じめん,ぶつり,80,10,ドリルのように体を回転しながら相手に体当たりする。急所に当たりやすい。,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+ダブルチョップ,ドラゴン,ぶつり,40,15,体の硬い部分で相手をたたいて攻撃する。２回連続でダメージを与える。,Inflicts regular damage.  Hits twice in one turn.
+ハートスタンプ,エスパー,ぶつり,60,25,かわいいしぐさで油断させて強烈な一撃を浴びせる。相手をひるませることがある。,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+ウッドホーン,くさ,ぶつり,75,10,つのを突き刺して相手の養分を吸い取る。与えたダメージの半分のＨＰを回復できる。,Inflicts regular damage.  Drains half the damage inflicted to heal the user.
+せいなるつるぎ,かくとう,ぶつり,90,15,長いつので切りつけ攻撃する。相手の能力変化に関係なくダメージを与える。,"Inflicts regular damage.  Damage calculation ignores the target's stat modifiers, including evasion."
+シェルブレード,みず,ぶつり,75,10,鋭い貝殻で切りつけて攻撃する。相手の防御をさげることがある。,Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.
+ヒートスタンプ,ほのお,ぶつり,,10,燃える体で相手にぶつかって攻撃する。自分が相手より重いほど威力があがる。,"Inflicts regular damage.  The greater the user's weight compared to the target's, the higher power this move has, to a maximum of 120.
+
+User's weight                    | Power
+-------------------------------- | ----:
+Up to 2× the target's weight     |    40
+Up to 3× the target's weight     |    60
+Up to 4× the target's weight     |    80
+Up to 5× the target's weight     |   100
+More than 5× the target's weight |   120
+"
+グラスミキサー,くさ,とくしゅ,65,10,鋭いはっぱで相手を包みこんで攻撃する。命中率をさげることがある。,Inflicts regular damage.  Has a 50% chance to lower the target's accuracy by one stage.
+ハードローラー,むし,ぶつり,65,20,まるめた体で回転して相手をおしつぶす。相手をひるませることがある。,"Inflicts regular damage.  Has a 30% chance to make the target flinch.
+
+Power is doubled against Pok?mon that have used minimize since entering the field."
+コットンガード,くさ,へんか,,10,フワフワの綿毛で自分の体を包みこんで守る。防御をぐぐーんとあげる。,Raises the user's Defense by three stages.
+ナイトバースト,あく,とくしゅ,85,10,暗黒の衝撃波をとばして相手を攻撃する。命中率をさげることがある。,Inflicts regular damage.  Has a 40% chance to lower the target's accuracy by one stage.
+サイコブレイク,エスパー,とくしゅ,100,10,不思議な念波を実体化して相手を攻撃する。物理的なダメージを与える。,"Inflicts regular damage.  Damage calculation always uses the target's Defense, regardless of this move's damage class."
+スイープビンタ,ノーマル,ぶつり,25,10,硬いしっぽで相手をたたいて攻撃する。２ー５回のあいだ連続でだす。,"Inflicts regular damage.  Hits 2?5 times in one turn.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use."
+ぼうふう,ひこう,とくしゅ,110,10,強烈な風で相手を包みこんで攻撃する。相手を混乱させることがある。,"Inflicts regular damage.  Has a 30% chance to confuse the target.
+
+This move can hit Pok?mon under the effect of bounce, fly, or sky drop.
+
+During rain dance, this move has 100% accuracy.  During sunny day, this move has 50% accuracy."
+アフロブレイク,ノーマル,ぶつり,120,15,すごいアフロの頭で相手に突進して攻撃する。自分も少しダメージを受ける。,Inflicts regular damage.  User takes 1/4 the damage it inflicts in recoil.
+ギアソーサー,はがね,ぶつり,50,15,鋼鉄のギアを相手に投げつけて攻撃する。２回連続でダメージを与える。,Inflicts regular damage.  Hits twice in one turn.
+かえんだん,ほのお,とくしゅ,100,5,真っ赤な炎で自分の周りにいるものを攻撃する。やけど状態にすることがある。,Inflicts regular damage.  Has a 30% chance to burn the target.
+テクノバスター,ノーマル,とくしゅ,120,5,光弾を相手に放出する。自分の持つカセットによりタイプが変わる。,"Inflicts regular damage.  If the user is holding a plate or a drive, this move's type is the type corresponding to that item.
+
+Note: This effect is technically shared by both techno blast and judgment; however, Techno Blast is only affected by drives, and Judgment is only affected by plates."
+いにしえのうた,ノーマル,とくしゅ,75,10,いにしえのうたを相手に聞かせて心にうったえて攻撃する。眠り状態にすることがある。,"Inflicts regular damage.  Has a 10% chance to put the target to sleep.
+If the user is a meloetta, it will toggle between Aria and Pirouette Forme."
+しんぴのつるぎ,かくとう,とくしゅ,85,10,長いつので切りつけ攻撃する。つのがまとった不思議な力は物理的なダメージを与える。,"Inflicts regular damage.  Damage calculation always uses the target's Defense, regardless of this move's damage class."
+こごえるせかい,こおり,とくしゅ,65,10,凍えるような冷気を相手に吹きつけて攻撃する。相手の素早さをさげる。,Inflicts regular damage.  Lowers the target's Speed by one stage.
+らいげき,でんき,ぶつり,130,5,ぼうだいな電気を身にまとって相手に突進して攻撃する。まひ状態にすることがある。,Inflicts regular damage.  Has a 20% chance to paralyze the target.
+あおいほのお,ほのお,とくしゅ,130,5,美しくも激しい青い炎で相手を包みこんで攻撃する。やけど状態にすることがある。,Inflicts regular damage.  Has a 20% chance to burn the target.
+ほのおのまい,ほのお,とくしゅ,80,10,炎をまといはばたいて相手を攻撃する。自分の特攻があがることがある。,Inflicts regular damage.  Has a 50% chance to raise the user's Special Attack by one stage.
+フリーズボルト,こおり,ぶつり,140,5,電気をまとった氷の塊で２ターン目に相手をたたきつける。まひ状態にすることがある。,Inflicts regular damage.  Has a 30% chance to paralyze the target.  User charges for one turn before attacking.
+コールドフレア,こおり,とくしゅ,140,5,すべてを凍らせる激しい冷気で２ターン目に相手を包みこむ。やけど状態にすることがある。,Inflicts regular damage.  Has a 30% chance to burn the target.  User charges for one turn before attacking.
+バークアウト,あく,とくしゅ,55,15,まくしたてるように怒鳴りつけて相手の特攻をさげる。,Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage.
+つららおとし,こおり,ぶつり,85,10,大きな氷柱を激しくぶつけて攻撃する。相手をひるませることがある。,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+Ｖジェネレート,ほのお,ぶつり,180,5,灼熱の炎を額から発生させて捨て身の体当たり。防御特防素早さがさがる。,"Inflicts regular damage.  Lowers the user's Defense, Special Defense, and Speed by one stage each."
+クロスフレイム,ほのお,とくしゅ,100,5,巨大な炎をたたきつける。巨大な雷の影響を受け技の威力があがる。,"Inflicts regular damage.  If a friendly Pok?mon used fusion bolt earlier this turn, this move has double power."
+クロスサンダー,でんき,ぶつり,100,5,巨大な雷をたたきつける。巨大な炎の影響を受け技の威力があがる。,"Inflicts regular damage.  If a friendly Pok?mon used fusion flare earlier this turn, this move has double power."
+フライングプレス,かくとう,ぶつり,100,10,空中から相手にダイブする。この技はかくとうタイプと同時にひこうタイプでもある。,"Inflicts regular damage.  For the purposes of type effectiveness, this move is both fighting- and flying-type: its final effectiveness is determined by multiplying the effectiveness of each type against each of the target's types.
+
+For all other purposes, this move is pure Fighting-type.  If this move's type is changed, its Fighting typing is overwritten, and its secondary type remains Flying.
+
+If the target has used minimize since entering battle, this move has double power and will never miss."
+たたみがえし,かくとう,へんか,,10,かえしたタタミを盾にして自分や味方への技のダメージを防ぐ。変化技は防ぐことができない。,Protects all friendly Pok?mon from damaging moves.  Only works on the first turn after the user is sent out.
+ゲップ,どく,とくしゅ,120,10,相手に向かってゲップを浴びせてダメージを与える。きのみを食べないとだせない。,"Inflicts regular damage.  Can only be used if the user has eaten a berry since the beginning of the battle.
+
+After the user eats a berry, it may use this move any number of times until the end of the battle, even if it switches out.  Eating a held berry, eating a berry via bug bite or pluck, or being the target of a Flung berry will enable this move.  Feeding a Pok?mon a berry from the bag or using natural gift will not.
+
+If the trainer chooses this move when it cannot be used, the choice is rejected outright and the trainer must choose another move."
+たがやす,じめん,へんか,,10,地面を耕して草木が育ちやすいようにする。くさタイプの攻撃と特攻があがる。,Raises the Attack and Special Attack of all grass Pok?mon in battle.
+ねばねばネット,むし,へんか,,20,相手の周りにねばねばしたネットをはりめぐらせ交代ででてきた相手の素早さをさげる。,"Shoots a web over the opponents' side of the field, which lowers the Speed of any opposing Pok?mon that enters the field by one stage.
+
+Pok?mon in the air, such as flying-types and those with levitate, are unaffected.  rapid spin removes Sticky Web from the user's side of the field; defog removes it from both sides."
+とどめばり,むし,ぶつり,50,25,この技を使って相手を倒すと攻撃がぐーんとあがる。,Inflicts regular damage.  Raises the user's Attack by two stages if it KOs the target.
+ゴーストダイブ,ゴースト,ぶつり,90,10,１ターンめでどこかに消えて２ターンめに相手を攻撃する。守りを無視して攻撃できる。,"Inflicts regular damage.  User vanishes for one turn, becoming immune to attack, and hits on the second turn.
+
+This move ignores the effects of detect and protect.
+
+This move cannot be selected by sleep talk."
+ハロウィン,ゴースト,へんか,,20,相手をハロウィンに誘う。相手のタイプにゴーストタイプが追加される。,Adds ghost to the target's types.
+おたけび,ノーマル,へんか,,30,おたけびをあげて相手を威嚇し相手の攻撃と特攻をさげる。,Lowers the target's Attack and Special Attack by one stage.
+プラズマシャワー,でんき,へんか,,25,電気を帯びた粒子を拡散しノーマルタイプの技をでんきタイプにしてしまう。,Changes all Pok?mon's normal moves to electric moves for the rest of the turn.
+パラボラチャージ,でんき,とくしゅ,65,20,周りにいるポケモン全員にダメージ。与えたダメージの半分を自分が回復する。,Heals the user for half the total damage dealt to all targets.
+もりののろい,くさ,へんか,,20,相手に森ののろいをかける。のろいをかけられた相手はタイプにくさタイプが追加される。,Adds grass to the target's types.
+はなふぶき,くさ,ぶつり,90,15,激しい花吹雪を起こし周りにいるものに攻撃してダメージを与える。,Inflicts regular damage.
+フリーズドライ,こおり,とくしゅ,70,20,相手を急激に冷やしてこおり状態にすることがある。みずタイプにも効果抜群になる。,"Inflicts regular damage.  This move is super-effective against the water type.
+
+The target's other type will affect damage as usual.  If this move's type is changed, it remains super-effective against Water regardless of its type."
+チャームボイス,フェアリー,とくしゅ,40,15,魅惑の鳴き声をだして相手に精神的なダメージを与える。攻撃は必ず命中する。,Inflicts regular damage.  Ignores accuracy and evasion.
+すてゼリフ,あく,へんか,,20,すてゼリフで相手をいかくし攻撃と特攻をさげたのち控えのポケモンと入れ替わる。,Lowers all targets' Attack and Special Attack by one stage.  Makes the user switch out.
+ひっくりかえす,あく,へんか,,20,相手にかかっているすべての能力変化をひっくり返して逆にする。,Inverts the target's stat modifiers.
+ドレインキッス,フェアリー,とくしゅ,50,10,キッスによって相手からＨＰを吸い取る。与えたダメージの半分以上ＨＰを回復する。,Deals regular damage.  Drains 75% of the damage inflicted to heal the user.
+トリックガード,フェアリー,へんか,,10,不思議な力を使って味方への変化技を防ぐ。ダメージ技は受けてしまう。,"Protects all friendly Pok?mon from non-damaging moves for the rest of the turn.
+
+Unlike other blocking moves, this move may be used consecutively without its chance of success falling."
+フラワーガード,フェアリー,へんか,,10,不思議な力を使って場にいるくさタイプのポケモン全員の防御をあげる。,Raises the Defense of all grass Pok?mon in battle.
+グラスフィールド,くさ,へんか,,10,５ターンのあいだ足元をグラスフィールドにする。地面にいるポケモンは毎ターン回復する。,"For five turns, heals all Pok?mon on the ground for 1/16 their max HP each turn and strengthens their grass moves to 1.5× their power.
+
+Changes nature power to energy ball."
+ミストフィールド,フェアリー,へんか,,10,５ターンのあいだ足元をミストフィールドにする。地面にいると状態異常にならない。,"For five turns, protects all Pok?mon on the ground from major status ailments and confusion and weakens dragon moves used against them to 0.5× their power.
+
+Changes nature power to moonblast."
+そうでん,でんき,へんか,,20,相手が技をだす前にそうでんするとそのターン相手の技はでんきタイプになる。,Changes the target's move's type to electric if it hasn't moved yet this turn.
+じゃれつく,フェアリー,ぶつり,90,10,相手にじゃれついて攻撃する。相手の攻撃をさげることがある。,Inflicts regular damage.  Has a 10% chance to lower the target's Attack by one stage.
+ようせいのかぜ,フェアリー,とくしゅ,40,30,ようせいのかぜを起こし相手に吹きつけて攻撃する。,Inflicts regular damage.
+ムーンフォース,フェアリー,とくしゅ,95,15,月のパワーをかりて相手を攻撃する。相手の特攻をさげることがある。,Inflicts regular damage.  Has a 30% chance to lower the target's Special Attack by one stage.
+ばくおんぱ,ノーマル,とくしゅ,140,10,すさまじい爆音の破壊力によって周りにいるものを攻撃する。,Inflicts regular damage.
+フェアリーロック,フェアリー,へんか,,10,ロックをかけることによって次のターンすべてのポケモンを逃げられなくする。,Prevents all Pok?mon from fleeing or switching out during the next turn.
+キングシールド,はがね,へんか,,10,相手の攻撃を防ぐと同時に防御態勢になる。触れた相手の攻撃をがくっとさげる。,Blocks damaging attacks and lowers attacking Pok?mon's Attack by two stages on contact.  Switches Aegislash to Shield Forme.
+なかよくする,ノーマル,へんか,,20,相手と仲良くなって戦う気力を失わせ相手の攻撃をさげる。,Lowers the target's Attack by one stage.
+ないしょばなし,ノーマル,へんか,,20,ないしょばなしをすることで相手の集中力を失わせ相手の特攻をさげる。,Lowers the target's Special Attack by one stage.
+ダイヤストーム,いわ,ぶつり,100,5,ダイヤの嵐を巻き起こしダメージを与える。自分の防御をあげることがある。,Inflicts regular damage.  Has a 50% chance to raise the user's Defense by two stages for each target hit.
+スチームバースト,みず,とくしゅ,110,5,ものすごく熱い蒸気を相手に浴びせる。相手はやけどすることがある。,Inflicts regular damage.  Has a 30% chance to burn the target.
+いじげんホール,エスパー,とくしゅ,80,5,異次元ホールで突然相手の真横に現れ攻撃する。まもるやみきりも無視できる。,Inflicts regular damage.  Bypasses and removes any protection effect on the target.
+みずしゅりけん,みず,とくしゅ,15,20,粘液でできた手裏剣を２ー５回のあいだ連続でだす。必ず先制攻撃できる。,Inflicts regular damage.  Hits 2?5 times.
+マジカルフレイム,ほのお,とくしゅ,75,10,口から吐きだす特別熱い炎で攻撃する。相手の特攻をさげる。,Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage.
+ニードルガード,くさ,へんか,,10,相手の攻撃を防ぐと同時に触れた相手の体力を削ってしまう。,Blocks damaging attacks and damages attacking Pok?mon for 1/8 their max HP.
+アロマミスト,フェアリー,へんか,,20,不思議なアロマの香りによって味方の特防をあげる。,Raises a selected ally's Special Defense by one stage.
+かいでんぱ,でんき,へんか,,15,体からかいでんぱを放ち相手に浴びせることによって特攻をがくっとさげる。,Lowers the target's Special Attack by two stages.
+ベノムトラップ,どく,へんか,,20,特殊な毒液を浴びせかける。毒状態の相手は攻撃特攻素早さがさがる。,"Lowers the target's Attack, Special Attack, and Speed by one stage if it is poisoned."
+ふんじん,むし,へんか,,20,ふんじんを浴びせた相手がほのお技を使うと爆発してダメージを与える。,"Explodes if the target uses a fire move this turn, damaging it for 1/4 its max HP and preventing the move."
+ジオコントロール,フェアリー,へんか,,10,１ターン目でエネルギーを吸収し２ターン目に特攻特防素早さをぐーんとあげる。,"Takes one turn to charge, then raises the user's Special Attack, Special Defense, and Speed by two stages."
+じばそうさ,でんき,へんか,,20,磁場を操作することによって特性プラスとマイナスの防御特防があがる。,Raises the Defense and Special Defense of all friendly Pok?mon with plus or minus by one stage.
+ハッピータイム,ノーマル,へんか,,30,ハッピータイムの技を使うと戦闘のあとでもらえるお金が倍になる。,"Doubles prize money.
+
+Stacks with a held item.  Only works once per battle."
+エレキフィールド,でんき,へんか,,10,５ターンのあいだ足元をエレキフィールドにする。地面にいるポケモンは眠らなくなる。,"For five turns, prevents all Pok?mon on the ground from sleeping and strengthens their electric moves to 1.5× their power.
+
+Changes nature power to thunderbolt."
+マジカルシャイン,フェアリー,とくしゅ,80,10,強力な光を放ち相手にダメージを与える。,Inflicts regular damage.
+おいわい,ノーマル,へんか,,40,ポケモンがとってもハッピーなあなたのことをお祝いしてくれる。,Does nothing.
+てをつなぐ,ノーマル,へんか,,40,味方のポケモン同士が手をつなぐ。とっても幸せな気持ちになれる。,Does nothing.
+つぶらなひとみ,フェアリー,へんか,,30,つぶらなひとみで相手をみつめて攻撃をさげる。必ず先制攻撃できる。,Lowers the target's Attack by one stage.
+ほっぺすりすり,でんき,ぶつり,20,20,電気を帯びたほっぺをすりつけて攻撃。相手をまひ状態にする。,Inflicts regular damage.  Has a 100% chance to paralyze the target.
+てかげん,ノーマル,ぶつり,40,40,手加減した攻撃で相手のＨＰを必ず１だけ残す。,Inflicts regular damage.  Will not reduce the target's HP below 1.
+まとわりつく,むし,とくしゅ,20,20,４ー５ターンのあいだ相手にまとわりついて攻撃する。そのあいだ相手は逃げられない。,"Inflicts regular damage.  For the next 2?5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+
+rapid spin cancels this effect."
+グロウパンチ,かくとう,ぶつり,40,20,繰り返し打つことでだんだんこぶしが固くなる。相手に当てると攻撃があがる。,Inflicts regular damage.  Raises the user's Attack by one stage.
+デスウイング,ひこう,とくしゅ,80,10,ねらいを定めた相手からＨＰを吸い取る。与えたダメージの半分以上ＨＰを回復する。,Deals regular damage.  Drains 75% of the damage inflicted to heal the user.
+サウザンアロー,じめん,ぶつり,90,10,浮いているポケモンにも当たる。浮いていた相手は撃ち落とされて地面に落ちる。,Inflicts regular damage.  Grounds the target until it leaves battle.  Ignores levitation effects and the immunity of flying-type Pok?mon.
+サウザンウェーブ,じめん,ぶつり,90,10,地をはう波によって攻撃。波に巻き込まれた相手は戦闘から逃げられなくなる。,Inflicts regular damage.  Traps the target.
+グランドフォース,じめん,ぶつり,90,10,大地のパワーを集め力を相手に集中させてダメージを与える。,Inflicts regular damage.
+はめつのひかり,フェアリー,とくしゅ,140,5,永遠の花のパワーをかりて強力な光線を撃ちだす。自分もかなりのダメージを受ける。,Inflicts regular damage.  User takes 1/2 the damage it inflicts in recoil.
+こんげんのはどう,みず,とくしゅ,110,10,青白く輝く無数の光線で相手を攻撃する。,Inflicts regular damage.
+だんがいのつるぎ,じめん,ぶつり,120,10,大地の力を刃に変えて相手を攻撃する。,Inflicts regular damage.
+ガリョウテンセイ,ひこう,ぶつり,120,5,大空から急速落下して相手を攻撃する。自分の防御と特防がさがる。,"Inflicts regular damage, then lowers the user's Defense and Special Defense by one stage each."
+いじげんラッシュ,あく,ぶつり,100,5,たくさんの腕をつかってまもるや?きりを無視した連続攻撃自分の防御がさがる。,Inflicts regular damage.  Bypasses and removes any protection effect on the target.
+ウルトラダッシュアタック,ノーマル,ぶつり,,1,Ｚパワーで勢いをつけて全力で相手にぶつかる。元になった技で威力が変わる。,Inflicts regular damage.
+ウルトラダッシュアタック,ノーマル,とくしゅ,,1,ダミーデータ,Inflicts regular damage.
+ぜんりょくむそうげきれつけん,かくとう,ぶつり,,1,Ｚパワーで作ったエネルギーの弾を全力で相手にぶつける。元になった技で威力が変わる。,Inflicts regular damage.
+ぜんりょくむそうげきれつけん,かくとう,とくしゅ,,1,ダミーデータ,Inflicts regular damage.
+ファイナルダイブクラッシュ,ひこう,ぶつり,,1,Ｚパワーで勢いよく飛びあがり相手に向かって全力で落下。元になった技で威力が変わる。,Inflicts regular damage.
+ファイナルダイブクラッシュ,ひこう,とくしゅ,,1,ダミーデータ,Inflicts regular damage.
+アシッドポイズンデリート,どく,ぶつり,,1,Ｚパワーで毒の沼を湧きあがらせ全力で相手を沈める。元になった技で威力が変わる。,Inflicts regular damage.
+アシッドポイズンデリート,どく,とくしゅ,,1,ダミーデータ,Inflicts regular damage.
+ライジングランドオーバー,じめん,ぶつり,,1,Ｚパワーで地面の奥深くに潜り全力で相手にぶつかる。元になった技で威力が変わる。,Inflicts regular damage.
+ライジングランドオーバー,じめん,とくしゅ,,1,ダミーデータ,Inflicts regular damage.
+ワールズエンドフォール,いわ,ぶつり,,1,Ｚパワーで大きな岩山を呼びだし全力で相手にぶつける。元になった技で威力が変わる。,Inflicts regular damage.
+ワールズエンドフォール,いわ,とくしゅ,,1,ダミーデータ,Inflicts regular damage.
+ぜったいほしょくかいてんざん,むし,ぶつり,,1,Ｚパワーで吐きだした糸が全力で相手を縛りつける。元になった技で威力が変わる。,Inflicts regular damage.
+ぜったいほしょくかいてんざん,むし,とくしゅ,,1,ダミーデータ,Inflicts regular damage.
+むげんあんやへのいざない,ゴースト,ぶつり,,1,Ｚパワーで呼びよせた強い怨念が全力で相手に降りかかる。元になった技で威力が変わる。,Inflicts regular damage.
+むげんあんやへのいざない,ゴースト,とくしゅ,,1,ダミーデータ,Inflicts regular damage.
+ちょうぜつらせんれんげき,はがね,ぶつり,,1,Ｚパワーで高速回転をおこない全力で相手にぶつかる。元になった技で威力が変わる。,Inflicts regular damage.
+ちょうぜつらせんれんげき,はがね,とくしゅ,,1,ダミーデータ,Inflicts regular damage.
+ダイナミックフルフレイム,ほのお,ぶつり,,1,Ｚパワーで燃えさかる炎を吐きだし全力で相手にぶつける。元になった技で威力が変わる。,Inflicts regular damage.
+ダイナミックフルフレイム,ほのお,とくしゅ,,1,ダミーデータ,Inflicts regular damage.
+スーパーアクアトルネード,みず,ぶつり,,1,Ｚパワーで大きな渦潮を作り全力で相手を飲みこむ。元になった技で威力が変わる。,Inflicts regular damage.
+スーパーアクアトルネード,みず,とくしゅ,,1,ダミーデータ,Inflicts regular damage.
+ブルームシャインエクストラ,くさ,ぶつり,,1,Ｚパワーで草花のエネルギーを借り全力で相手を攻撃する。元になった技で威力が変わる。,Inflicts regular damage.
+ブルームシャインエクストラ,くさ,とくしゅ,,1,ダミーデータ,Inflicts regular damage.
+スパーキングギガボルト,でんき,ぶつり,,1,Ｚパワーで溜めた強い電気を全力で相手にぶつける。元になった技で威力が変わる。,Inflicts regular damage.
+スパーキングギガボルト,でんき,とくしゅ,,1,ダミーデータ,Inflicts regular damage.
+マキシマムサイブレイカー,エスパー,ぶつり,,1,Ｚパワーで相手を操り全力で痛い思いをさせる。元になった技で威力が変わる。,Inflicts regular damage.
+マキシマムサイブレイカー,エスパー,とくしゅ,,1,ダミーデータ,Inflicts regular damage.
+レイジングジオフリーズ,こおり,ぶつり,,1,Ｚパワーで気温を急激に下げ全力で相手を凍らせる。元になった技で威力が変わる。,Inflicts regular damage.
+レイジングジオフリーズ,こおり,とくしゅ,,1,ダミーデータ,Inflicts regular damage.
+アルティメットドラゴンバーン,ドラゴン,ぶつり,,1,Ｚパワーでオーラを実体化し全力で相手に襲いかかる。元になった技で威力が変わる。,Inflicts regular damage.
+アルティメットドラゴンバーン,ドラゴン,とくしゅ,,1,ダミーデータ,Inflicts regular damage.
+ブラックホールイクリプス,あく,ぶつり,,1,Ｚパワーで悪のエネルギーを集め全力で相手を吸いよせる。元になった技で威力が変わる。,Inflicts regular damage.
+ブラックホールイクリプス,あく,とくしゅ,,1,ダミーデータ,Inflicts regular damage.
+ラブリースターインパクト,フェアリー,ぶつり,,1,Ｚパワーで魅惑の空間を作り全力で相手をもてあそぶ。元になった技で威力が変わる。,Inflicts regular damage.
+ラブリースターインパクト,フェアリー,とくしゅ,,1,ダミーデータ,Inflicts regular damage.
+ひっさつのピカチュート,でんき,ぶつり,210,1,Ｚパワーで最大電力を身にまとったピカチュウが全力で相手に飛び掛る。,Inflicts regular damage.
+すなあつめ,じめん,へんか,,5,最大ＨＰの半分自分のＨＰを回復する。すなあらしの時は多く回復。,"Heals the user for ? its max HP.  During a sandstorm, the healing is increased to ?."
+であいがしら,むし,ぶつり,90,10,威力が高い技だが戦闘に出たらすぐに出さないと成功しない。,Inflicts regular damage. Can only be used on the user's first turn after entering the field.
+トーチカ,どく,へんか,,10,相手の攻撃を防ぐと同時に触れた相手に毒を与えてしまう。,"Grants the user protection for the rest of the turn.  If a Pok?mon attempts to use a move that makes contact with the user, that Pok?mon will be poisoned.  This move's chance of success halves every time it's used consecutively with any other protection move."
+かげぬい,ゴースト,ぶつり,80,10,攻撃と同時に相手の影を縫い付けて逃げられなくする。,Inflicts regular damage.  Traps the target.
+ＤＤラリアット,あく,ぶつり,85,10,両腕を回し相手に当てる。相手の能力変化に関係なくダメージを与える。,"Inflicts regular damage.  Damage calculation ignores the target's stat modifiers, including evasion."
+うたかたのアリア,みず,とくしゅ,90,10,歌うことによってたくさんのバルーンを放出する。技を受けるとやけどが治る。,"Inflicts regular damage.  If the target has a burn and takes damage from this move, its burn is healed."
+アイスハンマー,こおり,ぶつり,100,10,強くて重いこぶしをふるってダメージを与える。自分の素早さがさがる。,"Inflicts regular damage, then lowers the user's Speed by one stage."
+フラワーヒール,フェアリー,へんか,,10,最大ＨＰの半分相手のＨＰを回復する。グラスフィールドの時効果があがる。,"Heals the target for ? its max HP.  If grassy terrain is in effect, heals for ? instead."
+１０まんばりき,じめん,ぶつり,95,10,全身を使って相手に猛アタックする。,Inflicts regular damage.
+ちからをすいとる,くさ,へんか,,10,相手の攻撃力と同じだけ自分のＨＰを回復する。そして相手の攻撃をさげる。,"Lowers the target's Attack by one stage.  Heals the user by the target's current Attack, including modifiers, but not including this move's Attack-lowering effect.
+
+If the target's Attack is already at -6, this move will fail.  In any other situation that would prevent a stat modification, the healing will still succeed."
+ソーラーブレード,くさ,ぶつり,125,10,１ターン目に光をいっぱいに集め２ターン目にその力を剣に込めて攻撃する。,"Inflicts regular damage.  User charges for one turn before attacking.
+
+During sunny day, the charge turn is skipped.
+
+During hail, rain dance, or sandstorm, power is halved.
+
+This move cannot be selected by sleep talk."
+このは,くさ,ぶつり,40,40,はっぱを相手に当てて攻撃する。,Inflicts regular damage.
+スポットライト,ノーマル,へんか,,15,ポケモンにスポットライトを当てそのターンにそのポケモンしか狙えないようにする。,"For the duration of the turn, if the target is also a valid target for a move used by one of its opponents, that move will target it instead."
+どくのいと,どく,へんか,,20,毒の混じった糸を吹き付ける。相手を毒にして素早さをさげる。,Poisons the target and lowers its Speed by one stage.
+とぎすます,ノーマル,へんか,,30,精神を集中して次の攻撃を必ず急所に当てる。,The user's next move will result in a critical hit.
+アシストギア,はがね,へんか,,20,ギアを入れることによって特性プラスとマイナスの攻撃と特攻があがる。,Raises the Attack and Special Attack of all friendly Pok?mon with plus or minus by one stage.
+じごくづき,あく,ぶつり,80,15,この技を受けた相手は地獄の苦しみから２ターンの間音の技を出すことができなくなる。,"Inflicts regular damage.  Silences the target for two turns, preventing it from using any sound-based moves."
+かふんだんご,むし,とくしゅ,90,15,敵には爆発するだんごを使って攻撃。味方には回復するだんごを与える。,"If the target is an opponent, inflicts regular damage.  If the target is an ally, heals the target for 50% of its max HP."
+アンカーショット,はがね,ぶつり,80,20,アンカーを相手にからませて攻撃する。相手は逃げることができなくなる。,Inflicts regular damage.  Traps the target.
+サイコフィールド,エスパー,へんか,,10,５ターンの間地面にいると先制技を受けない。エスパータイプの威力があがる。,"Changes the terrain to Psychic Terrain for 5 turns.  Overrides electric terrain, grassy terrain, and misty terrain.
+
+All Pok?mon on the ground are immune to moves with priority greater than 0.  (Moves that target the field rather than individual Pok?mon, such as spikes, are not affected.)  Additionally, when a Pok?mon on the ground uses a psychic-type move, that move's power is increased to 1.5×.
+
+If a Pok?mon is holding a Terrain Extender when creating Psychic Terrain (by any means), the effect lasts for 8 turns instead of 5."
+とびかかる,むし,ぶつり,80,15,全力で相手に飛びかかって攻撃。相手の攻撃をさげる。,Inflicts regular damage.  Lowers the target's Attack by one stage.
+ほのおのムチ,ほのお,ぶつり,80,15,焼けたムチで相手を打ちつける。攻撃を受けた相手は防御がさがる。,Inflicts regular damage.  Lowers the target's Defense by one stage.
+つけあがる,あく,ぶつり,20,10,自分の強さを鼻高々に攻撃する。自分の能力があがっているほど威力があがる。,"Inflicts regular damage.  Power is increased by 100% its original value for every stage any of the user's stats have been raised.  Accuracy, evasion, and lowered stats do not affect this move's power.  For a Pok?mon with all five stats modified to +6, this move's power is 31×."
+もえつきる,ほのお,とくしゅ,130,5,全身のほのおをすべて燃やして大ダメージを与える。自分のほのおタイプがなくなる。,"Inflicts regular damage.  Removes the user's fire type after damage calculation.  If the user is not fire-type, this move will fail."
+スピードスワップ,エスパー,へんか,,10,相手の素早さと自分の素早さを入れ替えてしまう。,Exchanges the original Speed stats of the user and target.
+スマートホーン,はがね,ぶつり,70,10,とがったつので相手を突き刺して攻撃する。攻撃は必ず命中する。,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+じょうか,どく,へんか,,20,相手の状態異常を治す。治すと自分はＨＰを回復することができる。,"Cures the target of its major status ailment and heals the user for 50% of its max HP.  If the target has no major status ailment, this move will fail."
+めざめるダンス,ノーマル,とくしゅ,90,15,全力で踊って攻撃する。この技のタイプは自分のタイプと同じになる。,"Inflicts regular damage.  This move's type matches the user's first type, if any; otherwise, it's typeless."
+コアパニッシャー,ドラゴン,とくしゅ,100,10,ダメージを与えた相手がすでに行動を終えていたら相手の特性を消してしまう。,"Inflicts regular damage.  If the target has already moved this turn, its ability is nullified."
+トロピカルキック,くさ,ぶつり,70,15,南国由来の熱いキックを相手に浴びせる。相手の攻撃をさげる。,Inflicts regular damage.  Lowers the target's Attack by one stage.
+さいはい,エスパー,へんか,,15,相手が出した技を指示してもう一度出させることができる。,"The target immediately uses its most recently-used move.  This is independent of the target's normal action for the turn (i.e., it may end up moving twice), but otherwise functions as usual, including deduction of PP.  This effect works for disabled moves and ignores torment."
+くちばしキャノン,ひこう,ぶつり,100,15,最初にクチバシを加熱してから攻撃をくりだす。加熱中にさわるとやけどする。,"Begins charging at the start of the turn, then attacks as normal.  Any Pok?mon that makes contact with the user while charging is burned.  The charging is not affected by accuracy, sleep, paralysis, or any other effect that would interfere with a move."
+スケイルノイズ,ドラゴン,とくしゅ,110,5,全身のうろこをこすり大きな音を出して攻撃する。攻撃後自分の防御がさがる。,Inflicts regular damage.  Lowers the user's Defense by one stage.
+ドラゴンハンマー,ドラゴン,ぶつり,90,15,体をハンマーのように使って相手に襲いかかりダメージを与える。,Inflicts regular damage.
+ぶんまわす,あく,ぶつり,60,20,自分の体をぶんまわして相手にダメージを与える。,Inflicts regular damage.
+オーロラベール,こおり,へんか,,20,５ターンの間物理と特殊のダメージを弱める。あられの時しか出すことができない。,"Places the Aurora Veil effect on the user's side of the field for the next 5 turns.  If the weather is not hail, or the weather is disabled by the effects of cloud nine or air lock, this move will fail.
+
+Any regular damage dealt to an affected Pok?mon is reduced by ?.  (If there are multiple Pok?mon on the affected field, the reduction is ?.)"
+シャドーアローズストライク,ゴースト,ぶつり,180,1,Ｚパワーで無数の矢を作りだしたジュナイパーが全力で相手を射抜く攻撃。,Inflicts regular damage.
+ハイパーダーククラッシャー,あく,ぶつり,180,1,Ｚパワーでタフな肉体を得たガオガエンが全力で相手にぶつかって攻撃する。,Inflicts regular damage.
+わだつみのシンフォニア,みず,とくしゅ,195,1,Ｚパワーで大量の水を呼んだアシレーヌが全力で相手を攻撃する。,Inflicts regular damage.
+ガーディアン・デ・アローラ,フェアリー,とくしゅ,,1,Ｚパワーでアローラの力を得たとちがみポケモン全力の攻撃。相手の残りＨＰをたくさん減らす。,Inflicts direct damage equal to ? of the target's remaining HP.
+しちせいだっこんたい,ゴースト,ぶつり,195,1,Ｚパワーを得たマーシャドーがパンチとキックの連続技を全力で相手に叩き込む。,Inflicts regular damage.
+ライトニングサーフライド,でんき,とくしゅ,175,1,Ｚパワーを得たアローラ地方のライチュウが全力で攻撃する。相手をまひ状態にする。,Inflicts regular damage.  Has a 100% chance to paralyze the target.
+ほんきをだす　こうげき,ノーマル,ぶつり,210,1,Ｚパワーで本気を出したカビゴンが巨体を躍動させて全力で相手に襲いかかる。,Inflicts regular damage.
+ナインエボルブースト,ノーマル,へんか,,1,Ｚパワーを得たイーブイが進化した仲間たちの力を借りて能力をぐーんと上げる。,"Raises the user's Attack, Defense, Special Attack, Special Defense, and Speed by two stages each."
+オリジンズスーパーノヴァ,エスパー,とくしゅ,185,1,Ｚパワーを得たミュウが全力で相手を攻撃する。足元がサイコフィールドになる。,"Inflicts regular damage, then (if successful) changes the terrain to psychic terrain."
+トラップシェル,ほのお,とくしゅ,150,5,こうらのトラップをしかける。相手が物理技を出すと爆発してダメージを与える。,"Inflicts regular damage.  If the user was not yet hit by an opponent's physical move this turn, this move will fail."
+フルールカノン,フェアリー,とくしゅ,130,5,強力なビームを放ったあと自分の特攻ががくっとさがる。,"Inflicts regular damage, then lowers the user's Special Attack by two stages."
+サイコファング,エスパー,ぶつり,85,10,サイコパワーでかみついて相手を攻撃する。ひかりのかべやリフレクターなども破壊できる。,"Destroys any light screen or reflect on the target's side of the field, then inflicts regular damage."
+じだんだ,じめん,ぶつり,75,10,悔しさをバネにして攻撃する。前のターンに技を外していると威力が倍になる。,"Inflicts regular damage.  Power is doubled if the user's last move failed for any reason (i.e., produced the message ""But it failed!"") or was ineffective due to types."
+シャドーボーン,ゴースト,ぶつり,85,10,魂の宿ったホネで相手をなぐりつけて攻撃する。相手の防御をさげることがある。,Inflicts regular damage.  Has a 20% chance to lower the target's Defense by one stage.
+アクセルロック,いわ,ぶつり,40,20,素早いスピードで相手にぶつかって攻撃する。必ず先制攻撃できる。,Inflicts regular damage.
+アクアブレイク,みず,ぶつり,85,10,水の力で相手にぶつかって攻撃する。相手の防御をさげることがある。,Inflicts regular damage.  Has a 20% chance to lower the target's Defense by one stage.
+プリズムレーザー,エスパー,とくしゅ,160,10,プリズムの力で強力な光線を発射する。次のターンは動けなくなる。,"Inflicts regular damage.  User loses its next turn to ""recharge"", and cannot attack or switch out during that turn."
+シャドースチール,ゴースト,ぶつり,90,10,相手の影に潜り込み相手の能力アップを奪って攻撃する。,"Steals the target's stat increases, then inflicts regular damage.  Will not steal stat increases that would put any of the user's stats at more than +6; any excess is left on the target.  Stolen increases are affected by abilities as normal."
+メテオドライブ,はがね,ぶつり,100,5,流星のような勢いで突進する。相手の特性を無視して攻撃することができる。,"Inflicts regular damage.  Other Pok?mon's abilities cannot activate in response to this move.  In particular, it hits through disguise"
+シャドーレイ,ゴースト,とくしゅ,100,5,怪しい光線を放って攻撃する。相手の特性を無視して攻撃することができる。,"Inflicts regular damage.  Other Pok?mon's abilities cannot activate in response to this move.  In particular, it hits through disguise"
+なみだめ,ノーマル,へんか,,20,なみだめになって相手の戦力を喪失させる。相手の攻撃と特攻がさがる。,Lowers the target's Attack and Special Attack by one stage each.
+びりびりちくちく,でんき,ぶつり,80,10,相手にぶつかって強力な電気を浴びせびりびりちくちくさせる。相手をひるませることがある。,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+しぜんのいかり,フェアリー,とくしゅ,,10,自然の怒りを相手にぶつける。相手のＨＰは半分になる。,Inflicts typeless damage equal to half the target's remaining HP.
+マルチアタック,ノーマル,ぶつり,120,10,高いエネルギーをまといつつ相手にぶつかって攻撃する。メモリによりタイプが変わる。,"Inflicts regular damage.  If the user is holding a plate or a drive, this move's type is the type corresponding to that item.
+
+Note: This effect is technically shared by both techno blast and judgment; however, Techno Blast is only affected by drives, and Judgment is only affected by plates."
+１０００まんボルト,でんき,とくしゅ,195,1,帽子をかぶったピカチュウがＺパワーでパワーアップした電撃を放つ。急所に当たりやすい。,Inflicts regular damage.
+ビックリヘッド,ほのお,とくしゅ,150,5,自分の頭を爆発させて周りのすべてを攻撃する。自分もダメージを受けてしまう。,"Inflicts damage, and the user takes damage equal to half of its max HP, rounded up. The user still takes damage if the move is blocked by Protect or Substitute, misses, or if the target has Flash Fire."
+プラズマフィスト,でんき,ぶつり,100,15,電気をまとったこぶしで攻撃。ノーマルタイプの技をでんきタイプにしてしまう。,"After inflicting damage, all Normal-type moves become Electric-type for the remainder of the turn, including status moves. This effect is applied after move type-changing abilities, such as Pixilate and Normalize."
+フォトンゲイザー,エスパー,とくしゅ,100,5,光の柱で攻撃する。攻撃と特攻を比べて高いほうでダメージを与える。,Inflicts regular damage.
+てんこがすめつぼうのひかり,エスパー,とくしゅ,200,1,ネクロズマが相手の特性の効果を無視して攻撃と特攻の高いほうでダメージを与える。,"Inflicts damage using either Attack or Special Attack stat, whichever is higher. Determining which stat is used takes into account stat changes but not held items or abilities."
+サンシャインスマッシャー,はがね,ぶつり,200,1,Ｚパワーを得たソルガレオが全力で攻撃する。相手の特性の効果を無視できる。,"Inflicts regular damage.  Other Pok?mon's abilities cannot activate in response to this move.  In particular, it hits through disguise"
+ムーンライトブラスター,ゴースト,とくしゅ,200,1,Ｚパワーを得たルナアーラが全力で攻撃する。相手の特性の効果を無視できる。,"Inflicts regular damage.  Other Pok?mon's abilities cannot activate in response to this move.  In particular, it hits through disguise"
+ぽかぼかフレンドタイム,フェアリー,ぶつり,190,1,Ｚパワーを得たミミッキュが全力でぽかぽか攻撃。,Inflicts regular damage.
+ラジアルエッジストーム,いわ,ぶつり,190,1,Ｚパワーを得たルガルガンが全力で攻撃する。追加でフィールド状態を打ち消す。,Inflicts damage and removes any terrain present on the battlefield.
+ブレイジングソウルビート,ドラゴン,とくしゅ,185,1,Ｚパワーを得たジャラランガが全力で相手を攻撃する。追加で自分の能力が上がる。,"Inflicts sound-based damage to all opposing Pok?mon and increases the user's Attack, Defense, Special Attack, Special Defense, and Speed by one stage each. The user's stats are not raised if the move fails to damage any opposing Pok?mon."
+ばちばちアクセル,でんき,ぶつり,80,10,猛スピードの電撃アタック。必ず先制攻撃できて急所にあたる。,Inflicts regular damage.
+ざぶざぶサーフ,みず,とくしゅ,90,15,大きな波に電気をあびせ相手にぶつけて攻撃する。まひ状態にすることがある。,Inflicts regular damage.
+ふわふわフォール,ひこう,ぶつり,90,15,ふんわりと浮かびあがり一気に急降下して攻撃。相手をひるませることがある。,Inflicts regular damage.
+ピカピカサンダー,でんき,とくしゅ,,20,ピカチュウのトレーナーへの大好きな気持ちが強いほど威力があがる電撃。必ず命中する。,Inflicts regular damage.
+いきいきバブル,みず,とくしゅ,60,20,水のかたまりをぶつけて攻撃。水を吸いとりダメージの半分のHPを回復する。,Inflicts regular damage.
+びりびりエレキ,でんき,とくしゅ,60,20,電気を飛ばし相手にあびせて攻撃する。相手をまひ状態にする。,Inflicts regular damage.
+めらめらバーン,ほのお,ぶつり,60,20,炎をまとった体で勢いよく相手にぶつかる。相手をやけど状態にする。,Inflicts regular damage.
+どばどばオーラ,エスパー,とくしゅ,80,15,念力をこれでもかとあびせる。相手の特殊攻撃を弱める不思議なかべをつくりだす。,Inflicts regular damage.
+わるわるゾーン,あく,とくしゅ,80,15,わるさをアピールして攻撃。相手の物理攻撃を弱める不思議なかべをつくりだす。,Inflicts regular damage.
+すくすくボンバー,くさ,ぶつり,100,10,巨大なツルを生やしタネを撒きちらかして攻撃する。タネは毎ターン相手のHPを吸いとる。,Inflicts regular damage.
+こちこちフロスト,こおり,とくしゅ,100,10,冷たく凍ったくろいきりの結晶で攻撃。全員の能力変化をもとにもどす。,Inflicts regular damage.
+きらきらストーム,フェアリー,とくしゅ,120,5,むせかえるような香りの竜巻で相手をつつんで攻撃。味方の状態異常を回復する。,Inflicts regular damage.
+ブイブイブレイク,ノーマル,ぶつり,,20,イーブイのトレーナーへの大好きな気持ちが強いほど威力があがる体当たり。必ず命中する。,Inflicts regular damage.
+ダブルパンツァー,はがね,ぶつり,60,5,胸のナットを軸に回転して２回続けてうでをたたきつける。相手をひるませることがある。,Inflicts regular damage.  Hits twice in one turn.
+ダイウォール,ノーマル,へんか,,10,相手の攻撃をまったく受けない。連続でだすと失敗しやすい。,"No moves will hit the user for the remainder of this turn.  If the user is last to act this turn, this move will fail.
+
+If the user successfully used detect, endure, protect, quick guard, or wide guard on the last turn, this move has a 50% chance to fail.
+
+lock on, mind reader, and no guard provide a (100 ? accuracy)% chance for moves to break through this move.  This does not apply to one-hit KO moves (fissure, guillotine, horn drill, and sheer cold); those are always blocked by this move.
+
+thunder during rain dance and blizzard during hail have a 30% chance to break through this move.
+
+The following effects are not prevented by this move:
+
+* acupressure from an ally
+* curse's curse effect
+* Delayed damage from doom desire and future sight; however, these moves will be prevented if they are used this turn
+* feint, which will also end this move's protection after it hits
+* imprison
+* perish song
+* shadow force
+* Moves that merely copy the user, such as transform or psych up
+
+This move cannot be selected by assist or metronome."
+ダイマックスほう,ドラゴン,とくしゅ,100,5,コアからビームを放って攻撃。相手がダイマックスしているとダメージは２倍になる。,"Inflicts regular damage, then (if successful) sets light screen on the user's side of the field."
+ねらいうち,みず,とくしゅ,80,15,相手の技を引き受ける特性や技の影響を無視して選んだ相手を攻撃できる。,"Inflicts regular damage, then (if successful) sets reflect on the user's side of the field."
+くらいつく,あく,ぶつり,80,10,お互いひんしになるまで交代ができなくなる。どちらかのポケモンがいなくなると効果は消える。,"Inflicts regular damage, then (if successful) sets leech seed on the target."
+ほおばる,ノーマル,へんか,,10,持っているきのみを食べて防御をぐーんとあげる。,"Inflicts regular damage, then (if successful) removes major status effects from every Pok?mon in the user's party."
+はいすいのじん,かくとう,へんか,,5,自分のすべての能力が上がるが交代したり逃げることができなくなる。,"Inflicts regular damage.  Hits twice in one turn, with a 100% chance to make the target flinch."
+タールショット,いわ,へんか,,15,ねばねばのタールを浴びせて相手の素早さを下げる。相手はほのおが弱点になる。,
+まほうのこな,エスパー,へんか,,20,まほうのこなを浴びせて相手をエスパータイプに変化させる。,
+ドラゴンアロー,ドラゴン,ぶつり,50,10,ドラメシヤで２回攻撃。相手が２匹いるときはそれぞれに１回ずつ攻撃する。,
+おちゃかい,ノーマル,へんか,,10,おちゃかいをひらいて場にいるポケモンがそれぞれ持っているきのみを食べる。,
+たこがため,かくとう,へんか,,15,相手を逃げられなくする。かためられた相手は毎ターン防御と特防が下がる。,
+でんげきくちばし,でんき,ぶつり,85,10,電気をまとったくちばしで刺す。相手より先に攻撃できると技の威力は２倍になる。,
+エラがみ,みず,ぶつり,85,10,かたいエラでかみつく。相手より先に攻撃できると技の威力は２倍になる。,
+コートチェンジ,ノーマル,へんか,,10,不思議な力でお互いの場の効果を入れ替える。,
+ダイバーン,ほのお,ぶつり,100,10,ダイマックスしたポケモンが繰りだすほのおタイプの攻撃。５ターンの間日差しを強くする。,Inflicts regular damage.
+ダイワーム,むし,ぶつり,10,10,ダイマックスしたポケモンが繰りだすむしタイプの攻撃。相手の特攻を下げる。,Inflicts regular damage.
+ダイサンダー,でんき,ぶつり,10,10,ダイマックスしたポケモンが繰りだすでんきタイプの攻撃。５ターンの間エレキフィールドにする。,Inflicts regular damage.
+ダイアタック,ノーマル,ぶつり,10,10,ダイマックスしたポケモンが繰りだすノーマルタイプの攻撃。相手の素早さを下げる。,Inflicts regular damage.
+ダイナックル,かくとう,ぶつり,10,10,ダイマックスしたポケモンが繰りだすかくとうタイプの攻撃。味方の攻撃を上げる。,Inflicts regular damage.
+ダイホロウ,ゴースト,ぶつり,10,10,ダイマックスしたポケモンが繰りだすゴーストタイプの攻撃。相手の防御を下げる。,Inflicts regular damage.
+ダイアイス,こおり,ぶつり,10,10,ダイマックスしたポケモンが繰りだすこおりタイプの攻撃。５ターンの間あられを降らす。,Inflicts regular damage.
+ダイアシッド,どく,ぶつり,10,10,ダイマックスしたポケモンが繰りだすどくタイプの攻撃。味方の特攻を上げる。,Inflicts regular damage.
+ダイストリーム,みず,ぶつり,10,10,ダイマックスしたポケモンが繰りだすみずタイプの攻撃。５ターンの間雨を降らせる。,Inflicts regular damage.
+ダイジェット,ひこう,ぶつり,10,10,ダイマックスしたポケモンが繰りだすひこうタイプの攻撃。味方の素早さを上げる。,Inflicts regular damage.
+ダイフェアリー,フェアリー,ぶつり,10,10,ダイマックスしたポケモンが繰りだすフェアリータイプの攻撃。５ターンの間ミストフィールドにする。,Inflicts regular damage.
+ダイドラグーン,ドラゴン,ぶつり,10,10,ダイマックスしたポケモンが繰りだすドラゴンタイプの攻撃。相手の攻撃を下げる。,Inflicts regular damage.
+ダイサイコ,エスパー,ぶつり,10,10,ダイマックスしたポケモンが繰りだすエスパータイプの攻撃。５ターンの間サイコフィールドにする。,Inflicts regular damage.
+ダイロック,いわ,ぶつり,10,10,ダイマックスしたポケモンが繰りだすいわタイプの攻撃。５ターンの間砂あらしにする。,Inflicts regular damage.
+ダイアース,じめん,ぶつり,10,10,ダイマックスしたポケモンが繰りだすじめんタイプの攻撃。味方の特防を上げる。,Inflicts regular damage.
+ダイアーク,あく,ぶつり,10,10,ダイマックスしたポケモンが繰りだすあくタイプの攻撃。相手の特防を下げる。,Inflicts regular damage.
+ダイソウゲン,くさ,ぶつり,10,10,ダイマックスしたポケモンが繰りだすくさタイプの攻撃。５ターンの間グラスフィールドにする。,Inflicts regular damage.
+ダイスチル,はがね,ぶつり,10,10,ダイマックスしたポケモンが繰りだすはがねタイプの攻撃。味方の防御を上げる。,Inflicts regular damage.
+ソウルビート,ドラゴン,へんか,,5,自分のＨＰを少し削ってすべての能力を上げる。,
+ボディプレス,かくとう,ぶつり,80,10,体をぶつけて攻撃。防御が高いほど与えるダメージが増える。,
+デコレーション,フェアリー,へんか,,15,かざりつけをすることで相手の攻撃と特攻をぐーんと上げる。,
+ドラムアタック,くさ,ぶつり,80,10,ドラムの根っこをドラミングでコントロールしてこうげきすることで相手の素早さを下げる。,Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage.
+トラバサミ,くさ,ぶつり,35,15,トラバサミで捕らえて４－５ターンの間相手をはさんで攻撃する。,"Inflicts regular damage.  For the next 2?5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+
+rapid spin cancels this effect."
+かえんボール,ほのお,ぶつり,120,5,小石を燃やした炎のボールで相手を攻撃する。やけど状態にすることがある。,Inflicts regular damage.  Has a 10% chance to burn the target.
+きょじゅうざん,はがね,ぶつり,100,5,巨大な剣となり切りかかる。相手がダイマックスしているとダメージは２倍になる。,
+きょじゅうだん,はがね,ぶつり,100,5,巨大な盾となりぶつかる。相手がダイマックスしているとダメージは２倍になる。,
+オーラぐるま,でんき,ぶつり,110,10,ほほぶくろに溜めたエネルギーで攻撃し自分の素早さをあげる。モルペコの姿でタイプが変わる。,
+ワイドブレイカー,ドラゴン,ぶつり,60,15,きょうじんなしっぽを激しくふりはらって相手を攻撃する。相手の攻撃を下げる。,Inflicts regular damage.  Lowers the target's Attack by one stage.
+えだづき,くさ,ぶつり,40,40,するどくとがった枝で相手を突いて攻撃する。,Inflicts regular damage.
+オーバードライブ,でんき,とくしゅ,80,10,ギターやベースをかきならして激しく響く大きな振動を相手に与えて攻撃する。,
+りんごさん,くさ,とくしゅ,80,10,すっぱいりんごからつくりだした酸性の液体で攻撃。相手の特防を下げる。,
+Ｇのちから,くさ,ぶつり,80,10,高いところからりんごを落としてダメージを与える。相手の防御を下げる。,Inflicts regular damage.  Lowers the target's Defense by one stage.
+ソウルクラッシュ,フェアリー,ぶつり,75,15,食らうとくじけるほどの勢いで攻撃。相手の特攻を下げる。,Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage.
+ワンダースチーム,フェアリー,とくしゅ,90,10,煙を噴出して相手を攻撃。混乱させることがある。,Inflicts regular damage.  Has a 20% chance to confuse the target.
+いのちのしずく,みず,へんか,,10,不思議な水をふりまいて自分と場にいる味方のＨＰを回復する。,
+ブロッキング,あく,へんか,,10,相手の攻撃をまったく受けない。連続でだすと失敗しやすい。触れると防御ががくっと下がる。,
+どげざつき,あく,ぶつり,80,10,頭を下げるふりをしながら振りみだした髪の毛を突き刺す。攻撃は必ず命中する。,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+スターアサルト,かくとう,ぶつり,150,5,太いクキをふりまわして攻撃。ただし自分もよろめいてしまうため次のターンは動けなくなる。,"Inflicts regular damage.  User loses its next turn to ""recharge"", and cannot attack or switch out during that turn."
+ムゲンダイビーム,ドラゴン,とくしゅ,160,5,本来の姿となったムゲンダイナ最大の攻撃。次のターンは動けなくなる。,"Inflicts regular damage.  User loses its next turn to ""recharge"", and cannot attack or switch out during that turn."
+てっていこうせん,はがね,とくしゅ,140,5,全身から集めたはがねをビームとして激しく撃ちだす。自分もダメージを受けてしまう。,"Inflicts damage, and the user takes damage equal to half of its max HP, rounded up. The user still takes damage if the move is blocked by Protect or Substitute, misses, or if the target has Flash Fire."
+ワイドフォース,エスパー,とくしゅ,80,10,サイコパワーで相手を攻撃する。サイコフィールドの時威力があがりすべての相手にダメージを与える。,Inflicts regular damage.
+アイアンローラー,はがね,ぶつり,130,5,フィールドを破壊しながら攻撃。なんらかのフィールド状態に変わっていないと技は失敗する。,Inflicts regular damage.
+スケイルショット,ドラゴン,ぶつり,25,20,ウロコを撃ちだして攻撃する。２ー５回の間連続でだす。素早さがあがるが防御がさがる。,"Inflicts regular damage two to five times in a row, raising the user's Speed and lowering the user's Defense by one stage each upon last hit."
+メテオビーム,いわ,とくしゅ,120,10,１ターン目に宇宙の力を集めることで特攻があがり２ターン目に相手を攻撃する。,Inflicts regular damage.
+シェルアームズ,どく,とくしゅ,90,10,物理か特殊かより多くダメージを与えられる能力で攻撃する。毒状態にすることがある。,Inflicts regular damage.
+ミストバースト,フェアリー,とくしゅ,100,5,自分の周りにいるすべてを攻撃するが使うと瀕死になる。ミストフィールドで威力があがる。,Inflicts regular damage.
+グラススライダー,くさ,ぶつり,55,20,地面を滑るように相手を攻撃。グラスフィールドの時必ず先制攻撃できる。,Inflicts regular damage.
+ライジングボルト,でんき,とくしゅ,70,20,地面から立ちのぼる電撃で攻撃。相手がエレキフィールドにいる時技の威力が２倍になる。,Inflicts regular damage.
+だいちのはどう,ノーマル,とくしゅ,50,10,フィールドの力を借りて攻撃。使った時のフィールドの状態によって技のタイプと威力が変わる。,Inflicts regular damage.
+はいよるいちげき,むし,ぶつり,70,10,背後からはいより攻撃する。相手の特攻をさげる。,Inflicts regular damage.
+しっとのほのお,ほのお,とくしゅ,70,5,しっとのエネルギーで相手を攻撃。そのターン能力があがったポケモンをやけどの状態にする。,Inflicts regular damage.
+うっぷんばらし,あく,ぶつり,75,5,相手へのいらだちをぶつけて攻撃。そのターンに能力をさげられていると技の威力が２倍になる。,Inflicts regular damage.
+ポルターガイスト,ゴースト,ぶつり,110,5,相手の持ち物をあやつって攻撃。相手が道具を持っていない場合は失敗する。,Inflicts regular damage.
+ふしょくガス,どく,へんか,,40,強い酸性のガスで周りにいるものを包みこみ持っている道具を溶かしてしまう。,Inflicts regular damage.
+コーチング,かくとう,へんか,,10,的確な指導をおこなうことで味方全員の攻撃と防御を上げる。,Inflicts regular damage.
+クイックターン,みず,ぶつり,60,20,攻撃したあとものすごいスピードで戻ってきて控えのポケモンと入れ替わる。,Inflicts regular damage.
+トリプルアクセル,こおり,ぶつり,20,10,３回連続でキックをくりだして攻撃する。技が当たるたびに威力はあがる。,Inflicts regular damage.
+ダブルウイング,ひこう,ぶつり,40,10,翼を相手にぶつけて攻撃する。２回連続でダメージを与える。,Inflicts regular damage.
+ねっさのだいち,じめん,とくしゅ,70,10,熱く焼けた砂を相手にぶつけて攻撃する。やけど状態にすることがある。,Inflicts regular damage.  Has a 30% chance to burn the target.
+ジャングルヒール,くさ,へんか,,10,ジャングルと一体化して自分と場にいる味方のＨＰと状態を回復する。,Inflicts regular damage.
+あんこくきょうだ,あく,ぶつり,75,5,あくの型を極めし強烈な一撃。必ず急所に当たる。,Inflicts regular damage.
+すいりゅうれんだ,みず,ぶつり,25,5,みずの型を極めし流れるような３回の連撃。必ず急所に当たる。,Inflicts regular damage.
+サンダープリズン,でんき,とくしゅ,80,15,ほとばしる電気のおりの中に４ー５ターンの間相手を閉じこめて攻撃する。,Inflicts regular damage.
+ドラゴンエナジー,ドラゴン,とくしゅ,150,5,生命力をパワーに変え相手を攻撃する。自分のＨＰが少ないほど技の威力はさがる。,Inflicts regular damage.
+いてつくしせん,エスパー,とくしゅ,90,10,両目からサイコパワーを撃ちだして攻撃する。こおり状態にすることがある。,Inflicts regular damage.
+もえあがるいかり,あく,とくしゅ,90,10,怒りを炎のようなオーラに変えて攻撃する。相手をひるませることがある。,Inflicts regular damage.
+らいめいげり,かくとう,ぶつり,90,10,雷のような動きで相手を翻弄しながらキックする。相手の防御をさげる。,Inflicts regular damage.
+ブリザードランス,こおり,ぶつり,120,5,吹雪をまとった氷の槍を相手に投げつけて攻撃する。,Inflicts regular damage.
+アストラルビット,ゴースト,とくしゅ,120,5,たくさんの小さな霊体を相手にぶつけて攻撃する。,Inflicts regular damage.
+ぶきみなじゅもん,エスパー,とくしゅ,80,5,強力なサイコパワーで攻撃。相手が最後に使った技のＰＰを３だけ減らす。,Inflicts regular damage.
+フェイタルクロー,どく,ぶつり,80,15,"The user lashes out at the target with ruinous claws, aiming to land a critical hit. This may also leave the target poisoned, paralyzed, or drowsy.",
+バリアーラッシュ,エスパー,ぶつり,70,10,"Cloaking itself in psychic energy, the user slams into the target. This may also raise the user’s defensive stats.",
+パワーシフト,ノーマル,へんか,0,10,説明なし,
+がんせきアックス,いわ,ぶつり,65,15,"The user swings its stone axes at the target, aiming to land a critical hit. Stone splinters left behind by this attack continue to damage the target for several turns.",
+はるのあらし,フェアリー,とくしゅ,100,5,The user attacks by wrapping the target in fierce winds brimming with love and hate. This move’s additional effects depend on the user’s form.,
+しんぴのちから,エスパー,とくしゅ,70,10,"The user strengthens itself with a mysterious power. If it excels in offense, its offensive stats are raised. If it excels in defense, its defensive stats are raised.",
+だいふんげき,ほのお,ぶつり,120,10,"The user rampages and spews vicious flames to inflict damage on the target, then becomes fixated on using this move.",
+ウェーブタックル,みず,ぶつり,120,10,The user shrouds itself in water and slams into the target with its whole body to inflict damage. This also damages the user and raises the user’s action speed.,
+クロロブラスト,くさ,とくしゅ,150,5,The user launches its amassed chlorophyll to inflict damage on the target. This also damages the user and lowers the user's action speed.,
+ひょうざんおろし,こおり,ぶつり,100,10,The user hurls giant chunks of ice at the target to inflict damage.,
+しょうりのまい,かくとう,へんか,0,10,The user performs a dance to usher in victory. This raises the user’s offensive and defensive stats and increases the damage dealt by the user’s moves by 50 percent.,
+ぶちかまし,じめん,ぶつり,120,5,The user smashes into the target in a full-body tackle. This also lowers the user’s defensive stats.,
+どくばりセンボン,どく,ぶつり,60,10,The user launches countless toxic barbs to inflict damage. This may also poison the target. This move’s power is doubled if the target has a status condition.,
+オーラウイング,エスパー,とくしゅ,80,10,The user slashes the target with aura-enriched wings. This also raises the user's action speed. This move has a heightened chance of landing a critical hit.,
+うらみつらみ,ゴースト,とくしゅ,75,10,The user attacks its target with spine-chilling resentment. This may also leave the target with frostbite. This move's power is doubled if the target has a status condition.,
+たてこもる,はがね,へんか,0,10,"The user makes its skin as hard as an iron shield, raising its defensive stats. Incoming moves also become more likely to miss.",
+３ぼんのや,かくとう,ぶつり,90,10,"The user delivers an axe kick, then fires three arrows. This raises the chance of its future attacks landing critical hits and also lowers the target's defensive stats.",
+ひゃっきやこう,ゴースト,とくしゅ,60,15,The user attacks with myriad fireballs. This may also leave the target with a burn. This move's power is doubled if the target has a status condition.,
+ひけん・ちえなみ,あく,ぶつり,65,15,"The user slashes its shell blade at the target, aiming to land a critical hit. Shell splinters left behind by this attack will continue to damage the target for several turns.",
+こがらしあらし,ひこう,とくしゅ,100,10,The user attacks with savagely cold winds that cause both body and spirit to tremble. This may also leave the target with frostbite.,
+かみなりあらし,でんき,とくしゅ,100,10,The user summons a thunderous tempest and savagely attacks with lightning and wind. This may also leave the target with paralysis.,
+ねっさのあらし,じめん,とくしゅ,100,10,The user attacks by wrapping the target in fierce winds and searingly hot sand. This also leaves the target with a burn.,
+みかづきのいのり,エスパー,へんか,0,5,The user heals its own status conditions and restores its HP. Incoming moves also become more likely to miss.,
+ブレイブチャージ,エスパー,へんか,0,10,"The user lifts its spirits, healing its own status conditions and raising its offensive and defensive stats.",
+テラバースト,ノーマル,とくしゅ,80,10,"If the user has Terastallized, it unleashes energy of its Tera Type. This move inflicts damage using the Attack or Sp. Atk stat?whichever is higher for the user.",
+スレッドトラップ,むし,へんか,0,10,"The user spins a silken trap, protecting itself from damage while lowering the Speed stat of any attacker that makes direct contact.",
+かかとおとし,かくとう,ぶつり,120,10,"The user attacks by kicking up into the air and slamming its heel down upon the target. This may also confuse the target. If it misses, the user takes damage instead.",
+おはかまいり,ゴースト,ぶつり,50,10,"The user attacks to avenge its allies. The more defeated allies there are in the user's party, the greater the move's power.",
+ルミナコリジョン,エスパー,とくしゅ,80,10,The user attacks by unleashing a peculiar light that even affects the mind. This also harshly lowers the target's Sp. Def stat.,
+いっちょうあがり,ドラゴン,ぶつり,80,10,"The user attacks with elegant poise. If the user has a Tatsugiri in its mouth, this move boosts one of the user's stats based on the Tatsugiri's form.",
+ジェットパンチ,みず,ぶつり,60,15,The user summons a torrent around its fist and punches at blinding speed. This move always goes first.,
+ハバネロエキス,くさ,へんか,0,15,"The user emits an incredibly spicy extract, sharply boosting the target's Attack stat and harshly lowering the target's Defense stat.",
+ホイールスピン,はがね,ぶつり,100,5,"The user spins furiously by straining its legs, inflicting damage on the target. This also harshly lowers the user's Speed stat.",
+ネズミざん,ノーマル,ぶつり,20,10,The user’s fellows gather in droves to perform a combo attack that hits the target one to ten times in a row.,
+アイススピナー,こおり,ぶつり,80,15,"The user covers its feet in thin ice and twirls around, slamming into the target. This move's spinning motion also destroys the terrain.",
+きょけんとつげき,ドラゴン,ぶつり,120,5,"The user throws its entire body into a reckless charge. After this move is used, attacks on the user cannot miss and will inflict double damage until the user’s next turn.",
+さいきのいのり,ノーマル,へんか,0,1,"The user bestows a loving blessing, reviving a party Pok?mon that has fainted and restoring half that Pok?mon's max HP.",
+しおづけ,いわ,ぶつり,40,15,"The user salt cures the target, inflicting damage every turn. Steel and Water types are more strongly affected by this move.",
+トリプルダイブ,みず,ぶつり,30,10,"The user performs a perfectly timed triple dive, hitting the target with splashes of water three times in a row.",
+キラースピン,どく,ぶつり,30,15,"The user performs a spin attack that can also eliminate the effects of such moves as Bind, Wrap, and Leech Seed. This also poisons opposing Pok?mon.",
+うつしえ,ノーマル,へんか,0,10,The user captures the very essence of the target in a sketch. This changes the Abilities of the user and its ally Pok?mon to that of the target.,
+みをけずる,ノーマル,へんか,0,10,"The user sharply boosts its Attack, Sp. Atk, and Speed stats by using its own HP.",
+ドゲザン,あく,ぶつり,85,10,The user slashes at the target after kowtowing to make the target let down its guard. This attack never misses.,
+トリックフラワー,くさ,ぶつり,70,10,The user throws a rigged bouquet of flowers at the target. This attack never misses and always lands a critical hit.,
+フレアソング,ほのお,とくしゅ,80,10,"The user blows out raging flames as if singing a song, scorching the target. This also boosts the user's Sp. Atk stat.",
+アクアステップ,みず,ぶつり,80,10,The user toys with the target and attacks it using light and fluid dance steps. This also boosts the user's Speed stat.,
+レイジングブル,ノーマル,ぶつり,90,10,"The user performs a tackle like a raging bull. This move's type depends on the user's form. It can also break barriers, such as Light Screen and Reflect.",
+ゴールドラッシュ,はがね,とくしゅ,120,5,The user attacks by throwing out a mass of coins. This also lowers the user's Sp. Atk stat. Money is earned after the battle.,
+サイコブレイド ,エスパー,ぶつり,80,15,The user rends the target with an ethereal blade. This move's power is boosted by 50 percent if the user is on Electric Terrain.,
+ハイドロスチーム,みず,とくしゅ,80,15,The user blasts the target with boiling-hot water. This move's power is not lowered in harsh sunlight but rather boosted by 50 percent.,
+カタストロフィ,あく,とくしゅ,1,10,The user summons a ruinous disaster. This cuts the target’s HP in half.,
+アクセルブレイク,かくとう,ぶつり,100,5,"The user transforms and crashes to the ground, causing a massive prehistoric explosion. This move's power is boosted more than usual if it’s a supereffective hit.",
+イナズマドライブ,でんき,とくしゅ,100,5,"The user races forward at ultrafast speeds, piercing its target with futuristic electricity. This move's power is boosted more than usual if it's a supereffective hit.",
+しっぽきり,ノーマル,へんか,0,10,The user creates a substitute for itself using its own HP before switching places with a party Pok?mon in waiting.,
+さむいギャグ,こおり,へんか,0,10,説明なし,
+おかたづけ,ノーマル,へんか,0,10,"The user tidies up and removes the effects of Spikes, Stealth Rock, Sticky Web, Toxic Spikes, and Substitute. This also boosts the user’s Attack and Speed stats.",
+ゆきげしき,こおり,へんか,0,10,The user summons a snowstorm lasting five turns. This boosts the Defense stats of Ice types.,
+とびつく,むし,ぶつり,50,20,The user attacks by pouncing on the target. This also lowers the target's Speed stat.,
+くさわけ,くさ,ぶつり,50,20,The user attacks suddenly as if leaping out from tall grass. The user's nimble footwork boosts its Speed stat.,
+ひやみず,みず,とくしゅ,50,20,The user attacks the target by showering it with water that's so cold it saps the target's power. This also lowers the target's Attack stat.,
+ハイパードリル,ノーマル,ぶつり,100,5,The user spins the pointed part of its body at high speed to pierce the target. This attack can hit a target using a move such as Protect or Detect.,
+ツインビーム,エスパー,とくしゅ,40,10,The user shoots mystical beams from its eyes to inflict damage. The target is hit twice in a row.,
+ふんどのこぶし,ゴースト,ぶつり,50,10,"The user converts its rage into energy to attack. The more times the user has been hit by attacks, the greater the move's power.",
+アーマーキャノン,ほのお,とくしゅ,120,5,The user shoots its own armor out as blazing projectiles. This also lowers the user’s Defense and Sp. Def stats.,
+むねんのつるぎ,ほのお,ぶつり,90,10,The user focuses its bitter feelings toward the world of the living into a slashing attack. The user's HP is restored by up to half the damage taken by the target.,
+でんこうそうげき,でんき,ぶつり,120,5,"The user discharges all the electricity from its body to perform a high-damage attack. After using this move, the user will no longer be Electric type.",
+デカハンマー,はがね,ぶつり,160,5,The user swings its whole body around to attack with its huge hammer. This move can't be used twice in a row.,
+ほうふく,あく,ぶつり,1,10,The user retaliates with much greater force against the opponent that last inflicted damage on it.,
+アクアカッター,みず,ぶつり,70,20,The user expels pressurized water to cut at the target like a blade. This move has a heightened chance of landing a critical hit.,
+バーンアクセル,ほのお,ぶつり,80,10,説明なし,
+ダークアクセル,あく,ぶつり,80,10,説明なし,
+ポイズンアクセル,どく,ぶつり,100,10,説明なし,
+ファイトアクセル,かくとう,ぶつり,100,10,説明なし,
+マジカルアクセル,フェアリー,ぶつり,100,10,説明なし,
+ブラッドムーン,ノーマル,とくしゅ,140,5,The user unleashes the full brunt of its spirit from a full moon that shines as red as blood. This move can't be used twice in a row.,
+シャカシャカほう,くさ,とくしゅ,80,15,The user fires a blast of tea that it mixed. The user's HP is restored by up to half the damage taken by the target. This may also leave the target with a burn.,
+みずあめボム,くさ,とくしゅ,60,10,"The user sets off an explosion of sticky candy syrup, which coats the target and causes the target's Speed stat to drop each turn for three turns.",
+ツタこんぼう,くさ,ぶつり,100,10,"The user strikes with an ivy-wrapped cudgel. This move's type changes depending on the mask worn by the user, and it has a heightened chance of landing a critical hit.",
+エレクトロビーム,でんき,とくしゅ,130,10,"The user gathers electricity on the first turn, boosting its Sp. Atk stat, then fires a high-voltage shot on the next turn. The shot will be fired immediately in rain.",
+テラクラスター,ノーマル,とくしゅ,120,5,"With the power of its crystals, the user bombards and eliminates the target. When used by Terapagos in its Stellar Form, this move damages all opposing Pok?mon.",
+きまぐレーザー,ドラゴン,とくしゅ,80,5,"The user shoots a beam of light to inflict damage. Sometimes all the user's heads shoot beams in unison, doubling the move's power.",
+かえんのまもり,ほのお,へんか,0,10,The user's intensely hot fur protects it from attacks and also burns any attacker that makes direct contact with it.,
+じんらい,でんき,とくしゅ,70,5,This move enables the user to attack first with a jolt of electricity. This move fails if the target is not readying an attack.,
+パワフルエッジ,いわ,ぶつり,95,5,The user wields the light that has accumulated atop its head to cleave the target. This move hits even if the target protects itself.,
+タキオンカッター,はがね,とくしゅ,50,10,The user attacks by launching particle blades at the target twice in a row. This attack never misses.,
+ハードプレス,はがね,ぶつり,0,10,"The target is crushed with an arm, a claw, or the like to inflict damage. The more HP the target has left, the greater the move's power.",
+ドラゴンエール,ドラゴン,へんか,0,15,The user raises its allies’ morale with a draconic cry so that their future attacks have a heightened chance of landing critical hits. This rouses Dragon types more.,
+みわくのボイス,フェアリー,とくしゅ,80,10,The user attacks the target using its angelic voice. This also confuses the target if its stats have been boosted during the turn.,
+やけっぱち,ほのお,ぶつり,75,10,"Spurred by desperation, the user attacks the target. This move's power is doubled if the user's previous move failed.",
+サンダーダイブ,でんき,ぶつり,100,15,"The user electrifies its body and drops onto the target to inflict damage. If this move misses, the user takes damage instead.",
+サイコノイズ,エスパー,とくしゅ,75,10,"The user attacks the target with unpleasant sound waves. For two turns, the target is prevented from recovering HP through moves, Abilities, or held items.",
+はやてがえし,かくとう,ぶつり,65,15,"The user reacts to the target's movement and strikes with the heel of its palm, making the target flinch. This move fails if the target is not readying a priority move.",
+じゃどくのくさり,どく,とくしゅ,100,5,"The user pours toxins into the target by wrapping them in a toxic, corrosive chain. This may also leave the target badly poisoned.",

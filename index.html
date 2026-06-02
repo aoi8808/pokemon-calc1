@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>ポケモン ダメージ計算機</title>
+</head>
+
+<div>
+    <label>ポケモンリスト(CSV)を読み込む:</label>
+    <input type="file" id="pokeCsvInput" accept=".csv">
+</div>
+<div>
+    <label>技リスト(CSV)を読み込む:</label>
+    <input type="file" id="moveCsvInput" accept=".csv">
+</div>
+
+
+<body>
+    <h1>ダメージ計算機</h1>
+
+    <h3>ポケモン1</h3>
+    <label>ポケモンを選ぶ</label>
+    <select id="attackerSearch">
+        <option value="">ーー選択してくださいーー</option>
+    </select>
+    <br>
+
+    <label>攻撃ポケモン検索:</label>
+<input type="text" id="atkSearchInput" placeholder="名前で検索 (例: ルカリオ)">
+<select id="attackerSearch"></select>
+<br><br>
+
+
+        <label>特性: </label>
+        <select id="atkTraitSelect">
+            <option value="0">ーー選択してくださいーー</option>
+            <option value="1">ちからもち</option>
+        </select>
+        <br><br>
+
+<!--<label>攻撃ポイント(0〜32):</label>
+<input type="number" id="atkEvInput" value="32" min="0" max="32">-->
+
+
+
+    <label>攻撃ランク:</label>
+    <select id="atkRankSelect">
+      <option value="6">+6</option> <option value="5">+5</option> <option value="4">+4</option>
+      <option value="3">+3</option> <option value="2">+2 (剣舞)</option> <option value="1">+1</option>
+      <option value="0" selected>0 (通常)</option>
+      <option value="-1">-1 (威嚇)</option> <option value="-2">-2</option> <option value="-3">-3</option>
+      <option value="-4">-4</option> <option value="-5">-5</option> <option value="-6">-6</option>
+    </select>
+    <br><br>
+
+    <label>状態:</label>
+    <select id="situationSelect">
+        <option value="1" selected>通常</option>
+        <option value="0.5">やけど</option>
+    </select>
+    <br><br>
+
+    <label>技名: </label>
+        <select id="moveSearch">
+            <option value="">ーー選択してくださいーー</option>
+        </select>
+        <br><br>
+
+        <label>技検索:</label>
+        <input type="text" id="moveSearchInput" placeholder="技名で検索">
+        <select id="moveSearch"></select>
+
+            
+    <label>技の威力: </label><input type="number" id="powerInput" value="90"><br>
+    
+    <label>使うステータス:</label>
+    <select id="attackTypeSelect">
+        <option value="attack">攻撃（物理）</option>
+        <option value="spAttack">特攻（特殊）</option>
+    </select>
+    <br>
+    
+    <label>攻撃力（実数値）:</label><input type="number" id="attackInput" value="150"> <br>   
+    <label>素早さ（実数値）:</label><input type="number" id="speedInput1" value="100">
+
+    <br><br>
+
+    
+    <h3>ポケモン2</h3>
+    <label>ポケモンを選ぶ</label>
+    <select id="defenderSearch">
+        <option value="">ーー選択してくださいーー</option>
+        </select>
+        <br>
+
+    <label>防御ポケモン検索:</label>
+    <input type="text" id="defSearchInput" placeholder="名前で検索 (例: カビゴン)">
+    <select id="defenderSearch"></select>
+    <br><br>    
+
+
+        <label>特性: </label>
+        <select id="defTraitSelect">
+            <option value="0">ーー選択してくださいーー</option>
+            <option value="1">あついしぼう</option>
+        </select>
+        <br><br>
+
+<!--<label>防御ポイント(0〜32):</label>  ポケモンチャンピオンズ形式
+<input type="number" id="defEvInput" value="32" min="0" max="32">
+
+<label>HPポイント(0〜32):</label>
+<input type="number" id="hpEvInput" value="32" min="0" max="32">
+<br><br>-->
+
+
+        <label>防御ランク:</label>
+    <select id="defRankSelect">
+    <option value="6">+6</option> <option value="5">+5</option> <option value="4">+4</option>
+    <option value="3">+3</option> <option value="2">+2 (鉄壁)</option> <option value="1">+1</option>
+    <option value="0" selected>0 (通常)</option>
+    <option value="-1">-1</option> <option value="-2">-2</option> <option value="-3">-3</option>
+    <option value="-4">-4</option> <option value="-5">-5</option> <option value="-6">-6</option>
+    </select>
+    <br><br>
+
+    <label>壁:</label>
+    <select id="barrierSelect">
+        <option value="none" selected>通常</option>
+        <option value="reflect">リフレクター</option>
+        <option value="lightScreen">ひかりのかべ</option>
+    </select>
+    <br><br>
+        
+        <label>受けるステータス
+            <select id="defenceTypeSelect">
+                <option value="defence">防御（物理）</option>
+                <option value="spDefence">特防（特殊）</option>
+            </select>
+        </label>
+        <br>
+
+        <label>HP（実数値）<input type="number" id="hpInput" value="175"></label>
+        <label>守備力（実数値）<input type="number" id="defenceInput" value="100"></label><br>
+        <label>素早さ（実数値）:</label><input type="number" id="speedInput2" value="100">
+
+        <br><br>
+
+<h3>バトル条件</h3>
+    <label>
+        <input type="checkbox" id="fieldCheck">フィールド
+    </label>
+    <br><br>
+
+    <label>
+        <input type="checkbox" id="stabCheck"> タイプ一致 (1.5倍)
+    </label>
+    <br><br>
+
+    <label>                                            
+        <input type="checkbox" id="vitalCheck">急所    
+    </label>                                                
+    <br><br>
+
+<label>天候: </label>
+    <select id="weatherSelect">
+        <option value="none" selected>なし</option>
+        <option value="sun">はれ（炎1.5倍 / 水0.5倍）</option>
+        <option value="rain">あめ（水1.5倍 / 炎0.5倍）</option>
+    </select>
+    <br><br>
+
+
+
+    <label>タイプ相性: </label>
+    <select id="typeMatch">
+        <option value="4">ちょうばつぐん (4倍)</option>
+        <option value="2">ばつぐん (2倍)</option>
+        <option value="1" selected>ふつう (1倍)</option>
+        <option value="0.5">いまひとつ (0.5倍)</option>
+    </select>
+    <br><br>
+
+    <label>持ち物: </label>
+    <select id="itemSelect">
+        <option value="none" selected>なし</option>
+        <option value="typeBoost">タイプ強化アイテム（1.2倍）</option>
+    </select>
+    <br><br>
+    <button id="calcButton">ダメージを計算する！</button>
+    <h2 id="resultArea">ここに結果が出ます</h2>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+
