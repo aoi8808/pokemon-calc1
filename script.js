@@ -585,7 +585,7 @@ calcButton.addEventListener("click", function() {
     let defence = Number(defenceInput.value);
     //let modifier = Number(typeMatch.value);
 
-    // ★追加：やけどの倍率と、物理/特殊の判定を取得
+    // やけどの倍率と、物理/特殊の判定を取得
     let situationModifier = Number(situationSelect.value); 
     let statType = attackTypeSelect.value; // "attack"（物理）か "spAttack"（特殊）かが入っている
 
@@ -594,14 +594,14 @@ calcButton.addEventListener("click", function() {
     let defRank = Number(defRankSelect.value);
 
 // 【計算ボタンクリックの処理内】
-// 1. まず技のタイプを取得する
+// 技のタイプを取得する
     let moveIndex = moveSearch.value;
     let moveType = "";
     if(moveIndex !== ""){
     moveType = moveDex[moveIndex].type;
     }    
 
-// 2. その後にタイプ相性の計算をする（関数名と引数の順番を修正）
+// その後にタイプ相性の計算をする（関数名と引数の順番を修正）
     let defIndex = defenderSearch.value;
     let defType1 = pokedex[defIndex].type1;
     let defType2 = pokedex[defIndex].type2;
@@ -620,16 +620,16 @@ calcButton.addEventListener("click", function() {
 
     let defTrait = document.getElementById("defTraitSelect").value;
 
-    // ★追加：壁の状態を取得
+    // 壁の状態を取得
     let barrier = barrierSelect.value;
 
     let weather = document.getElementById("weatherSelect").value; // 天候の選択状態を取得（id="weatherSelect" から取得すると仮定）
 
-    // ★追加: 持ち物の選択状態を取得する
+    // 持ち物の選択状態を取得する
     let item = itemSelect.value;
 
     // 計算関数を呼び出す
-    // ★修正: 関数で定義した順番通りにデータを渡す！
+    // 関数で定義した順番通りにデータを渡す！
     let damageRange = calculateDamage(power, attack,  defence, atkRank, defRank, isStab, vital, modifier, item, field, defTrait, moveType, weather, situationModifier, statType, barrier);
     let minDamage = damageRange[0];
     let maxDamage = damageRange[1];
@@ -666,12 +666,12 @@ hitCountText = "（4発以上）";
 async function initApp() {
     try {
         // 1. ポケモンのCSVを自動取得
-        const pokeResponse = await fetch('ポケモンリスト.csv');
+        const pokeResponse = await fetch('./pokemons.csv');
         const pokeText = await pokeResponse.text();
         pokedex = parsePokemonCSV(pokeText);
 
         // 2. 技のCSVを自動取得
-        const moveResponse = await fetch('技一覧.csv');
+        const moveResponse = await fetch('./moves.csv');
         const moveText = await moveResponse.text();
         moveDex = parseMoveCSV(moveText);
 
